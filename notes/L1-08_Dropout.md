@@ -220,9 +220,9 @@ Dropout 给我的启发：**有时候"添乱"是为了"更稳"**。
 
 ### 后续推荐
 - 🎯 BatchNorm（2015，互补的正则化）
-- 🎯 [L1-09 LayerNorm](./L1-09_LayerNorm.md)（Transformer 时代的归一化）
+- 🎯 [L1-09 LayerNorm](notes/L1-09_LayerNorm.md)（Transformer 时代的归一化）
 - 🎯 Variational Dropout（用于 RNN）
-- 🎯 [L1-01 Attention Is All You Need](./L1-01_Attention_Is_All_You_Need.md)（Transformer 中 dropout 的位置）
+- 🎯 [L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)（Transformer 中 dropout 的位置）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 ```python
@@ -250,4 +250,4 @@ class MLP(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-09 LayerNorm](./L1-09_LayerNorm.md)（另一种正则化思想） |
+| 下一站 | → [L1-09 LayerNorm](notes/L1-09_LayerNorm.md)（另一种正则化思想） |

@@ -224,7 +224,7 @@ BF16 给我的启发：**"硬件 / 软件协同设计"是 AI 系统的真护城�
 - 📚 IEEE 754 浮点标准基础
 
 ### 后续推荐
-- 🎯 [L3-22 QLoRA](./L3-22_QLoRA.md)（4-bit NF4 量化）
+- 🎯 [L3-22 QLoRA](notes/L3-22_QLoRA.md)（4-bit NF4 量化）
 - 🎯 NVIDIA Transformer Engine（FP8 训练库）
 - 🎯 LLM.int8()（INT8 推理）
 
@@ -253,4 +253,4 @@ for batch in loader:
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-30 BigBird](./L2-30_BigBird.md) |
+| 下一站 | → [L2-30 BigBird](notes/L2-30_BigBird.md) |

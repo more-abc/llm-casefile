@@ -170,9 +170,9 @@ graph TD
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-15 RAG](./L3-15_RAG.md)（解决知识时效）
-- 📚 [L3-13 Toolformer](./L3-13_Toolformer.md)（工具调用）
-- 📚 [L3-14 WebGPT](./L3-14_WebGPT.md)（实时检索）
+- 📚 [L3-15 RAG](notes/L3-15_RAG.md)（解决知识时效）
+- 📚 [L3-13 Toolformer](notes/L3-13_Toolformer.md)（工具调用）
+- 📚 [L3-14 WebGPT](notes/L3-14_WebGPT.md)（实时检索）
 
 ---
 
@@ -185,4 +185,4 @@ graph TD
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-25 Sycophancy](./L4-25_Sycophancy.md) |
+| 下一站 | → [L4-25 Sycophancy](notes/L4-25_Sycophancy.md) |

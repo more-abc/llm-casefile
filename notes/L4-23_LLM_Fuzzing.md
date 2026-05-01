@@ -175,10 +175,10 @@ LLM Fuzzing 让我意识到：**软件工程 50 年积累的方法论可以"映�
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-22 Red Teaming LLM](./L4-22_Red_Teaming_LLM.md)
-- 📚 [L4-21 RLAP Safety](./L4-21_RLAP_Safety.md)
-- 📚 [L4-25 Sycophancy](./L4-25_Sycophancy.md)
-- 📚 [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md)
+- 📚 [L4-22 Red Teaming LLM](notes/L4-22_Red_Teaming_LLM.md)
+- 📚 [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md)
+- 📚 [L4-25 Sycophancy](notes/L4-25_Sycophancy.md)
+- 📚 [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md)
 
 ---
 
@@ -191,4 +191,4 @@ LLM Fuzzing 让我意识到：**软件工程 50 年积累的方法论可以"映�
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-25 Sycophancy](./L4-25_Sycophancy.md) |
+| 下一站 | → [L4-25 Sycophancy](notes/L4-25_Sycophancy.md) |

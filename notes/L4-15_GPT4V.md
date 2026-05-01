@@ -253,8 +253,8 @@ GPT-4V 给我最大的启发是**"感知维度决定智能高度"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-14 GPT-4](./L2-14_GPT4.md)（GPT-4 的语言能力）
-- 📚 [L1-06 CLIP](./L1-06_CLIP.md)（视觉编码的基础）
+- 📚 [L2-14 GPT-4](notes/L2-14_GPT4.md)（GPT-4 的语言能力）
+- 📚 [L1-06 CLIP](notes/L1-06_CLIP.md)（视觉编码的基础）
 
 ### 后续推荐
 - 🎯 **必读**：LLaVA（L4-16，开源视觉方案）
@@ -314,4 +314,4 @@ print(response.choices[0].message.content)
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-16 LLaVA：开源视觉方案](./L4-16_LLaVA.md) |
+| 下一站 | → [L4-16 LLaVA：开源视觉方案](notes/L4-16_LLaVA.md) |

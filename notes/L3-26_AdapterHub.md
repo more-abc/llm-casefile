@@ -159,9 +159,9 @@ AdapterHub 让我相信：**软件工程的胜利往往比算法本身更深远*
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)
-- 📚 [L3-27 Prefix Tuning](./L3-27_Prefix_Tuning.md)
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)
+- 📚 [L3-27 Prefix Tuning](notes/L3-27_Prefix_Tuning.md)
 
 ### 🚀 实践入口
 [adapterhub.ml](https://adapterhub.ml/) 模型库 + `pip install adapter-transformers`。
@@ -177,4 +177,4 @@ AdapterHub 让我相信：**软件工程的胜利往往比算法本身更深远*
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-27 Prefix Tuning](./L3-27_Prefix_Tuning.md) |
+| 下一站 | → [L3-27 Prefix Tuning](notes/L3-27_Prefix_Tuning.md) |

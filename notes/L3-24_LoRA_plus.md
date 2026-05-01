@@ -152,9 +152,9 @@ LoRA+ 是典型的 "**理论简单 + 工程零成本 + 效果显著**" 范例。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)（必读前置）
-- 📚 [L3-25 DoRA](./L3-25_DoRA.md)
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)（必读前置）
+- 📚 [L3-25 DoRA](notes/L3-25_DoRA.md)
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
 
 ### 🚀 实践入口
 HuggingFace `peft` 库已原生支持 LoRA+。
@@ -170,4 +170,4 @@ HuggingFace `peft` 库已原生支持 LoRA+。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-25 DoRA](./L3-25_DoRA.md) |
+| 下一站 | → [L3-25 DoRA](notes/L3-25_DoRA.md) |

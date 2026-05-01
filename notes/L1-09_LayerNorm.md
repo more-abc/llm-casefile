@@ -212,8 +212,8 @@ LayerNorm 给我最大的启发是**"秩序的力量"**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-24 RMSNorm](./L2-24_RMSNorm.md)（LayerNorm 的"断舍离"版本）
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（LayerNorm 的应用场景）
+- 📚 [L2-24 RMSNorm](notes/L2-24_RMSNorm.md)（LayerNorm 的"断舍离"版本）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（LayerNorm 的应用场景）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA 架构解析（看 LayerNorm 的实际使用）
@@ -277,4 +277,4 @@ class TransformerBlock(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-10 Adam：优化器的"因材施教"](./L1-10_Adam.md) |
+| 下一站 | → [L1-10 Adam：优化器的"因材施教"](notes/L1-10_Adam.md) |

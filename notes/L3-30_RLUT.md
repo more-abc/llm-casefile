@@ -137,10 +137,10 @@ graph TD
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)
-- 📚 [L2-09 PPO](./L2-09_PPO.md)
-- 📚 [L2-14 DPO](./L2-14_DPO.md)
-- 📚 [L2-17 RLAIF](./L2-17_RLAIF.md)
+- 📚 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)
+- 📚 [L2-09 PPO](notes/L2-09_PPO.md)
+- 📚 [L2-14 DPO](notes/L2-14_DPO.md)
+- 📚 [L2-17 RLAIF](notes/L2-17_RLAIF.md)
 
 ---
 

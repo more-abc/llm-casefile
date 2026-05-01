@@ -255,8 +255,8 @@ GQA 给我最大的启发是**"中庸之道"的工程价值**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-22 MQA](./L2-22_MQA.md)（GQA 的对比基准）
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（Attention 基础）
+- 📚 [L2-22 MQA](notes/L2-22_MQA.md)（GQA 的对比基准）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（Attention 基础）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA 2 架构解析
@@ -324,4 +324,4 @@ class GQA(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-02 ST-MoE：专家和谐共处的调解员](./L3-02_ST_MoE.md) |
+| 下一站 | → [L3-02 ST-MoE：专家和谐共处的调解员](notes/L3-02_ST_MoE.md) |

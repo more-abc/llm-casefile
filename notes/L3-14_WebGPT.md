@@ -265,8 +265,8 @@ WebGPT 给我最大的启发是**"知道去哪里找答案"比"记住所有答�
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（CoT 是 WebGPT 推理的基础）
-- 📚 [L3-13 Toolformer](./L3-13_Toolformer.md)（工具使用的基础）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（CoT 是 WebGPT 推理的基础）
+- 📚 [L3-13 Toolformer](notes/L3-13_Toolformer.md)（工具使用的基础）
 
 ### 后续推荐
 - 🎯 **必读**：RAG（L3-15）、ChatGPT Plugins
@@ -322,4 +322,4 @@ result = agent.run(
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-15 RAG：检索增强生成](./L3-15_RAG.md) |
+| 下一站 | → [L3-15 RAG：检索增强生成](notes/L3-15_RAG.md) |

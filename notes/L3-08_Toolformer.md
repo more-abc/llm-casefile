@@ -208,7 +208,7 @@ GPT-3：1.6%（只能记到训练截止时间的事实）
 1. **Toolformer 是 OpenAI Function Calling 的概念原型**：6 个月后 (2023-06) GPT-4 推出 Function Calling，本质就是 Toolformer 的工程化产品化版本。
 2. **"loss 当裁判"是核心创新**：用 LM 自身的预测损失作为标签，绕开了人工标注瓶颈——这个思想后来在 Self-Instruct、Self-Reward、RLAIF 里反复出现。
 3. **小模型 + 工具 > 大模型**：6.7B Toolformer 击败 175B GPT-3——验证了"知识与计算外置 + 模型只做推理"的路线，对**端侧 AI** 有深远影响。
-4. **没解决"组合调用"**：Toolformer 一次只插一个 API，无法处理"先搜索再计算"这种链式调用——这是 [L3-07 ReAct](./L3-07_ReAct.md) 的强项，两者其实互补。
+4. **没解决"组合调用"**：Toolformer 一次只插一个 API，无法处理"先搜索再计算"这种链式调用——这是 [L3-07 ReAct](notes/L3-07_ReAct.md) 的强项，两者其实互补。
 
 ---
 
@@ -276,15 +276,15 @@ Toolformer 给我最深的启发：**"自监督的本质是把信号从外部转
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（Prompt 时代教工具的代表）
-- 📚 [L1-11 GPT-3](./L1-11_GPT3.md)（in-context learning 基座）
-- 📚 [L1-04 GPT-2](./L1-04_GPT2.md)（语言建模目标的力量）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（Prompt 时代教工具的代表）
+- 📚 [L1-11 GPT-3](notes/L1-11_GPT3.md)（in-context learning 基座）
+- 📚 [L1-04 GPT-2](notes/L1-04_GPT2.md)（语言建模目标的力量）
 
 ### 后续推荐
-- 🎯 [L3-13 Toolformer 深度版](./L3-13_Toolformer.md)（同篇论文的另一视角）
-- 🎯 [L3-13b Tool Learning Code Llama](./L3-13_Tool_Learning_CodeLlama.md)
-- 🎯 [L3-11 HuggingGPT](./L3-11_HuggingGPT.md)（多工具调度）
-- 🎯 [L3-12 Visual Agent](./L3-12_Visual_Agent.md)（工具学习的多模态版）
+- 🎯 [L3-13 Toolformer 深度版](notes/L3-13_Toolformer.md)（同篇论文的另一视角）
+- 🎯 [L3-13b Tool Learning Code Llama](notes/L3-13_Tool_Learning_CodeLlama.md)
+- 🎯 [L3-11 HuggingGPT](notes/L3-11_HuggingGPT.md)（多工具调度）
+- 🎯 [L3-12 Visual Agent](notes/L3-12_Visual_Agent.md)（工具学习的多模态版）
 - 🎯 OpenAI Function Calling 工程指南
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
@@ -320,4 +320,4 @@ out = toolformer.generate(prompt)
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-05-01 |
-| 下一站 | → [L3-09 Generative Agents](./L3-09_Generative_Agents.md) |
+| 下一站 | → [L3-09 Generative Agents](notes/L3-09_Generative_Agents.md) |

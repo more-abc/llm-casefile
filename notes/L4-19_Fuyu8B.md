@@ -148,10 +148,10 @@ Fuyu-8B 让我重新思考"模块化"的代价：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)
-- 📚 [L4-16 LLaVA](./L4-16_LLaVA.md)
-- 📚 [L4-17 MiniGPT-4](./L4-17_MiniGPT4.md)
-- 📚 [L4-18 CogVLM](./L4-18_CogVLM.md)
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)
+- 📚 [L4-16 LLaVA](notes/L4-16_LLaVA.md)
+- 📚 [L4-17 MiniGPT-4](notes/L4-17_MiniGPT4.md)
+- 📚 [L4-18 CogVLM](notes/L4-18_CogVLM.md)
 
 ### 🚀 实践入口
 [huggingface.co/adept/fuyu-8b](https://huggingface.co/adept/fuyu-8b)
@@ -167,4 +167,4 @@ Fuyu-8B 让我重新思考"模块化"的代价：
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-20 Kosmos-1](./L4-20_Kosmos1.md) |
+| 下一站 | → [L4-20 Kosmos-1](notes/L4-20_Kosmos1.md) |

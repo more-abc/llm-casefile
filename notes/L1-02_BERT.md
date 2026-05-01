@@ -257,7 +257,7 @@ BERT 给我的最大启发不是技术，是**叙事的力量**：
 ## 7️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（必读）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（必读）
 - 📚 L1-07 Word2Vec
 
 ### 后续推荐

@@ -232,7 +232,7 @@ Word2Vec 给我最大的启发：**"分布即意义"是深刻的语言哲学**�
 - 🎯 GloVe（全局共现）
 - 🎯 FastText（subword）
 - 🎯 ELMo（contextualized embedding）
-- 🎯 [L1-02 BERT](./L1-02_BERT.md)（contextualized 的最终形态）
+- 🎯 [L1-02 BERT](notes/L1-02_BERT.md)（contextualized 的最终形态）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 ```python
@@ -253,4 +253,4 @@ print(model.most_similar(positive=['king', 'woman'], negative=['man'])[:3])
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-02 BERT](./L1-02_BERT.md)（contextualized embedding 的胜利） |
+| 下一站 | → [L1-02 BERT](notes/L1-02_BERT.md)（contextualized embedding 的胜利） |

@@ -241,8 +241,8 @@ Toolformer 给我最大的启发是**"AI 的工具使用能力 = 文明的下一
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（CoT 是工具使用的基础）
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（ReAct 整合了工具使用）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（CoT 是工具使用的基础）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（ReAct 整合了工具使用）
 
 ### 后续推荐
 - 🎯 **必读**：ReAct（L3-07）、ChatGPT Plugins
@@ -302,4 +302,4 @@ tools = ["calculator", "search", "dictionary", "translator"]
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-14 WebGPT：搜索引擎 + LLM](./L3-14_WebGPT.md) |
+| 下一站 | → [L3-14 WebGPT：搜索引擎 + LLM](notes/L3-14_WebGPT.md) |

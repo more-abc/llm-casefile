@@ -256,8 +256,8 @@ BigBird 给我最大的启发是**"小世界网络"的智慧**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-25 Longformer](./L2-25_Longformer.md)（BigBird 的后续和改进）
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（全量 Attention 的基础）
+- 📚 [L2-25 Longformer](notes/L2-25_Longformer.md)（BigBird 的后续和改进）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（全量 Attention 的基础）
 
 ### 后续推荐
 - 🎯 **必读**：Longformer（L2-25，更实用的稀疏 Attention）
@@ -343,4 +343,4 @@ class BigBirdAttention(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-14 WebGPT：搜索引擎 + LLM](./L3-14_WebGPT.md) |
+| 下一站 | → [L3-14 WebGPT：搜索引擎 + LLM](notes/L3-14_WebGPT.md) |

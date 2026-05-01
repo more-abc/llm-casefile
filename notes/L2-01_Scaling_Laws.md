@@ -246,7 +246,7 @@ Scaling Laws 给我最大的启发是**工程诚信的重要性**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-11 GPT-3](./L1-11_GPT3.md)（Kaplan Scaling Laws 的直接实验对象）
+- 📚 [L1-11 GPT-3](notes/L1-11_GPT3.md)（Kaplan Scaling Laws 的直接实验对象）
 
 ### 后续推荐
 - 🎯 **必读**：L2-03 Chinchilla（本案的"纠错方"）
@@ -300,4 +300,4 @@ Scaling Laws 给我最大的启发是**工程诚信的重要性**：
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-03 Chinchilla：DeepMind 的学霸反击](./L2-03_Chinchilla.md) |
+| 下一站 | → [L2-03 Chinchilla：DeepMind 的学霸反击](notes/L2-03_Chinchilla.md) |

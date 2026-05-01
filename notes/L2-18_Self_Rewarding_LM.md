@@ -247,8 +247,8 @@ Self-Rewarding LM 给我最大的启发是**"闭环 vs 开环"的系统思维**�
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-05 InstructGPT](./L2-05_InstructGPT_RLHF.md)（RLHF 基础）
-- 📚 [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md)（AI 自我约束）
+- 📚 [L2-05 InstructGPT](notes/L2-05_InstructGPT_RLHF.md)（RLHF 基础）
+- 📚 [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md)（AI 自我约束）
 
 ### 后续推荐
 - 🎯 **必读**：迭代偏好优化的后续工作
@@ -304,4 +304,4 @@ for iteration in range(3):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-17 RLAIF：AI 反馈的进一步发展](./L2-17_RLAIF.md) |
+| 下一站 | → [L2-17 RLAIF：AI 反馈的进一步发展](notes/L2-17_RLAIF.md) |

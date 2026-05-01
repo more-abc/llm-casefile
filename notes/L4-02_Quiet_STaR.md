@@ -158,9 +158,9 @@ Quiet-STaR 给我的启发：**"思考"和"输出"不必绑定**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-05 STaR](./L4-05_STaR.md)（思想源头）
-- 📚 [L1-12 CoT](./L1-12_Chain_of_Thought.md)（显式版本）
-- 📚 [L4-04 Process Reward Model](./L4-04_Process_Reward_Model.md)（过程监督的另一思路）
+- 📚 [L4-05 STaR](notes/L4-05_STaR.md)（思想源头）
+- 📚 [L1-12 CoT](notes/L1-12_Chain_of_Thought.md)（显式版本）
+- 📚 [L4-04 Process Reward Model](notes/L4-04_Process_Reward_Model.md)（过程监督的另一思路）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 官方 [github.com/ezelikman/quiet-star](https://github.com/ezelikman/quiet-star)，最小复现：在 Mistral-7B 上跑 1k step。
@@ -176,4 +176,4 @@ Quiet-STaR 给我的启发：**"思考"和"输出"不必绑定**。
 | 推荐指数 | ⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-05 STaR](./L4-05_STaR.md) |
+| 下一站 | → [L4-05 STaR](notes/L4-05_STaR.md) |

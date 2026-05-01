@@ -160,9 +160,9 @@ MedPaLM 2 让我相信：**LLM 进入高风险领域只是时间问题**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-26 MedPaLM](./L4-26_MedPaLM.md)（前作）
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)（多模态对照）
-- 📚 [L1-15 Self-Consistency](./L1-15_Self_Consistency.md)（Ensemble Refinement 的前身）
+- 📚 [L4-26 MedPaLM](notes/L4-26_MedPaLM.md)（前作）
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)（多模态对照）
+- 📚 [L1-15 Self-Consistency](notes/L1-15_Self_Consistency.md)（Ensemble Refinement 的前身）
 
 ---
 
@@ -175,4 +175,4 @@ MedPaLM 2 让我相信：**LLM 进入高风险领域只是时间问题**。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-28 AlphaCode](./L4-28_AlphaCode.md) |
+| 下一站 | → [L4-28 AlphaCode](notes/L4-28_AlphaCode.md) |

@@ -166,9 +166,9 @@ CRAG 给我的核心启发：**模块化是 RAG 的未来**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-15 RAG](./L3-15_RAG.md)
-- 📚 [L3-17 Self-RAG](./L3-17_Self_RAG.md)
-- 📚 [L3-19 Query Augmentation](./L3-19_RAG_Query_Augmentation.md)
+- 📚 [L3-15 RAG](notes/L3-15_RAG.md)
+- 📚 [L3-17 Self-RAG](notes/L3-17_Self_RAG.md)
+- 📚 [L3-19 Query Augmentation](notes/L3-19_RAG_Query_Augmentation.md)
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 论文：[arxiv.org/abs/2401.15884](https://arxiv.org/abs/2401.15884)
@@ -185,4 +185,4 @@ CRAG 给我的核心启发：**模块化是 RAG 的未来**。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-19 Query Augmentation](./L3-19_RAG_Query_Augmentation.md) |
+| 下一站 | → [L3-19 Query Augmentation](notes/L3-19_RAG_Query_Augmentation.md) |

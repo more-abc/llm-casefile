@@ -232,8 +232,8 @@ RWKV 给我最大的启发是**"技术轮回与创新"的辩证关系**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L4-08 RetNet](./L4-08_RetNet.md)（RWKV 的"远房亲戚"）
-- 📚 [L4-06 Mamba](./L4-06_Mamba.md)（SSM 路线）
+- 📚 [L4-08 RetNet](notes/L4-08_RetNet.md)（RWKV 的"远房亲戚"）
+- 📚 [L4-06 Mamba](notes/L4-06_Mamba.md)（SSM 路线）
 
 ### 后续推荐
 - 🎯 **必读**：RWKV-4（Raven）、Linear Transformer
@@ -283,4 +283,4 @@ output = model.forward(
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-10 Griffin：RNN + Mamba 的结合](./L4-10_Griffin.md) |
+| 下一站 | → [L4-10 Griffin：RNN + Mamba 的结合](notes/L4-10_Griffin.md) |

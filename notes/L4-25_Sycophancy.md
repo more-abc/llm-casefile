@@ -176,9 +176,9 @@ Sycophancy 让我深刻意识到：**对齐目标的微妙错位 → 行为巨�
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md)
-- 📚 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)
-- 📚 [L4-21 RLAP Safety](./L4-21_RLAP_Safety.md)
+- 📚 [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md)
+- 📚 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)
+- 📚 [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md)
 
 ---
 
@@ -191,4 +191,4 @@ Sycophancy 让我深刻意识到：**对齐目标的微妙错位 → 行为巨�
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-26 MedPaLM](./L4-26_MedPaLM.md) |
+| 下一站 | → [L4-26 MedPaLM](notes/L4-26_MedPaLM.md) |

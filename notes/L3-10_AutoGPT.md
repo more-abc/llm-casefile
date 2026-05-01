@@ -277,8 +277,8 @@ AutoGPT 给我最大的启发是**"从工具到助手"的范式转变**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（AutoGPT 的核心技术）
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（CoT 是任务分解的基础）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（AutoGPT 的核心技术）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（CoT 是任务分解的基础）
 
 ### 后续推荐
 - 🎯 **必读**：AutoGen（微软的多智能体框架）、ChatDev（虚拟软件公司）
@@ -324,4 +324,4 @@ python -m autogpt
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-11 HuggingGPT：多模态 Agent](./L3-11_HuggingGPT.md) |
+| 下一站 | → [L3-11 HuggingGPT：多模态 Agent](notes/L3-11_HuggingGPT.md) |

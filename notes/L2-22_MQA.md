@@ -228,8 +228,8 @@ MQA 给我最大的启发是**"够用就好"的工程哲学**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（MHA 的基础）
-- 📚 [L2-26 GQA](./L2-26_GQA.md)（MQA 的改进版本）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（MHA 的基础）
+- 📚 [L2-26 GQA](notes/L2-26_GQA.md)（MQA 的改进版本）
 
 ### 后续推荐
 - 🎯 **必读**：GQA（L2-26，LLaMA 2 用的方案）
@@ -292,4 +292,4 @@ class MultiQueryAttention(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-26 GQA：MQA 的改进版](./L2-26_GQA.md) |
+| 下一站 | → [L2-26 GQA：MQA 的改进版](notes/L2-26_GQA.md) |

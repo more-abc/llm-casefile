@@ -204,8 +204,8 @@ ALiBi 给我最大的启发是**"简单 > 复杂，但有条件"**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（位置编码的基础）
-- 📚 [L2-19 RoPE](./L2-19_RoPE.md)（ALiBi 的主要竞争者）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（位置编码的基础）
+- 📚 [L2-19 RoPE](notes/L2-19_RoPE.md)（ALiBi 的主要竞争者）
 
 ### 后续推荐
 - 🎯 **必读**：YaRN（L4-14，RoPE 的改进）
@@ -258,4 +258,4 @@ class ALiBiAttention(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-22 MQA：多头查询注意力的简化](./L2-22_MQA.md) |
+| 下一站 | → [L2-22 MQA：多头查询注意力的简化](notes/L2-22_MQA.md) |

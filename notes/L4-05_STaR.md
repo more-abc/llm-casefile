@@ -164,9 +164,9 @@ STaR 是 LLM 时代第一次明确提出"**模型可以教自己**"的 working s
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-02 Quiet-STaR](./L4-02_Quiet_STaR.md)（隐式 token 化的进阶）
-- 📚 [L1-12 Chain of Thought](./L1-12_Chain_of_Thought.md)（rationale 的概念源头）
-- 📚 [L2-18 Self-Rewarding LM](./L2-18_Self_Rewarding_LM.md)（自我奖励的同源思路）
+- 📚 [L4-02 Quiet-STaR](notes/L4-02_Quiet_STaR.md)（隐式 token 化的进阶）
+- 📚 [L1-12 Chain of Thought](notes/L1-12_Chain_of_Thought.md)（rationale 的概念源头）
+- 📚 [L2-18 Self-Rewarding LM](notes/L2-18_Self_Rewarding_LM.md)（自我奖励的同源思路）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 论文：[arxiv.org/abs/2203.14465](https://arxiv.org/abs/2203.14465)
@@ -183,4 +183,4 @@ STaR 是 LLM 时代第一次明确提出"**模型可以教自己**"的 working s
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-06 Mamba](./L4-06_Mamba.md) |
+| 下一站 | → [L4-06 Mamba](notes/L4-06_Mamba.md) |

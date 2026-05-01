@@ -157,9 +157,9 @@ MiniGPT-4 让我意识到：**对齐可能比对齐工具想象得简单**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)
-- 📚 [L4-16 LLaVA](./L4-16_LLaVA.md)
-- 📚 [L4-18 CogVLM](./L4-18_CogVLM.md)
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)
+- 📚 [L4-16 LLaVA](notes/L4-16_LLaVA.md)
+- 📚 [L4-18 CogVLM](notes/L4-18_CogVLM.md)
 
 ### 🚀 实践入口
 [github.com/Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
@@ -175,4 +175,4 @@ MiniGPT-4 让我意识到：**对齐可能比对齐工具想象得简单**。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-18 CogVLM](./L4-18_CogVLM.md) |
+| 下一站 | → [L4-18 CogVLM](notes/L4-18_CogVLM.md) |

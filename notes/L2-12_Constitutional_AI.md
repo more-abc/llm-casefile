@@ -252,8 +252,8 @@ Constitutional AI 给我最大的启发是**"规则 vs 原则"的哲学差异**�
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-05 InstructGPT](./L2-05_InstructGPT_RLHF.md)（RLHF 的基础）
-- 📚 [L2-09 PPO](./L2-09_PPO.md)（RLAIF 的优化方法）
+- 📚 [L2-05 InstructGPT](notes/L2-05_InstructGPT_RLHF.md)（RLHF 的基础）
+- 📚 [L2-09 PPO](notes/L2-09_PPO.md)（RLAIF 的优化方法）
 
 ### 后续推荐
 - 🎯 **必读**：Claude 的技术博客、Anthropic 的 red teaming 报告
@@ -300,4 +300,4 @@ principles = ["无害", "真实", "不歧视"]
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-17 RLAIF：AI 反馈的进一步发展](./L2-17_RLAIF.md) |
+| 下一站 | → [L2-17 RLAIF：AI 反馈的进一步发展](notes/L2-17_RLAIF.md) |

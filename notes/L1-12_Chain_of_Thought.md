@@ -269,4 +269,4 @@ def ask(question, mode, model="gpt-4o-mini"):
 | 笔记版本 | **「百案录·归属修正版」** |
 | 叙事母题 | 🎬 链路显化（与 L1-11 "涌现纪录" 区分） |
 | 上次更新 | 2026-04-29 |
-| 下一站 | → [L1-13 Tree of Thoughts](./L1-13_Tree_of_Thoughts.md) |
+| 下一站 | → [L1-13 Tree of Thoughts](notes/L1-13_Tree_of_Thoughts.md) |

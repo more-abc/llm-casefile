@@ -214,8 +214,8 @@ Flash Attention 给我最大的启发是**"系统思维"的重要性**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（Attention 基础）
-- 📚 [L2-25 Longformer](./L2-25_Longformer.md)（长上下文的另一个方案）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（Attention 基础）
+- 📚 [L2-25 Longformer](notes/L2-25_Longformer.md)（长上下文的另一个方案）
 
 ### 后续推荐
 - 🎯 **必读**：Flash Attention 2（进一步优化）
@@ -261,4 +261,4 @@ output = flash_attn_func(Q, K, V, causal=True)
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-22 MQA：共享经济 Attention](./L2-22_MQA.md) |
+| 下一站 | → [L2-22 MQA：共享经济 Attention](notes/L2-22_MQA.md) |

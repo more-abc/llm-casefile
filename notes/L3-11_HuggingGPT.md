@@ -242,8 +242,8 @@ HuggingGPT 给我最大的启发是**"分工 vs 全能"的社会学**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（HuggingGPT 的调度逻辑受 ReAct 影响）
-- 📚 [L3-13 Toolformer](./L3-13_Toolformer.md)（工具使用的基础）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（HuggingGPT 的调度逻辑受 ReAct 影响）
+- 📚 [L3-13 Toolformer](notes/L3-13_Toolformer.md)（工具使用的基础）
 
 ### 后续推荐
 - 🎯 **必读**：AutoGen（微软的多智能体框架）
@@ -302,4 +302,4 @@ result = agent.run(
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-12 Visual Agent：视觉 Agent 的基础](./L3-12_Visual_Agent.md) |
+| 下一站 | → [L3-12 Visual Agent：视觉 Agent 的基础](notes/L3-12_Visual_Agent.md) |

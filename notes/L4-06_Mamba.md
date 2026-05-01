@@ -181,9 +181,9 @@ Mamba 让我重新思考"架构创新"的定义。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-07 Mamba 2](./L4-07_Mamba2.md)（理论统一 + 速度更快）
-- 📚 [L4-08 RetNet](./L4-08_RetNet.md)（同期竞争对手）
-- 📚 [L4-09 RWKV](./L4-09_RWKV.md)（线性 RNN 路线）
+- 📚 [L4-07 Mamba 2](notes/L4-07_Mamba2.md)（理论统一 + 速度更快）
+- 📚 [L4-08 RetNet](notes/L4-08_RetNet.md)（同期竞争对手）
+- 📚 [L4-09 RWKV](notes/L4-09_RWKV.md)（线性 RNN 路线）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 官方实现：[github.com/state-spaces/mamba](https://github.com/state-spaces/mamba)
@@ -200,4 +200,4 @@ Mamba 让我重新思考"架构创新"的定义。
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-07 Mamba 2](./L4-07_Mamba2.md) |
+| 下一站 | → [L4-07 Mamba 2](notes/L4-07_Mamba2.md) |

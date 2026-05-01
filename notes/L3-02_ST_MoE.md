@@ -243,8 +243,8 @@ ST-MoE 给我最大的启发是**"公平是效率的基础"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-01 Mixtral](./L3-01_Mixtral.md)（ST-MoE 的工业落地）
-- 📚 [L3-04 Switch Transformer](./L3-04_Switch_Transformer.md)（负载均衡是 Switch 的核心问题）
+- 📚 [L3-01 Mixtral](notes/L3-01_Mixtral.md)（ST-MoE 的工业落地）
+- 📚 [L3-04 Switch Transformer](notes/L3-04_Switch_Transformer.md)（负载均衡是 Switch 的核心问题）
 
 ### 后续推荐
 - 🎯 **必读**：Mixtral 8×7B（看实际应用）
@@ -310,4 +310,4 @@ class MoELayerWithLoadBalancing(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-03 GShard：MoE 的分布式实现](./L3-03_GShard.md) |
+| 下一站 | → [L3-03 GShard：MoE 的分布式实现](notes/L3-03_GShard.md) |

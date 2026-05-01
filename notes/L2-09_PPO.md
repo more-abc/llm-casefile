@@ -292,4 +292,4 @@ ppo_trainer = PPOTrainer(
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-14 DPO：PPO 的优雅替代](./L2-14_DPO.md) |
+| 下一站 | → [L2-14 DPO：PPO 的优雅替代](notes/L2-14_DPO.md) |

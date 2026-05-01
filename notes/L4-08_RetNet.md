@@ -211,8 +211,8 @@ RetNet 给我最大的启发是**"第三条路"的思维模式**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（RetNet 的对比基准）
-- 📚 [L4-09 RWKV](./L4-09_RWKV.md)（RetNet 的"远房亲戚"）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（RetNet 的对比基准）
+- 📚 [L4-09 RWKV](notes/L4-09_RWKV.md)（RetNet 的"远房亲戚"）
 
 ### 后续推荐
 - 🎯 **必读**：Linear Transformer（RetNet 的前身）
@@ -269,4 +269,4 @@ class Retention(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-09 RWKV：复古创新的 RNN 替代品](./L4-09_RWKV.md) |
+| 下一站 | → [L4-09 RWKV：复古创新的 RNN 替代品](notes/L4-09_RWKV.md) |

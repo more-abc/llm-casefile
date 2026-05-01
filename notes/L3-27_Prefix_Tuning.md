@@ -162,9 +162,9 @@ Prefix Tuning 让我意识到：**"提示"本来就不必是文字**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-28 P-Tuning v2](./L3-28_P_Tuning_v2.md)（增强版）
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)（"加结构"派对比）
+- 📚 [L3-28 P-Tuning v2](notes/L3-28_P_Tuning_v2.md)（增强版）
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)（"加结构"派对比）
 
 ### 🚀 实践入口
 HuggingFace `peft` 库 `PrefixTuningConfig`。
@@ -180,4 +180,4 @@ HuggingFace `peft` 库 `PrefixTuningConfig`。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-28 P-Tuning v2](./L3-28_P_Tuning_v2.md) |
+| 下一站 | → [L3-28 P-Tuning v2](notes/L3-28_P_Tuning_v2.md) |

@@ -161,9 +161,9 @@ DoRA 给我的启发：**"把整体拆成可解释分量"是科研的基本功**
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)
-- 📚 [L3-24 LoRA+](./L3-24_LoRA_plus.md)
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)
+- 📚 [L3-24 LoRA+](notes/L3-24_LoRA_plus.md)
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
 
 ### 🚀 实践入口
 HuggingFace `peft` 库 (>=0.10) 已支持 `LoraConfig(use_dora=True)`。
@@ -179,4 +179,4 @@ HuggingFace `peft` 库 (>=0.10) 已支持 `LoraConfig(use_dora=True)`。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-26 AdapterHub](./L3-26_AdapterHub.md) |
+| 下一站 | → [L3-26 AdapterHub](notes/L3-26_AdapterHub.md) |

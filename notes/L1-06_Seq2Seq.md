@@ -229,11 +229,11 @@ Seq2Seq 给我最大的启发：**"端到端"是范式革命**。
 
 ### 前置依赖
 - 📚 LSTM 基础
-- 📚 [L1-07 Word2Vec](./L1-07_Word2Vec.md)（词向量基础）
+- 📚 [L1-07 Word2Vec](notes/L1-07_Word2Vec.md)（词向量基础）
 
 ### 后续推荐
-- 🎯 **必读**：[L1-05 Bahdanau Attention](./L1-05_Neural_Machine_Translation.md)（解决信息瓶颈）
-- 🎯 **必读**：[L1-01 Attention Is All You Need](./L1-01_Attention_Is_All_You_Need.md)
+- 🎯 **必读**：[L1-05 Bahdanau Attention](notes/L1-05_Neural_Machine_Translation.md)（解决信息瓶颈）
+- 🎯 **必读**：[L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 ```python
@@ -263,4 +263,4 @@ class Seq2Seq(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-05 Bahdanau Attention](./L1-05_Neural_Machine_Translation.md)（解决其信息瓶颈） |
+| 下一站 | → [L1-05 Bahdanau Attention](notes/L1-05_Neural_Machine_Translation.md)（解决其信息瓶颈） |

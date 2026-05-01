@@ -72,4 +72,4 @@ Deep RL from Human Preferences 给我最大的启发是**"反馈是最好的老�
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-11 Reward Model Ensemble](./L2-11_Reward_Model_Ensemble.md) |
+| 下一站 | → [L2-11 Reward Model Ensemble](notes/L2-11_Reward_Model_Ensemble.md) |

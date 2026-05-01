@@ -182,10 +182,10 @@ Giraffe 给我的启发：**长上下文外推的本质是"频率重新映射"**
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L2-19 RoPE](./L2-19_RoPE.md)（基础）
-- 📚 [L4-12 PoSE](./L4-12_PoSE.md)（同期外推方法）
-- 📚 [L4-14 YaRN](./L4-14_YaRN.md)（更精细的 NTK 缩放）
-- 📚 [L4-11 LM-Infinite](./L4-11_LM_Infinite.md)（流式长上下文的另一思路）
+- 📚 [L2-19 RoPE](notes/L2-19_RoPE.md)（基础）
+- 📚 [L4-12 PoSE](notes/L4-12_PoSE.md)（同期外推方法）
+- 📚 [L4-14 YaRN](notes/L4-14_YaRN.md)（更精细的 NTK 缩放）
+- 📚 [L4-11 LM-Infinite](notes/L4-11_LM_Infinite.md)（流式长上下文的另一思路）
 
 ### 🚀 实践入口
 [huggingface.co/abacusai/Giraffe-v2-13b-32k](https://huggingface.co/abacusai/Giraffe-v2-13b-32k)
@@ -201,4 +201,4 @@ Giraffe 给我的启发：**长上下文外推的本质是"频率重新映射"**
 | 推荐指数 | ⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-14 YaRN](./L4-14_YaRN.md) |
+| 下一站 | → [L4-14 YaRN](notes/L4-14_YaRN.md) |

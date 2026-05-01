@@ -202,8 +202,8 @@ Mamba-2 给我最大的启发是**"迭代优化 > 推翻重来"**：
 ## 8️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L4-06 Mamba](./L4-06_Mamba.md)（Mamba-2 的基础）
-- 📚 [L4-08 RetNet](./L4-08_RetNet.md)（竞争架构）
+- 📚 [L4-06 Mamba](notes/L4-06_Mamba.md)（Mamba-2 的基础）
+- 📚 [L4-08 RetNet](notes/L4-08_RetNet.md)（竞争架构）
 
 ### 后续推荐
 - 🎯 **必读**：Jamba（混合架构）
@@ -248,4 +248,4 @@ model = Mamba(
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-08 RetNet：第三条路](./L4-08_RetNet.md) |
+| 下一站 | → [L4-08 RetNet：第三条路](notes/L4-08_RetNet.md) |

@@ -227,8 +227,8 @@ LoRA 给我最大的启发是**"效率来自结构，不是蛮力"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-14 DPO](./L2-14_DPO.md)（LoRA 常与 DPO 结合使用）
-- 📚 [L3-22 QLoRA](./L3-22_QLoRA.md)（LoRA + 量化）
+- 📚 [L2-14 DPO](notes/L2-14_DPO.md)（LoRA 常与 DPO 结合使用）
+- 📚 [L3-22 QLoRA](notes/L3-22_QLoRA.md)（LoRA + 量化）
 
 ### 后续推荐
 - 🎯 **必读**：QLoRA（LoRA + 量化）
@@ -281,4 +281,4 @@ model.print_trainable_parameters()
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-22 QLoRA：量化 + LoRA 的极致效率](./L3-22_QLoRA.md) |
+| 下一站 | → [L3-22 QLoRA：量化 + LoRA 的极致效率](notes/L3-22_QLoRA.md) |

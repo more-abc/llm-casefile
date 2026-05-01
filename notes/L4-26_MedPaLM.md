@@ -169,9 +169,9 @@ MedPaLM 让我看到 LLM 进入垂直领域的"模板"：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-27 MedPaLM 2](./L4-27_MedPaLM2.md)（升级版）
-- 📚 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)
-- 📚 [L4-21 RLAP Safety](./L4-21_RLAP_Safety.md)
+- 📚 [L4-27 MedPaLM 2](notes/L4-27_MedPaLM2.md)（升级版）
+- 📚 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)
+- 📚 [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md)
 
 ---
 
@@ -184,4 +184,4 @@ MedPaLM 让我看到 LLM 进入垂直领域的"模板"：
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-27 MedPaLM 2](./L4-27_MedPaLM2.md) |
+| 下一站 | → [L4-27 MedPaLM 2](notes/L4-27_MedPaLM2.md) |

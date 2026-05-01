@@ -254,7 +254,7 @@ Chinchilla 给我最大的启发是**实验设计的重要性**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-01 Scaling Laws](./L2-01_Scaling_Laws.md)（Chinchilla 的攻击对象）
+- 📚 [L2-01 Scaling Laws](notes/L2-01_Scaling_Laws.md)（Chinchilla 的攻击对象）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA（L2-17 没有，但这是一个应用 Chinchilla 的实际案例）
@@ -303,4 +303,4 @@ Chinchilla 给我最大的启发是**实验设计的重要性**：
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-04 PaLM2：Chinchilla 的工业落地](./L2-04_PaLM2.md) |
+| 下一站 | → [L2-04 PaLM2：Chinchilla 的工业落地](notes/L2-04_PaLM2.md) |

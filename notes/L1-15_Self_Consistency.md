@@ -202,8 +202,8 @@ Self-Consistency 给我最大的启发是**"群体智慧"的力量**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（Self-Consistency 的基础）
-- 📚 [L1-14 STaR](./L1-14_Language_Models_are_Reasoners.md)（另一个推理增强方法）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（Self-Consistency 的基础）
+- 📚 [L1-14 STaR](notes/L1-14_Language_Models_are_Reasoners.md)（另一个推理增强方法）
 
 ### 后续推荐
 - 🎯 **必读**：CoT + Self-Consistency 组合使用
@@ -254,4 +254,4 @@ def self_consistency(question, model, n=40, temperature=0.8):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-17 LLaMA：开源大模型时代](./L1-17_LLaMA.md) |
+| 下一站 | → [L1-17 LLaMA：开源大模型时代](notes/L1-17_LLaMA.md) |

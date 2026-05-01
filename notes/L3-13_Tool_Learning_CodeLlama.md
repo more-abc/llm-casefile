@@ -151,9 +151,9 @@ graph LR
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-13 Toolformer](./L3-13_Toolformer.md)（工具学习的另一思路）
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)
-- 📚 [L3-10 AutoGPT](./L3-10_AutoGPT.md)
+- 📚 [L3-13 Toolformer](notes/L3-13_Toolformer.md)（工具学习的另一思路）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)
+- 📚 [L3-10 AutoGPT](notes/L3-10_AutoGPT.md)
 
 ---
 

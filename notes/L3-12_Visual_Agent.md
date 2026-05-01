@@ -198,11 +198,11 @@ Visual Agent 让我看到 LLM 应用的真正天花板：**能"看屏幕、动�
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)
-- 📚 [L4-16 LLaVA](./L4-16_LLaVA.md)
-- 📚 [L4-18 CogVLM](./L4-18_CogVLM.md)（CogAgent 的基座）
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（API Agent 思想）
-- 📚 [L3-10 AutoGPT](./L3-10_AutoGPT.md)
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)
+- 📚 [L4-16 LLaVA](notes/L4-16_LLaVA.md)
+- 📚 [L4-18 CogVLM](notes/L4-18_CogVLM.md)（CogAgent 的基座）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（API Agent 思想）
+- 📚 [L3-10 AutoGPT](notes/L3-10_AutoGPT.md)
 
 ---
 
@@ -215,4 +215,4 @@ Visual Agent 让我看到 LLM 应用的真正天花板：**能"看屏幕、动�
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-13 Toolformer](./L3-13_Toolformer.md) |
+| 下一站 | → [L3-13 Toolformer](notes/L3-13_Toolformer.md) |

@@ -218,8 +218,8 @@ GLU 给我最大的启发是**"门控是智能的核心"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-09 LayerNorm](./L1-09_LayerNorm.md)（GLU 常与 RMSNorm/LN 一起用）
-- 📚 [L1-10 Adam](./L1-10_Adam.md)（GLU 需要好的优化器）
+- 📚 [L1-09 LayerNorm](notes/L1-09_LayerNorm.md)（GLU 常与 RMSNorm/LN 一起用）
+- 📚 [L1-10 Adam](notes/L1-10_Adam.md)（GLU 需要好的优化器）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA 架构解析
@@ -270,4 +270,4 @@ ffn = SwiGLU(dim=4096, ffn_dim=11008)  # LLaMA 7B 的配置
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-24 RMSNorm：LayerNorm 的断舍离](./L2-24_RMSNorm.md) |
+| 下一站 | → [L2-24 RMSNorm：LayerNorm 的断舍离](notes/L2-24_RMSNorm.md) |

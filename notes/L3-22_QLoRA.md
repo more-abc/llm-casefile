@@ -197,10 +197,10 @@ QLoRA 给我最大的启发是**"组合优化的力量"**：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)（必读前置）
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
-- 📚 [L3-25 DoRA](./L3-25_DoRA.md)
-- 📚 [L2-28 BFloat16](./L2-28_BFloat16.md)（混合精度基础）
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)（必读前置）
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
+- 📚 [L3-25 DoRA](notes/L3-25_DoRA.md)
+- 📚 [L2-28 BFloat16](notes/L2-28_BFloat16.md)（混合精度基础）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 ```python
@@ -235,4 +235,4 @@ model = get_peft_model(model, LoraConfig(r=16, lora_alpha=32, target_modules=["q
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-23 PEFT Survey](./L3-23_PEFT.md) |
+| 下一站 | → [L3-23 PEFT Survey](notes/L3-23_PEFT.md) |

@@ -165,10 +165,10 @@ Self-RAG 给我最大的启发是**"AI 需要元认知"**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-15 RAG](./L3-15_RAG.md)（基础版本）
-- 📚 [L3-18 Corrective RAG](./L3-18_Corrective_RAG.md)（错了再改的另一思路）
-- 📚 [L3-19 Query Augmentation](./L3-19_RAG_Query_Augmentation.md)
-- 📚 [L3-20 Knowledge Graph RAG](./L3-20_Knowledge_Graph_RAG.md)
+- 📚 [L3-15 RAG](notes/L3-15_RAG.md)（基础版本）
+- 📚 [L3-18 Corrective RAG](notes/L3-18_Corrective_RAG.md)（错了再改的另一思路）
+- 📚 [L3-19 Query Augmentation](notes/L3-19_RAG_Query_Augmentation.md)
+- 📚 [L3-20 Knowledge Graph RAG](notes/L3-20_Knowledge_Graph_RAG.md)
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 官方代码：[github.com/AkariAsai/self-rag](https://github.com/AkariAsai/self-rag)
@@ -185,4 +185,4 @@ Self-RAG 给我最大的启发是**"AI 需要元认知"**。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-18 Corrective RAG](./L3-18_Corrective_RAG.md) |
+| 下一站 | → [L3-18 Corrective RAG](notes/L3-18_Corrective_RAG.md) |

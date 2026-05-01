@@ -82,4 +82,4 @@ RLHF 给我最大的启发是**"AI 需要被教育"**：
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-05 InstructGPT](./L2-05_InstructGPT_RLHF.md) |
+| 下一站 | → [L2-05 InstructGPT](notes/L2-05_InstructGPT_RLHF.md) |

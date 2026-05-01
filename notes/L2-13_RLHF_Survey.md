@@ -221,8 +221,8 @@ RLHF Survey 给我最大的启发是**"知识梳理"的价值**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-05 InstructGPT](./L2-05_InstructGPT_RLHF.md)（RLHF 的代表性应用）
-- 📚 [L2-09 PPO](./L2-09_PPO.md)（RLHF 的核心技术）
+- 📚 [L2-05 InstructGPT](notes/L2-05_InstructGPT_RLHF.md)（RLHF 的代表性应用）
+- 📚 [L2-09 PPO](notes/L2-09_PPO.md)（RLHF 的核心技术）
 
 ### 后续推荐
 - 🎯 **必读**：L2-12 Constitutional AI、L2-14 DPO（RLHF 的改进方向）
@@ -273,4 +273,4 @@ ppo.train()
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-12 Constitutional AI：AI 自我约束](./L2-12_Constitutional_AI.md) |
+| 下一站 | → [L2-12 Constitutional AI：AI 自我约束](notes/L2-12_Constitutional_AI.md) |

@@ -230,8 +230,8 @@ PRM 给我最大的启发是**"反馈粒度决定学习效率"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（CoT 是 PRM 的基础）
-- 📚 [L2-14 DPO](./L2-14_DPO.md)（Process-DPO 是 PRM + DPO 的结合）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（CoT 是 PRM 的基础）
+- 📚 [L2-14 DPO](notes/L2-14_DPO.md)（Process-DPO 是 PRM + DPO 的结合）
 
 ### 后续推荐
 - 🎯 **必读**：L4-03 MCTS + LLM、L4-05 STaR（都是 PRM 思想的应用）
@@ -293,4 +293,4 @@ class ProcessRewardModel(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-03 MCTS + LLM：过程驱动的推理](./L4-03_MCTS_LLM.md) |
+| 下一站 | → [L4-03 MCTS + LLM：过程驱动的推理](notes/L4-03_MCTS_LLM.md) |

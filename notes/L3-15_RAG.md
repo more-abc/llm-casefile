@@ -289,8 +289,8 @@ RAG 给我最大的启发是**"解耦"的思想**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-14 WebGPT](./L3-14_WebGPT.md)（RAG 的前身）
-- 📚 [L1-06 BERT](./L1-02_BERT.md)（检索器的基础）
+- 📚 [L3-14 WebGPT](notes/L3-14_WebGPT.md)（RAG 的前身）
+- 📚 [L1-06 BERT](notes/L1-02_BERT.md)（检索器的基础）
 
 ### 后续推荐
 - 🎯 **必读**：LangChain（框架）、LlamaIndex（框架）
@@ -345,4 +345,4 @@ print(answer)
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-21 LoRA：参数高效微调](./L3-21_LoRA.md) |
+| 下一站 | → [L3-21 LoRA：参数高效微调](notes/L3-21_LoRA.md) |

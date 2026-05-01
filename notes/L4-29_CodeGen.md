@@ -141,9 +141,9 @@ CodeGen 在 2022 年是"开源代码模型的样板间"：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-28 AlphaCode](./L4-28_AlphaCode.md)
-- 📚 [L4-30 StarCoder](./L4-30_StarCoder.md)
-- 📚 [L3-13b Tool Learning Code Llama](./L3-13_Tool_Learning_CodeLlama.md)
+- 📚 [L4-28 AlphaCode](notes/L4-28_AlphaCode.md)
+- 📚 [L4-30 StarCoder](notes/L4-30_StarCoder.md)
+- 📚 [L3-13b Tool Learning Code Llama](notes/L3-13_Tool_Learning_CodeLlama.md)
 
 ### 🚀 实践入口
 [huggingface.co/Salesforce/codegen-16B-mono](https://huggingface.co/Salesforce/codegen-16B-mono)
@@ -159,4 +159,4 @@ CodeGen 在 2022 年是"开源代码模型的样板间"：
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-30 StarCoder](./L4-30_StarCoder.md) |
+| 下一站 | → [L4-30 StarCoder](notes/L4-30_StarCoder.md) |

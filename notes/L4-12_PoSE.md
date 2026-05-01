@@ -248,8 +248,8 @@ PoSE 给我最大的启发是**"问题转换"的思维**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-19 RoPE](./L2-19_RoPE.md)（位置编码基础）
-- 📚 [L2-20 ALiBi](./L2-20_ALiBi.md)（位置编码的对比）
+- 📚 [L2-19 RoPE](notes/L2-19_RoPE.md)（位置编码基础）
+- 📚 [L2-20 ALiBi](notes/L2-20_ALiBi.md)（位置编码的对比）
 
 ### 后续推荐
 - 🎯 **必读**：位置插值（PI）与 PoSE 的对比
@@ -312,4 +312,4 @@ def apply_rope_with_positions(q, k, positions):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-13 Giraffe：更多长上下文方案](./L4-13_Giraffe.md) |
+| 下一站 | → [L4-13 Giraffe：更多长上下文方案](notes/L4-13_Giraffe.md) |

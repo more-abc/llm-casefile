@@ -159,10 +159,10 @@ RM Ensemble 让我看到 RLHF 的脆弱性：**RM 偏一点，PPO 就把这点�
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)
-- 📚 [L2-09 PPO](./L2-09_PPO.md)
-- 📚 [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md)
-- 📚 [L4-04 Process Reward Model](./L4-04_Process_Reward_Model.md)（更细粒度的"过程 RM"）
+- 📚 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)
+- 📚 [L2-09 PPO](notes/L2-09_PPO.md)
+- 📚 [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md)
+- 📚 [L4-04 Process Reward Model](notes/L4-04_Process_Reward_Model.md)（更细粒度的"过程 RM"）
 
 ---
 
@@ -175,4 +175,4 @@ RM Ensemble 让我看到 RLHF 的脆弱性：**RM 偏一点，PPO 就把这点�
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md) |
+| 下一站 | → [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md) |

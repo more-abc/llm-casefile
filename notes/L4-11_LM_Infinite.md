@@ -178,10 +178,10 @@ LM-Infinite 让我意识到：**"长度外推"不是单一问题**。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-12 PoSE](./L4-12_PoSE.md)（位置外推的训练方案）
-- 📚 [L4-13 Giraffe](./L4-13_Giraffe.md)
-- 📚 [L4-14 YaRN](./L4-14_YaRN.md)（RoPE 缩放法）
-- 📚 [L2-19 RoPE](./L2-19_RoPE.md)（位置编码基础）
+- 📚 [L4-12 PoSE](notes/L4-12_PoSE.md)（位置外推的训练方案）
+- 📚 [L4-13 Giraffe](notes/L4-13_Giraffe.md)
+- 📚 [L4-14 YaRN](notes/L4-14_YaRN.md)（RoPE 缩放法）
+- 📚 [L2-19 RoPE](notes/L2-19_RoPE.md)（位置编码基础）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 论文：[arxiv.org/abs/2308.16137](https://arxiv.org/abs/2308.16137)
@@ -198,4 +198,4 @@ LM-Infinite 让我意识到：**"长度外推"不是单一问题**。
 | 推荐指数 | ⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-12 PoSE](./L4-12_PoSE.md) |
+| 下一站 | → [L4-12 PoSE](notes/L4-12_PoSE.md) |

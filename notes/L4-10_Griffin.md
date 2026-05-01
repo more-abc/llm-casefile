@@ -258,9 +258,9 @@ Griffin 给我最大的启发是**"和而不同"的智慧**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L4-06 Mamba](./L4-06_Mamba.md)（循环 SSM 的基础）
-- 📚 [L4-08 RetNet](./L4-08_RetNet.md)（循环注意力的基础）
-- 📚 [L3-01 Mixtral](./L3-01_Mixtral.md)（MoE 的基础）
+- 📚 [L4-06 Mamba](notes/L4-06_Mamba.md)（循环 SSM 的基础）
+- 📚 [L4-08 RetNet](notes/L4-08_RetNet.md)（循环注意力的基础）
+- 📚 [L3-01 Mixtral](notes/L3-01_Mixtral.md)（MoE 的基础）
 
 ### 后续推荐
 - 🎯 **必读**：Jamba（融合架构的工业落地）
@@ -328,4 +328,4 @@ class GriffinBlock(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-12 PoSE：跳跃式位置编码](./L4-12_PoSE.md) |
+| 下一站 | → [L4-12 PoSE：跳跃式位置编码](notes/L4-12_PoSE.md) |

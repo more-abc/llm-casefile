@@ -213,8 +213,8 @@ Adam 给我最大的启发是**"自适应是优化的本质"**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（Adam 在 Transformer 训练中的应用）
-- 📚 [L2-01 Scaling Laws](./L2-01_Scaling_Laws.md)（大模型训练需要好的优化器）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（Adam 在 Transformer 训练中的应用）
+- 📚 [L2-01 Scaling Laws](notes/L2-01_Scaling_Laws.md)（大模型训练需要好的优化器）
 
 ### 后续推荐
 - 🎯 **必读**：Lion optimizer（SGD 的现代版本）
@@ -288,4 +288,4 @@ class Adam(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-11 GPT-3：1750 亿参数的超级大脑](./L1-11_GPT3.md) |
+| 下一站 | → [L1-11 GPT-3：1750 亿参数的超级大脑](notes/L1-11_GPT3.md) |

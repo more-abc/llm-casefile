@@ -171,14 +171,14 @@ PEFT 给我最大的启发是**"没有银弹"**：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)
-- 📚 [L3-22 QLoRA](./L3-22_QLoRA.md)
-- 📚 [L3-24 LoRA+](./L3-24_LoRA_plus.md)
-- 📚 [L3-25 DoRA](./L3-25_DoRA.md)
-- 📚 [L3-26 AdapterHub](./L3-26_AdapterHub.md)
-- 📚 [L3-27 Prefix Tuning](./L3-27_Prefix_Tuning.md)
-- 📚 [L3-28 P-Tuning v2](./L3-28_P_Tuning_v2.md)
-- 📚 [L3-29 IA³](./L3-29_IA3.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)
+- 📚 [L3-22 QLoRA](notes/L3-22_QLoRA.md)
+- 📚 [L3-24 LoRA+](notes/L3-24_LoRA_plus.md)
+- 📚 [L3-25 DoRA](notes/L3-25_DoRA.md)
+- 📚 [L3-26 AdapterHub](notes/L3-26_AdapterHub.md)
+- 📚 [L3-27 Prefix Tuning](notes/L3-27_Prefix_Tuning.md)
+- 📚 [L3-28 P-Tuning v2](notes/L3-28_P_Tuning_v2.md)
+- 📚 [L3-29 IA³](notes/L3-29_IA3.md)
 
 ### 🚀 实践入口
 ```bash
@@ -200,4 +200,4 @@ from peft import LoraConfig, IA3Config, PrefixTuningConfig, get_peft_model
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-24 LoRA+](./L3-24_LoRA_plus.md) |
+| 下一站 | → [L3-24 LoRA+](notes/L3-24_LoRA_plus.md) |

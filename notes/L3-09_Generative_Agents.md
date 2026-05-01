@@ -262,7 +262,7 @@ Generative Agents 给我最大的启发是**"存在 vs 功能"的哲学差异**�
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-07 ReAct](./L3-07_ReAct.md)（Agent 的行动框架）
+- 📚 [L3-07 ReAct](notes/L3-07_ReAct.md)（Agent 的行动框架）
 
 ### 后续推荐
 - 🎯 **必读**：Voyager（Minecraft Agent）、AutoGen（多智能体协作框架）
@@ -328,4 +328,4 @@ class GenerativeAgent:
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-10 AutoGPT：自主 Agent 的崛起](./L3-10_AutoGPT.md) |
+| 下一站 | → [L3-10 AutoGPT：自主 Agent 的崛起](notes/L3-10_AutoGPT.md) |

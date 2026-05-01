@@ -323,8 +323,8 @@ ReAct 给我的最大启发是 **"勇敢做最朴素的事"**：
 ## 8️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（必读，ReAct = CoT + Action）
-- 📚 [L1-11 GPT-3](./L1-11_GPT3.md)（理解 in-context learning）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（必读，ReAct = CoT + Action）
+- 📚 [L1-11 GPT-3](notes/L1-11_GPT3.md)（理解 in-context learning）
 
 ### 后续推荐
 - 🎯 **必读**：Reflexion（+ 自我反思）、Toolformer（自监督学工具）
@@ -375,4 +375,4 @@ result = executor.invoke({"input": "爱因斯坦的生日加上 2024 等于多�
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-29 |
-| 下一站 | → [L3-08 Toolformer：工具使用的自监督学习](./L3-08_Toolformer.md) |
+| 下一站 | → [L3-08 Toolformer：工具使用的自监督学习](notes/L3-08_Toolformer.md) |

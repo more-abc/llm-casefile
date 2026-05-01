@@ -297,7 +297,7 @@ Mixtral 给我的最大启发是 **"开源就是营销"**：
 ## 7️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)
 - 📚 L1-20 Mistral 7B（滑动窗口注意力的基础）
 - 📚 L3-04 Switch Transformer（MoE 工程范式）
 - 📚 L3-03 GShard（路由器与负载均衡的源流）
@@ -405,4 +405,4 @@ tok = AutoTokenizer.from_pretrained("mistralai/Mixtral-8x7B-Instruct-v0.1")
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-29 |
-| 下一站 | → [L3-02 ST-MoE：稳定的稀疏专家](./L3-02_ST_MoE.md) |
+| 下一站 | → [L3-02 ST-MoE：稳定的稀疏专家](notes/L3-02_ST_MoE.md) |

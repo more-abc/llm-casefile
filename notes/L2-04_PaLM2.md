@@ -116,4 +116,4 @@ PaLM 2 给我最大的启发是**"质量优先于数量"**：
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-06 Fine-tuning Human Preferences](./L2-06_Fine_tuning_Human_Preferences.md) |
+| 下一站 | → [L2-06 Fine-tuning Human Preferences](notes/L2-06_Fine_tuning_Human_Preferences.md) |

@@ -215,10 +215,10 @@ Bahdanau Attention 给我最大的启发：**"瓶颈"往往是范式机会**。
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-06 Seq2Seq](./L1-06_Seq2Seq.md)（Bahdanau 攻击的对象）
+- 📚 [L1-06 Seq2Seq](notes/L1-06_Seq2Seq.md)（Bahdanau 攻击的对象）
 
 ### 后续推荐
-- 🎯 **必读**：[L1-01 Attention Is All You Need](./L1-01_Attention_Is_All_You_Need.md)
+- 🎯 **必读**：[L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)
 - 📚 Luong et al. 2015（dot-product attention 简化）
 - 📚 Pointer Networks（attention 的另一应用）
 
@@ -253,4 +253,4 @@ class BahdanauAttention(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-06 Seq2Seq](./L1-06_Seq2Seq.md)（Attention 想攻击的对象） |
+| 下一站 | → [L1-06 Seq2Seq](notes/L1-06_Seq2Seq.md)（Attention 想攻击的对象） |

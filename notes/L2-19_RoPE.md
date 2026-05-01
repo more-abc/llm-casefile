@@ -217,12 +217,12 @@ RoPE 给我最大的启发：**好的设计来自"换一个数学视角"**。
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Attention Is All You Need](./L1-01_Attention_Is_All_You_Need.md)（Sinusoidal PE 的源头）
+- 📚 [L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)（Sinusoidal PE 的源头）
 
 ### 后续推荐
-- 🎯 [L4-12 PoSE](./L4-12_PoSE.md)（基于 RoPE 的位置外推）
-- 🎯 [L4-14 YaRN](./L4-14_YaRN.md)（更精细的 RoPE 缩放）
-- 🎯 [L2-20 ALiBi](./L2-20_ALiBi.md)（另一条相对位置路线）
+- 🎯 [L4-12 PoSE](notes/L4-12_PoSE.md)（基于 RoPE 的位置外推）
+- 🎯 [L4-14 YaRN](notes/L4-14_YaRN.md)（更精细的 RoPE 缩放）
+- 🎯 [L2-20 ALiBi](notes/L2-20_ALiBi.md)（另一条相对位置路线）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 HuggingFace LLaMA 实现里的 `apply_rotary_pos_emb` 函数 = 标准参考。
@@ -238,4 +238,4 @@ HuggingFace LLaMA 实现里的 `apply_rotary_pos_emb` 函数 = 标准参考。
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-20 ALiBi](./L2-20_ALiBi.md)（另一种相对位置思路） |
+| 下一站 | → [L2-20 ALiBi](notes/L2-20_ALiBi.md)（另一种相对位置思路） |

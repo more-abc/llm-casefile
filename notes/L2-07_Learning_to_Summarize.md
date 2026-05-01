@@ -182,13 +182,13 @@ L2-07 给我的启发：**指标决定一切**。
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-10 Deep RL from Human Preferences](./L2-10_DeepRL_From_Human_Preferences.md)（思想起源）
-- 📚 [L2-09 PPO](./L2-09_PPO.md)（核心算法）
+- 📚 [L2-10 Deep RL from Human Preferences](notes/L2-10_DeepRL_From_Human_Preferences.md)（思想起源）
+- 📚 [L2-09 PPO](notes/L2-09_PPO.md)（核心算法）
 
 ### 后续推荐
-- 🎯 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)（直接后继）
-- 🎯 [L2-14 DPO](./L2-14_DPO.md)（不需要 RM 的 RLHF）
-- 🎯 [L4-25 Sycophancy](./L4-25_Sycophancy.md)（RLHF 的副作用）
+- 🎯 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)（直接后继）
+- 🎯 [L2-14 DPO](notes/L2-14_DPO.md)（不需要 RM 的 RLHF）
+- 🎯 [L4-25 Sycophancy](notes/L4-25_Sycophancy.md)（RLHF 的副作用）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 数据集：[OpenAI summarize-from-feedback](https://github.com/openai/summarize-from-feedback)
@@ -205,4 +205,4 @@ L2-07 给我的启发：**指标决定一切**。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-09 PPO](./L2-09_PPO.md) |
+| 下一站 | → [L2-09 PPO](notes/L2-09_PPO.md) |

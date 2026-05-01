@@ -162,9 +162,9 @@ graph TD
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L1-13 Tree of Thoughts](./L1-13_Tree_of_Thoughts.md)（启发式树搜索的简化版）
-- 📚 [L4-04 Process Reward Model](./L4-04_Process_Reward_Model.md)（MCTS 的价值函数来源）
-- 📚 [L4-01 Let's Verify Step by Step](./L4-01_Lets_Verify_Step_by_Step.md)（PRM 的奠基作）
+- 📚 [L1-13 Tree of Thoughts](notes/L1-13_Tree_of_Thoughts.md)（启发式树搜索的简化版）
+- 📚 [L4-04 Process Reward Model](notes/L4-04_Process_Reward_Model.md)（MCTS 的价值函数来源）
+- 📚 [L4-01 Let's Verify Step by Step](notes/L4-01_Lets_Verify_Step_by_Step.md)（PRM 的奠基作）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - rStar：[github.com/zhentingqi/rStar](https://github.com/zhentingqi/rStar)
@@ -181,4 +181,4 @@ graph TD
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-04 Process Reward Model](./L4-04_Process_Reward_Model.md) |
+| 下一站 | → [L4-04 Process Reward Model](notes/L4-04_Process_Reward_Model.md) |

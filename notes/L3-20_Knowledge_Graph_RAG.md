@@ -177,10 +177,10 @@ KG-RAG 让我重新理解"知识"的存储形式。
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-15 RAG](./L3-15_RAG.md)
-- 📚 [L3-17 Self-RAG](./L3-17_Self_RAG.md)
-- 📚 [L3-18 Corrective RAG](./L3-18_Corrective_RAG.md)
-- 📚 [L3-19 Query Augmentation](./L3-19_RAG_Query_Augmentation.md)
+- 📚 [L3-15 RAG](notes/L3-15_RAG.md)
+- 📚 [L3-17 Self-RAG](notes/L3-17_Self_RAG.md)
+- 📚 [L3-18 Corrective RAG](notes/L3-18_Corrective_RAG.md)
+- 📚 [L3-19 Query Augmentation](notes/L3-19_RAG_Query_Augmentation.md)
 
 ### 🚀 实践入口
 - Microsoft GraphRAG: [github.com/microsoft/graphrag](https://github.com/microsoft/graphrag)
@@ -197,4 +197,4 @@ KG-RAG 让我重新理解"知识"的存储形式。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-21 LoRA](./L3-21_LoRA.md) |
+| 下一站 | → [L3-21 LoRA](notes/L3-21_LoRA.md) |

@@ -184,10 +184,10 @@ StarCoder 让我看到**"开放数据"的影响力可能 > 模型本身**：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-28 AlphaCode](./L4-28_AlphaCode.md)
-- 📚 [L4-29 CodeGen](./L4-29_CodeGen.md)
-- 📚 [L2-22 MQA](./L2-22_MQA.md)（StarCoder 用的注意力变体）
-- 📚 [L1-17 LLaMA](./L1-17_LLaMA.md)（开源派的另一支柱）
+- 📚 [L4-28 AlphaCode](notes/L4-28_AlphaCode.md)
+- 📚 [L4-29 CodeGen](notes/L4-29_CodeGen.md)
+- 📚 [L2-22 MQA](notes/L2-22_MQA.md)（StarCoder 用的注意力变体）
+- 📚 [L1-17 LLaMA](notes/L1-17_LLaMA.md)（开源派的另一支柱）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 ```python

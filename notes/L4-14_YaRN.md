@@ -266,8 +266,8 @@ YaRN 给我最大的启发是**"分辨率与范围的 trade-off"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-19 RoPE](./L2-19_RoPE.md)（YaRN 的基础）
-- 📚 [L4-12 PoSE](./L4-12_PoSE.md)（另一个外推方案）
+- 📚 [L2-19 RoPE](notes/L2-19_RoPE.md)（YaRN 的基础）
+- 📚 [L4-12 PoSE](notes/L4-12_PoSE.md)（另一个外推方案）
 
 ### 后续推荐
 - 🎯 **必读**：Llama 2 + YaRN 的实际应用
@@ -336,4 +336,4 @@ def yarn_rope(x, positions, base=10000.0):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-15 GPT-4V：视觉觉醒](./L4-15_GPT4V.md) |
+| 下一站 | → [L4-15 GPT-4V：视觉觉醒](notes/L4-15_GPT4V.md) |

@@ -146,9 +146,9 @@ P-Tuning v2 是 PEFT 历史上一个有趣的"清算论文"：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L3-27 Prefix Tuning](./L3-27_Prefix_Tuning.md)（结构等价物）
-- 📚 [L3-23 PEFT Survey](./L3-23_PEFT.md)
-- 📚 [L3-21 LoRA](./L3-21_LoRA.md)
+- 📚 [L3-27 Prefix Tuning](notes/L3-27_Prefix_Tuning.md)（结构等价物）
+- 📚 [L3-23 PEFT Survey](notes/L3-23_PEFT.md)
+- 📚 [L3-21 LoRA](notes/L3-21_LoRA.md)
 
 ### 🚀 实践入口
 HuggingFace `peft` 库 `PromptEncoderConfig`、`PrefixTuningConfig`。
@@ -164,4 +164,4 @@ HuggingFace `peft` 库 `PromptEncoderConfig`、`PrefixTuningConfig`。
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-29 IA³](./L3-29_IA3.md) |
+| 下一站 | → [L3-29 IA³](notes/L3-29_IA3.md) |

@@ -250,8 +250,8 @@ BaseLayers 给我最大的启发是**"简单为王"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-02 ST-MoE](./L3-02_ST_MoE.md)（BaseLayers 的负载均衡技术）
-- 📚 [L3-03 GShard](./L3-03_GShard.md)（BaseLayers 的分布式实现）
+- 📚 [L3-02 ST-MoE](notes/L3-02_ST_MoE.md)（BaseLayers 的负载均衡技术）
+- 📚 [L3-03 GShard](notes/L3-03_GShard.md)（BaseLayers 的分布式实现）
 
 ### 后续推荐
 - 🎯 **必读**：Mixtral 8×7B 架构
@@ -317,4 +317,4 @@ class BaseLayersMoE(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-10 Griffin：RNN 与 MoE 的融合](./L4-10_Griffin.md) |
+| 下一站 | → [L4-10 Griffin：RNN 与 MoE 的融合](notes/L4-10_Griffin.md) |

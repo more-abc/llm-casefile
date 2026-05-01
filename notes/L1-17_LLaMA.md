@@ -220,8 +220,8 @@ LLaMA 给我最大的启发是**"组合创新 + 开源"的力量**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-03 Chinchilla](./L2-03_Chinchilla.md)（Chinchilla 规则的提出）
-- 📚 [L2-26 GQA](./L2-26_GQA.md)（LLaMA 使用的注意力优化）
+- 📚 [L2-03 Chinchilla](notes/L2-03_Chinchilla.md)（Chinchilla 规则的提出）
+- 📚 [L2-26 GQA](notes/L2-26_GQA.md)（LLaMA 使用的注意力优化）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA 2（L1-17 有详细）、Alpaca
@@ -274,4 +274,4 @@ print(tokenizer.decode(outputs[0]))
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-01 Scaling Laws：规模的理论基础](./L2-01_Scaling_Laws.md) |
+| 下一站 | → [L2-01 Scaling Laws：规模的理论基础](notes/L2-01_Scaling_Laws.md) |

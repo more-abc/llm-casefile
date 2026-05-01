@@ -281,8 +281,8 @@ LLaVA 给我最大的启发是**"组合创新的力量"**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)（LLaVA 的目标）
-- 📚 [L1-06 CLIP](./L1-06_CLIP.md)（视觉编码器）
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)（LLaVA 的目标）
+- 📚 [L1-06 CLIP](notes/L1-06_CLIP.md)（视觉编码器）
 
 ### 后续推荐
 - 🎯 **必读**：MiniGPT-4、LLaVA-1.5
@@ -344,4 +344,4 @@ class LLaVA(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-17 MiniGPT-4：更轻量的开源方案](./L4-17_MiniGPT4.md) |
+| 下一站 | → [L4-17 MiniGPT-4：更轻量的开源方案](notes/L4-17_MiniGPT4.md) |

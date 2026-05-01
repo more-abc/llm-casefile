@@ -175,10 +175,10 @@ AlphaCode 是"**算力即正义**"的极致体现：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-29 CodeGen](./L4-29_CodeGen.md)
-- 📚 [L4-30 StarCoder](./L4-30_StarCoder.md)
-- 📚 [L4-03 MCTS for LLM](./L4-03_MCTS_LLM.md)（推理时搜索的思想延续）
-- 📚 [L1-15 Self-Consistency](./L1-15_Self_Consistency.md)（采样投票的简化版）
+- 📚 [L4-29 CodeGen](notes/L4-29_CodeGen.md)
+- 📚 [L4-30 StarCoder](notes/L4-30_StarCoder.md)
+- 📚 [L4-03 MCTS for LLM](notes/L4-03_MCTS_LLM.md)（推理时搜索的思想延续）
+- 📚 [L1-15 Self-Consistency](notes/L1-15_Self_Consistency.md)（采样投票的简化版）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 论文：[arxiv.org/abs/2203.07814](https://arxiv.org/abs/2203.07814)
@@ -196,4 +196,4 @@ AlphaCode 是"**算力即正义**"的极致体现：
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-29 CodeGen](./L4-29_CodeGen.md) |
+| 下一站 | → [L4-29 CodeGen](notes/L4-29_CodeGen.md) |

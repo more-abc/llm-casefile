@@ -232,8 +232,8 @@ RMSNorm 给我最大的启发是**"断舍离"的智慧**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-09 LayerNorm](./L1-09_LayerNorm.md)（RMSNorm 的对比基准）
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（RMSNorm 的应用场景）
+- 📚 [L1-09 LayerNorm](notes/L1-09_LayerNorm.md)（RMSNorm 的对比基准）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（RMSNorm 的应用场景）
 
 ### 后续推荐
 - 🎯 **必读**：LLaMA 架构解析（看 RMSNorm 的实际使用）
@@ -288,4 +288,4 @@ norm = RMSNorm(d_model=4096)
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-25 Longformer：望远镜式的长文档处理](./L2-25_Longformer.md) |
+| 下一站 | → [L2-25 Longformer：望远镜式的长文档处理](notes/L2-25_Longformer.md) |

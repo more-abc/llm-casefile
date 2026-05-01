@@ -159,10 +159,10 @@ Kosmos-1 让我看清"多模态的两种路径"：
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-15 GPT-4V](./L4-15_GPT4V.md)
-- 📚 [L4-16 LLaVA](./L4-16_LLaVA.md)
-- 📚 [L4-17 MiniGPT-4](./L4-17_MiniGPT4.md)
-- 📚 [L4-19 Fuyu-8B](./L4-19_Fuyu8B.md)
+- 📚 [L4-15 GPT-4V](notes/L4-15_GPT4V.md)
+- 📚 [L4-16 LLaVA](notes/L4-16_LLaVA.md)
+- 📚 [L4-17 MiniGPT-4](notes/L4-17_MiniGPT4.md)
+- 📚 [L4-19 Fuyu-8B](notes/L4-19_Fuyu8B.md)
 
 ---
 
@@ -175,4 +175,4 @@ Kosmos-1 让我看清"多模态的两种路径"：
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-21 RLAP Safety](./L4-21_RLAP_Safety.md) |
+| 下一站 | → [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md) |

@@ -255,8 +255,8 @@ GShard 给我最大的启发是**"分而治之"是工程上的普世智慧**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-04 Switch Transformer](./L3-04_Switch_Transformer.md)（GShard 的应用对象）
-- 📚 [L3-02 ST-MoE](./L3-02_ST_MoE.md)（负载均衡是 GShard 的配套技术）
+- 📚 [L3-04 Switch Transformer](notes/L3-04_Switch_Transformer.md)（GShard 的应用对象）
+- 📚 [L3-02 ST-MoE](notes/L3-02_ST_MoE.md)（负载均衡是 GShard 的配套技术）
 
 ### 后续推荐
 - 🎯 **必读**：PaLM 540B 架构解析
@@ -320,4 +320,4 @@ class ExpertParallelMoE(nn.Module):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-06 BaseLayers MoE：专家之基](./L3-06_BaseLayers_MoE.md) |
+| 下一站 | → [L3-06 BaseLayers MoE：专家之基](notes/L3-06_BaseLayers_MoE.md) |

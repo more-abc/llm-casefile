@@ -207,8 +207,8 @@ STaR 给我最大的启发是**"反思是理解的开始"**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-12 Chain-of-Thought](./L1-12_Chain_of_Thought.md)（STaR 的基础）
-- 📚 [L3-17 Self-RAG](./L3-17_Self_RAG.md)（STaR 的后续发展）
+- 📚 [L1-12 Chain-of-Thought](notes/L1-12_Chain_of_Thought.md)（STaR 的基础）
+- 📚 [L3-17 Self-RAG](notes/L3-17_Self_RAG.md)（STaR 的后续发展）
 
 ### 后续推荐
 - 🎯 **必读**：Self-RAG
@@ -258,4 +258,4 @@ def star_train(model, dataset, rationale_prompt):
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-15 Self-Consistency：民主投票](./L1-15_Self_Consistency.md) |
+| 下一站 | → [L1-15 Self-Consistency：民主投票](notes/L1-15_Self_Consistency.md) |

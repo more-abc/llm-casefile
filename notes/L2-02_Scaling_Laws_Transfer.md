@@ -204,7 +204,7 @@ $$
 ### 🔥 Hot Take
 1. **这是"预训练 ROI 计算器"的原型**：每家想自训 LLM 的公司都该背下这条公式。
 2. **解释了"小语种 + 大基座"为什么管用**：低资源语言（$D_F$ 小）+ 大模型（$N$ 大）正中规律 1 + 规律 2 的甜蜜区。
-3. **被 LoRA / Adapter 时代加速**：[L3-21 LoRA](./L3-21_LoRA.md) 让"用大模型 + 极少数据 fine-tune"成为日常——L2-02 给出了为什么这么做有效的定量解释。
+3. **被 LoRA / Adapter 时代加速**：[L3-21 LoRA](notes/L3-21_LoRA.md) 让"用大模型 + 极少数据 fine-tune"成为日常——L2-02 给出了为什么这么做有效的定量解释。
 4. **Chinchilla（L2-03）反过来打脸了一部分**：那篇论文说"训练 token 不够才是瓶颈"，与本篇"预训练值钱"的高数据区结论一致——两者其实互补。
 
 ---
@@ -275,13 +275,13 @@ L2-02 给我最深的启发：**"模糊的好"必须被量化成"具体的好"�
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L2-01 Scaling Laws](./L2-01_Scaling_Laws.md)（同作者团队的"母法则"）
-- 📚 [L1-04 GPT-2](./L1-04_GPT2.md)（零样本迁移现象）
+- 📚 [L2-01 Scaling Laws](notes/L2-01_Scaling_Laws.md)（同作者团队的"母法则"）
+- 📚 [L1-04 GPT-2](notes/L1-04_GPT2.md)（零样本迁移现象）
 
 ### 后续推荐
-- 🎯 [L2-03 Chinchilla](./L2-03_Chinchilla.md)（修正 L2-01，与本篇互补）
-- 🎯 [L3-21 LoRA](./L3-21_LoRA.md)（小数据迁移的工程实现）
-- 🎯 [L4-26 MedPaLM](./L4-26_MedPaLM.md) / 各类领域预训练论文
+- 🎯 [L2-03 Chinchilla](notes/L2-03_Chinchilla.md)（修正 L2-01，与本篇互补）
+- 🎯 [L3-21 LoRA](notes/L3-21_LoRA.md)（小数据迁移的工程实现）
+- 🎯 [L4-26 MedPaLM](notes/L4-26_MedPaLM.md) / 各类领域预训练论文
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 
@@ -324,4 +324,4 @@ for D_F in [10_000, 100_000, 1_000_000]:
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-05-01 |
-| 下一站 | → [L2-03 Chinchilla](./L2-03_Chinchilla.md) |
+| 下一站 | → [L2-03 Chinchilla](notes/L2-03_Chinchilla.md) |

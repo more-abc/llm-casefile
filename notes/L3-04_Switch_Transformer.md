@@ -230,8 +230,8 @@ Switch Transformer 给我最大的启发是**"专 vs 精"的取舍**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L3-02 ST-MoE](./L3-02_ST_MoE.md)（Switch 的改进版本）
-- 📚 [L3-01 Mixtral](./L3-01_Mixtral.md)（Switch 的工业落地）
+- 📚 [L3-02 ST-MoE](notes/L3-02_ST_MoE.md)（Switch 的改进版本）
+- 📚 [L3-01 Mixtral](notes/L3-01_Mixtral.md)（Switch 的工业落地）
 
 ### 后续推荐
 - 🎯 **必读**：Mixtral（L3-01）、DeepSeek V2
@@ -294,4 +294,4 @@ def switch_router(x, num_experts, expert_capacity=1.0):
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L3-01 Mixtral：Switch 的工业落地](./L3-01_Mixtral.md) |
+| 下一站 | → [L3-01 Mixtral：Switch 的工业落地](notes/L3-01_Mixtral.md) |

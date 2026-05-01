@@ -243,8 +243,8 @@ Longformer 给我最大的启发是**"选择性注意"是智能的本质**：
 ## 9️⃣ 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（Attention 的基础）
-- 📚 [L2-21 FlashAttention](./L2-21_FlashAttention.md)（Longformer 的技术继承者）
+- 📚 [L1-01 Transformer](notes/L1-01_Attention_Is_All_You_Need.md)（Attention 的基础）
+- 📚 [L2-21 FlashAttention](notes/L2-21_FlashAttention.md)（Longformer 的技术继承者）
 
 ### 后续推荐
 - 🎯 **必读**：BigBird（L2-30，Longformer 的扩展）
@@ -293,4 +293,4 @@ outputs = model(input_ids, attention_mask=attention_mask)
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L2-26 GQA：MHA 和 MQA 的平衡](./L2-26_GQA.md) |
+| 下一站 | → [L2-26 GQA：MHA 和 MQA 的平衡](notes/L2-26_GQA.md) |

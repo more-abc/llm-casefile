@@ -168,9 +168,9 @@ PRM 让我意识到：**对齐的核心不是"答案对齐"而是"价值对齐"*
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-01 Let's Verify Step by Step](./L4-01_Lets_Verify_Step_by_Step.md)（PRM 的奠基论文）
-- 📚 [L4-03 MCTS for LLM](./L4-03_MCTS_LLM.md)（PRM 的下游用法之一）
-- 📚 [L2-05 InstructGPT / RLHF](./L2-05_InstructGPT_RLHF.md)（ORM 路线的源头）
+- 📚 [L4-01 Let's Verify Step by Step](notes/L4-01_Lets_Verify_Step_by_Step.md)（PRM 的奠基论文）
+- 📚 [L4-03 MCTS for LLM](notes/L4-03_MCTS_LLM.md)（PRM 的下游用法之一）
+- 📚 [L2-05 InstructGPT / RLHF](notes/L2-05_InstructGPT_RLHF.md)（ORM 路线的源头）
 
 ### 🚀 <a id="复现"></a>3 小时复现路径
 - 数据集：[PRM800K](https://github.com/openai/prm800k)
@@ -187,4 +187,4 @@ PRM 让我意识到：**对齐的核心不是"答案对齐"而是"价值对齐"*
 | 推荐指数 | ⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-05 STaR](./L4-05_STaR.md) |
+| 下一站 | → [L4-05 STaR](notes/L4-05_STaR.md) |

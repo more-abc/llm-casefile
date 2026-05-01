@@ -169,10 +169,10 @@ Red Teaming 给我最大的启发：**安全是组织能力，不仅是技术问
 ---
 
 ## 🔟 延伸卷宗
-- 📚 [L4-21 RLAP Safety](./L4-21_RLAP_Safety.md)
-- 📚 [L4-23 LLM Fuzzing](./L4-23_LLM_Fuzzing.md)
-- 📚 [L2-12 Constitutional AI](./L2-12_Constitutional_AI.md)
-- 📚 [L4-25 Sycophancy](./L4-25_Sycophancy.md)
+- 📚 [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md)
+- 📚 [L4-23 LLM Fuzzing](notes/L4-23_LLM_Fuzzing.md)
+- 📚 [L2-12 Constitutional AI](notes/L2-12_Constitutional_AI.md)
+- 📚 [L4-25 Sycophancy](notes/L4-25_Sycophancy.md)
 
 ---
 
@@ -185,4 +185,4 @@ Red Teaming 给我最大的启发：**安全是组织能力，不仅是技术问
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L4-23 LLM Fuzzing](./L4-23_LLM_Fuzzing.md) |
+| 下一站 | → [L4-23 LLM Fuzzing](notes/L4-23_LLM_Fuzzing.md) |
