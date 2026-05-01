@@ -182,10 +182,6 @@ graph TD
     Mamba2 -.-> Mamba3["Mamba-3 (推测)"]
 ```
 
-**文字版 fallback**：
-- Mamba → Mamba-2
-- Mamba-2 → Jamba（混合 Mamba + Transformer 的架构）
-
 ---
 
 ## 7️⃣ 侦探手记（My Take）

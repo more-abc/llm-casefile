@@ -229,10 +229,6 @@ graph TD
     Chinchilla -.未公开.-> GPT4["GPT-4 (猜测使用 Chinchilla 配置)"]
 ```
 
-**文字版 fallback**：
-- Chinchilla → LLaMA（Meta）、Mistral 7B、Command R（Cohere）、PaLM 2（Google）
-- GPT-4 的训练配置从未公开，但普遍推测使用了 Chinchilla 配套
-
 **深远影响**：
 - 整个 LLM 训练的资源分配范式从此改变
 - 所有新模型训练都默认使用"1:2"的参数:数据比

@@ -258,9 +258,6 @@ graph TD
     RAG --> LlamaIndex["LlamaIndex"]
 ```
 
-**文字版 fallback**：
-- RAG → 企业知识库、客服机器人、文档问答、LangChain（框架）、LlamaIndex（框架）
-
 **深远影响**：
 - 成为企业知识管理的标准方案
 - 启发了 LangChain、LlamaIndex 等开发框架

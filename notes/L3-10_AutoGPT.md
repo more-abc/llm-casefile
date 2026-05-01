@@ -248,10 +248,6 @@ graph TD
     AutoGPT --> Voyager["Voyager (Minecraft)"]
 ```
 
-**文字版 fallback**：
-- AutoGPT → AI Agent 生态系统（2023-2024）
-- AutoGPT → LangChain Agent、AutoGen（Microsoft）、ChatDev、 Voyager（Minecraft）
-
 **深远影响**：
 - 引爆了 2023 年的 AI Agent 赛道
 - 证明了"LLM 作为自主 Agent"的可行性

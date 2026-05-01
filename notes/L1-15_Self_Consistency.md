@@ -177,10 +177,6 @@ graph TD
     SelfConsistency --> MajorityVote["多数投票机制"]
 ```
 
-**文字版 fallback**：
-- Self-Consistency → 成为推理增强的标准方法之一
-- 启发了后续的"投票"类方法
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

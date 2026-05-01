@@ -284,7 +284,7 @@ git clone https://github.com/harvardnlp/annotated-transformer
 - 区分了"Attention 机制"（Bahdanau 2014）与"全靠 Attention"（本篇）
 - 解释了 √d_k 缩放的数学动机
 - 引用了 3 篇反 Hot Take 的具体证据
-- 提供了影响图、复现路径、延伸阅读、Mermaid fallback
+- 提供了影响图、复现路径、延伸阅读
 
 **未达成 / 不足（坦诚反思）**：
 - ❌ **未独立验证 Table 3 的 ablation 数据**：本笔记中"sin/cos vs 学习式 PE 几乎相同"的结论是转述，没有亲自跑过对比实验，无法判断当时报告的是单 seed 还是多 seed 平均；

@@ -206,11 +206,6 @@ graph TD
     MQA --> MHA["MHA (Llama 3)"]
 ```
 
-**文字版 fallback**：
-- MQA → PaLM 540B、Gemini（Google 的 70B+ 模型标配）
-- MQA → GQA（LLaMA 2 的选择，更平衡的折中）
-- MQA → MHA（LLaMA 3 回到更多 K/V 头，可能因为质量问题）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

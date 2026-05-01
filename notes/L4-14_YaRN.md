@@ -236,10 +236,6 @@ graph TD
     YaRN -.-> Mistral["Mistral 7B (推测)"]
 ```
 
-**文字版 fallback**：
-- YaRN → 长上下文 LLM（各种 7B/13B/70B 的长上下文版本）
-- YaRN → Llama 2 的上下文扩展（Mistral 等）
-
 **深远影响**：
 - 成为长上下文扩展的备选方案
 - 启发了更多"动态缩放"的研究

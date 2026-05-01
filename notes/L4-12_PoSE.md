@@ -224,10 +224,6 @@ graph TD
     PoSE -.-> ALiBi["ALiBi (对比)"]
 ```
 
-**文字版 fallback**：
-- PoSE → 长上下文训练的其他方案
-- PoSE 与位置插值、ALiBi 形成互补
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

@@ -69,8 +69,6 @@ graph TD
     G --> G3[GPT-2/3 / ChatGPT / LLaMA]
 ```
 
-**文字版 fallback**：Transformer (2017) 同时孕育两支——(a) BERT 分支：Encoder-only，做完形填空；后裔有 RoBERTa、ALBERT、DeBERTa、ELECTRA。(b) GPT 分支：Decoder-only，做续写；后裔有 GPT-2、GPT-3、ChatGPT、LLaMA。
-
 ---
 
 ## 3️⃣ <a id="精读"></a>🚗 30 分钟精读

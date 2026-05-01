@@ -228,10 +228,6 @@ graph TD
     BaseLayers --> STMoE["ST-MoE"]
 ```
 
-**文字版 fallback**：
-- BaseLayers → Switch Transformer、GShard（PaLM 540B）、Mixtral 8×7B、ST-MoE
-- 成为几乎所有现代 MoE 的基础设计
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

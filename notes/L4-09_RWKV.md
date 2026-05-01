@@ -204,10 +204,6 @@ graph TD
     RWKV -.-> LinearRNN["Linear RNN 系列"]
 ```
 
-**文字版 fallback**：
-- RWKV → RWKV-4、Raven
-- RWKV 的"线性 RNN + 并行训练"思想 → Mamba、RetNet、Linear RNN 系列
-
 **深远影响**：
 - 成为可商用的开源 LLM 方案之一
 - 启发了"Linear RNN"研究方向

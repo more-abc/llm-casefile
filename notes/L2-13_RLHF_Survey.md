@@ -195,10 +195,6 @@ graph TD
     RLHF_Survey --> Constitutional["Constitutional AI (L2-12)"]
 ```
 
-**文字版 fallback**：
-- RLHF Survey → InstructGPT → ChatGPT（2022）
-- RLHF Survey → DPO（L2-14）、Constitutional AI（L2-12）
-
 **深远影响**：
 - 帮助新人理解 RLHF 全貌
 - 厘清了 RLHF 技术的演化脉络

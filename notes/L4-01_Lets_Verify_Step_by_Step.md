@@ -200,11 +200,6 @@ graph TD
     PRM --> MCTS["MCTS + LLM (L4-03)"]
 ```
 
-**文字版 fallback**：
-- PRM → Process-DPO（用 PRM 信号训练 DPO）
-- PRM → 数学推理 Agent（DeepMind 的 Agent 研究）
-- PRM → STaR（L4-05）、MCTS + LLM（L4-03）
-
 **深远影响**：
 - 催生了 Process Reward Model 研究赛道
 - 启发了 Process-DPO（结合 PRM 和 DPO 的训练方法）

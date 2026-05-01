@@ -193,10 +193,6 @@ graph TD
     SwiGLU --> GLM["GLM-130B (Tsinghua)"]
 ```
 
-**文字版 fallback**：
-- GLU → SwiGLU（LLaMA 全系）、GatedGeGLU
-- SwiGLU → LLaMA 1/2/3、PaLM（Google）、GLM-130B（清华）
-
 **深远影响**：
 - 几乎所有现代 LLM 的 FFN 都用 SwiGLU
 - 成了"标准 FFN 配置"

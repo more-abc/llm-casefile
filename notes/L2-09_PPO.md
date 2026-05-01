@@ -213,12 +213,6 @@ graph TD
     PPO --> DPO["DPO (L2-14) 替代了PPO"]
 ```
 
-**文字版 fallback**：
-- PPO → InstructGPT（RLHF 核心） → ChatGPT（2022）
-- PPO → Robotics（OpenAI/DeepMind）
-- PPO → Atari Games
-- PPO 的精神 → DPO（用直接优化替代 PPO，在 LLM 对齐中降低了复杂度）
-
 **深远影响**：
 - 成了 RL 的"默认算法"（就像 Adam 是 DL 的默认优化器）
 - ChatGPT 的技术基础之一（RLHF 中的 PPO 步骤）

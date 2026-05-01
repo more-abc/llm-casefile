@@ -227,11 +227,6 @@ graph TD
     Atlas --> ChatGPT["ChatGPT Plugins"]
 ```
 
-**文字版 fallback**：
-- Atlas → RAG（2022-2023 爆发的赛道）
-- Atlas → LangChain RAG、LlamaIndex（开源框架）
-- Atlas → ChatGPT Plugins（OpenAI 的 RAG 产品化）
-
 **深远影响**：
 - 开创了 RAG 赛道（2023 年爆发）
 - 成为企业知识库的标准方案

@@ -236,9 +236,6 @@ graph TD
     WebGPT --> Perplexity["Perplexity AI"]
 ```
 
-**文字版 fallback**：
-- WebGPT → ChatGPT Plugins（OpenAI）、Bing Chat（Microsoft）、RAG 后续发展、Perplexity AI
-
 **深远影响**：
 - 开启了"AI 联网"赛道
 - 启发了 ChatGPT Plugins、Bing Chat

@@ -167,13 +167,6 @@ graph TD
     Verify --> O1[OpenAI o1 2024]
 ```
 
-**Mermaid 文字版 fallback**：
-- Wei 2022 Few-shot CoT
-  - → Kojima 2022 Zero-shot CoT（"Let's think step by step"，**归属是 Kojima 不是 Wei**）
-  - → Wang 2022 Self-Consistency（L1-15）→ Yao 2023 ToT（L1-13）→ PRM（L4-04）→ *Let's Verify Step-by-Step*（L4-01）→ OpenAI o1（2024，把 CoT 内化为 RL 目标）
-  - → Yao 2022 ReAct（L3-07，CoT × 工具调用）
-  - → Chen 2022 Program-of-Thought（用 Python 替代自然语言推理）
-
 重塑：研究范式（benchmark 分 with/without CoT）｜产品形态（ChatGPT 默认带"思考"）｜下一代模型（o1/R1 把 CoT 内化）。
 
 ---

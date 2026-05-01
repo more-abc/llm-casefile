@@ -189,10 +189,6 @@ graph TD
     RetNet -.-> Mamba["Mamba (L4-06)"]
 ```
 
-**文字版 fallback**：
-- RetNet → SSM 路线、Linear RNN 系列
-- RetNet 的"循环注意力"思想 → Mamba（L4-06）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

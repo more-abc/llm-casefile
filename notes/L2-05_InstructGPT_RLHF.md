@@ -228,10 +228,6 @@ graph TD
     InstructGPT --> ConstitutionalAI["Constitutional AI (L2-12)"]
 ```
 
-**文字版 fallback**：
-- InstructGPT → ChatGPT（2022）、GPT-4、Claude（Anthropic）、Sparrow（DeepMind）
-- InstructGPT 启发了 DPO（L2-14）和 Constitutional AI（L2-12）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

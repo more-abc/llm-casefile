@@ -218,11 +218,6 @@ graph TD
     HuggingGPT -.-> Toolformer["Toolformer (L3-13)"]
 ```
 
-**文字版 fallback**：
-- HuggingGPT → AutoGen（Microsoft 的多智能体框架）、ChatDev（虚拟软件公司）
-- HuggingGPT → LangChain Tool Use（HuggingGPT 的工程简化版）
-- HuggingGPT 的调度思想 → Toolformer（L3-13）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

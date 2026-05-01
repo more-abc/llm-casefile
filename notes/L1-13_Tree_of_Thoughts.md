@@ -187,9 +187,6 @@ graph TD
     ToT --> Planning["复杂规划任务"]
 ```
 
-**文字版 fallback**：
-- ToT → AlphaCode（编程竞赛）、创意写作应用、复杂规划任务
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

@@ -195,10 +195,6 @@ graph TD
     LLaMA --> LLaMA3["LLaMA 3"]
 ```
 
-**文字版 fallback**：
-- LLaMA → Alpaca、Vicuna、Guanaco、LLaMA 2、LLaMA 3
-- 催生了整个开源大模型生态
-
 ---
 
 ## 8️⃣ 侦探手记（My Take)

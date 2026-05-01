@@ -225,10 +225,6 @@ graph TD
     GQA -.-> LLaMA3_8B["LLaMA 3 8B (回到 MHA)"]
 ```
 
-**文字版 fallback**：
-- GQA → LLaMA 2（8 个 K/V 头）、LLaMA 3 70B（保持 GQA）、Qwen 2（阿里）
-- LLaMA 3 8B 出于质量考虑回到 MHA（8B 模型可以用 MHA）
-
 **深远影响**：
 - 成为 7B-70B 模型的标准配置
 - 70B 以上几乎都用 GQA（或 MQA）

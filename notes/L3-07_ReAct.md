@@ -283,19 +283,6 @@ graph TD
     FuncCall --> ToolEco["LLM Tool Use 生态"]
 ```
 
-**⬇️ Mermaid 不渲染时的文字版 fallback**：
-```
-继承关系：
-  WebGPT (2021) ────────┐
-  SayCan (2022) ────────┤
-  Inner Monologue (2022)┼──→ ReAct (2022.10) ──┬→ AutoGPT (2023.03)
-  CoT (2022.01) ────────┘     "经典化"         ├→ LangChain Agent
-                                                ├→ Reflexion (2023)
-                                                ├→ OpenAI Func Calling (2023.06) → Tool Use 生态
-                                                ├→ AutoGen / CrewAI
-                                                └→ SWE-Agent (2024)
-```
-
 **深远影响**：
 - 让"从言语到行动"成为 LLM 的下一个核心能力赛道
 - OpenAI 把 ReAct 模式工程化为 Assistants API + Function Calling

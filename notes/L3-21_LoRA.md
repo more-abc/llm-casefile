@@ -204,9 +204,6 @@ graph TD
     LoRA --> 微调生态["大模型微调生态"]
 ```
 
-**文字版 fallback**：
-- LoRA → QLoRA（L3-22）、DoRA（L3-25）、AdaLoRA、整个大模型微调生态
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

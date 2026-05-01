@@ -215,10 +215,6 @@ graph TD
     Longformer --> ChatGPT["ChatGPT 16K Context"]
 ```
 
-**文字版 fallback**：
-- Longformer → BigBird（L2-30）、FlashAttention（L2-21）、RoPE + 位置插值
-- Longformer → ChatGPT 的 16K 上下文支持（推测）
-
 **深远影响**：
 - 开启了"长上下文"赛道
 - 启发了 BigBird、Flash Attention 等后续工作

@@ -227,9 +227,6 @@ graph TD
     BigBird --> SparseAttn["Sparse Attention 研究"]
 ```
 
-**文字版 fallback**：
-- BigBird → Longformer（L2-25）、LED（长文档生成）、Sparse Attention 研究
-
 **深远影响**：
 - 开启了"稀疏 Attention"研究方向
 - 启发了 Longformer、LED 等后续工作

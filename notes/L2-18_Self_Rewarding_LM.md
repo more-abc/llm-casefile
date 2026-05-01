@@ -224,10 +224,6 @@ graph TD
     SRLM -.-> SelfImprove["AI 自我改进研究"]
 ```
 
-**文字版 fallback**：
-- Self-Rewarding LM → 迭代对齐方法、Constitutional AI
-- Self-Rewarding LM 的思想 → LLaMA 3 的训练（推测）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

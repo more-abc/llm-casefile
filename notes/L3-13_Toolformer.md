@@ -216,9 +216,6 @@ graph TD
     Toolformer --> AutoGPT["AutoGPT Tool Use"]
 ```
 
-**文字版 fallback**：
-- Toolformer → ReAct（L3-07 的工具使用框架）、ToolLLaMA、ChatGPT Plugins、AutoGPT 的工具使用
-
 **深远影响**：
 - 开启了 Tool Learning 赛道
 - 成为 Tool Use Agent 的基础

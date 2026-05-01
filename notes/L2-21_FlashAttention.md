@@ -194,9 +194,6 @@ graph TD
     FlashAttention --> OpenSource["FlashAttention 开源实现"]
 ```
 
-**文字版 fallback**：
-- Flash Attention → LLaMA 序列扩展、ChatGPT 16K/128K、长文档模型、FlashAttention 开源实现
-
 ---
 
 ## 8️⃣ 侦探手记（My Take)

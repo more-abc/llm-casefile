@@ -231,9 +231,6 @@ graph TD
     Griffin -.-> HybridArch["Hybrid Architectures"]
 ```
 
-**文字版 fallback**：
-- Griffin → Jamba（混合 Mamba + Transformer）、后续 RNN 融合模型
-
 **深远影响**：
 - 开启了"融合架构"研究方向
 - 启发了 Jamba 等混合模型

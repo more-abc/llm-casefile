@@ -232,12 +232,6 @@ graph TD
     GA -.-> Pedagogy["Pedogy: Agent 教学"]
 ```
 
-**文字版 fallback**：
-- Generative Agents → AI Agent 研究热潮（AutoGPT、LangChain、AutoGen）
-- Generative Agents → 游戏 NPC 2.0（更真实的人工角色）
-- Generative Agents → 人工社会模拟（研究人类社会的新工具）
-- Generative Agents → Voyager（Minecraft 终身学习 Agent）
-
 **深远影响**：
 - 催生了 AI Agent 赛道（AutoGPT、LangChain、AutoGen 的技术基础）
 - 启发了"具身认知"研究方向

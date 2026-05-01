@@ -223,11 +223,6 @@ graph TD
     CAI --> Sparrow["Sparrow (DeepMind)"]
 ```
 
-**文字版 fallback**：
-- Constitutional AI → Claude（Anthropic 的主力模型）
-- Constitutional AI → RLHF with AI Feedback（替代纯人类标注）
-- Constitutional AI → Sparrow（DeepMind 的对齐方法）
-
 **深远影响**：
 - 开创了"AI 自我监督"的对齐范式
 - 降低了 RLHF 的人类标注成本

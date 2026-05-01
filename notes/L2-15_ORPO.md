@@ -200,9 +200,6 @@ graph TD
     ORPO --> Notus["Notus"]
 ```
 
-**文字版 fallback**：
-- DPO → ORPO（2024）
-- ORPO → HuggingFace TRL 内置实现、Zephyr、Notus（开源对齐模型）
 
 ---
 

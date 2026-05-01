@@ -188,10 +188,6 @@ graph TD
     LayerNorm --> GPT["GPT 系列"]
 ```
 
-**文字版 fallback**：
-- LayerNorm → 所有 Transformer 模型（BERT、GPT、LLaMA 等）
-- 成为深度学习的基础组件
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

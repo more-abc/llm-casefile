@@ -184,9 +184,6 @@ graph TD
     STaR --> Reflection["Reflection Agent"]
 ```
 
-**文字版 fallback**：
-- STaR → Self-RAG（L3-17）、Reflection Agent
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

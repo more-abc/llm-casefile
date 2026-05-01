@@ -252,9 +252,6 @@ graph TD
     LLaVA --> Multimodal["开源多模态模型"]
 ```
 
-**文字版 fallback**：
-- LLaVA → MiniGPT-4、InstructBLIP、Qwen-VL（阿里）、众多开源多模态模型
-
 **深远影响**：
 - 成为开源多模态的标准 baseline
 - 启发了 MiniGPT-4、InstructBLIP 等后续工作

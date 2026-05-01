@@ -202,10 +202,6 @@ graph TD
     RMSNorm --> BaseLM["Base LMs (广泛应用)"]
 ```
 
-**文字版 fallback**：
-- RMSNorm → LLaMA 全系、Mistral、StableLM 等几乎所有现代 LLM
-- 成为"标准归一化"之一
-
 **深远影响**：
 - 几乎所有高效 LLM 都用 RMSNorm 替代 LayerNorm
 - 节省了 33% 的归一化计算量

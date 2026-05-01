@@ -218,10 +218,6 @@ graph TD
     STMoE --> DeepSeek["DeepSeek V2 (间接)"]
 ```
 
-**文字版 fallback**：
-- ST-MoE → Google 生产 MoE 模型
-- ST-MoE 的负载均衡思想 → Mixtral 8×7B、DeepSeek V2 等后续 MoE 模型
-
 **深远影响**：
 - 成为 MoE 训练的"标准配置"
 - 负载均衡成为 MoE 的必备技术

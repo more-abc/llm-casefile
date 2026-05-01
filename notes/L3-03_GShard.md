@@ -226,10 +226,6 @@ graph TD
     GShard --> LargeMoE["Large MoE Models"]
 ```
 
-**文字版 fallback**：
-- GShard → PaLM 540B（Google）、Switch Transformer 的分布式训练
-- GShard 的思想 → 后续 Large MoE 模型（Mixtral、DBRX 等）的分布式实现参考
-
 **深远影响**：
 - 成为超大模型分布式训练的基础框架
 - 启发了后续的 DeepSpeed、Megatron-LM 等框架

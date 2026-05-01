@@ -189,10 +189,6 @@ graph TD
     Adam --> AllLLM["几乎所有 LLM"]
 ```
 
-**文字版 fallback**：
-- Adam → 几乎所有 LLM 的训练优化器
-- 成为深度学习的事实标准
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）

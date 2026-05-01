@@ -215,10 +215,6 @@ graph TD
     LLaMA --> LLaMA2["LLaMA 2 / 3"]
 ```
 
-**文字版 fallback**：
-- Kaplan (2020) → GPT-3 175B × 300B → ChatGPT (2022)
-- Chinchilla (2022) → Chinchilla 70B × 1.4T → LLaMA (Meta)、Mistral 7B、Command R
-
 **深远影响**：
 - 彻底改变了 LLM 训练的资源分配策略
 - GPT-4 的训练配置（从未公开）被推测使用 Chinchilla 配套

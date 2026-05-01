@@ -204,9 +204,6 @@ graph TD
     Switch --> STMoE["ST-MoE (L3-02)"]
 ```
 
-**文字版 fallback**：
-- Switch Transformer → Mixtral 8×7B（2023）、DBRX（Databricks）、DeepSeek V2、ST-MoE（L3-02）
-
 **深远影响**：
 - 开启了"稀疏大模型"时代
 - 证明了"参数扩展 ≠ 计算扩展"

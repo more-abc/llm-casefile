@@ -221,11 +221,6 @@ graph TD
     GPT4V --> VisionAgent["视觉 Agent"]
 ```
 
-**文字版 fallback**：
-- GPT-4V → LLaVA（L4-16，开源替代）、GPT-4V API
-- GPT-4V → 开启了多模态 LLM 时代
-- GPT-4V → 启发了视觉 Agent 的研究
-
 **深远影响**：
 - 开启了"多模态 LLM"赛道
 - 启发了 LLaVA、MiniGPT-4 等开源方案

@@ -181,10 +181,6 @@ graph TD
     ALiBi -.-> NoPE["NoPE (未来方向)"]
 ```
 
-**文字版 fallback**：
-- ALiBi → LLaMA（部分版本）、Falcon（ALiBi 作为位置编码）
-- ALiBi 的"相对位置 + 无参数"思想 → RoPE（L2-19）、NoPE（无位置编码方向）
-
 ---
 
 ## 8️⃣ 侦探手记（My Take）
