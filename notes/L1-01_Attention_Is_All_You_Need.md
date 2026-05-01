@@ -162,7 +162,7 @@ x ──────────────┐
 | **训练数据** | WMT 2014 EN-DE (4.5M 句对), EN-FR (36M 句对) | §5.1 |
 | **训练硬件** | 8× NVIDIA P100 GPU | §5.2 |
 | **Base / Big 训练时间** | 12 小时 / 3.5 天 | §5.2 |
-| **Citation 数** | 24 万+（截至 2025 年5月） | Google Scholar |
+| **Citation 数** | 24 万+（截至 2026 年5月） | Google Scholar |
 
 ### 🔥 我的争议观点（Hot Take）
 
@@ -216,7 +216,9 @@ graph LR
 ```
 
 **继承者**：BERT、GPT 全家、ViT、AlphaFold2、Whisper、Sora……
+
 **挑战者**：Mamba（L4-06）、RWKV（L4-09）、RetNet（L4-08）——他们都在试图弑父
+
 **埋的雷**：O(n²) 复杂度 → 引爆了 FlashAttention（L2-21）、Longformer（L2-25）等一大波后续研究
 
 ---

@@ -33,7 +33,7 @@
 |---|---|---|---|---|
 | **L1-01** | [Attention Is All You Need](./notes/L1-01_Attention_Is_All_You_Need.md) | ⭐⭐⭐⭐⭐ | 🕵️ 创世悬案 | RNN 王朝的颠覆者，LLM 的入场券 |
 | **L1-02** | [BERT](./notes/L1-02_BERT.md) | ⭐⭐⭐⭐⭐ | 📖 双向阅读 | NLP 的"读者"哲学 |
-| **L1-03** | [GPT-1/2](./notes/L1-03_GPT1.md) | ⭐⭐⭐⭐⭐ | 📈 作家诞生 | 预测下一个词就能创造世界 |
+| **L1-03** | [GPT-1](./notes/L1-03_GPT1.md) | ⭐⭐⭐⭐⭐ | 📈 半人马诞生 | 预训练 + 微调范式的开山之作 |
 | **L1-04** | [GPT-2](./notes/L1-04_GPT2.md) | ⭐⭐⭐⭐⭐ | 📰 零样本觉醒 | 规模一上去，零样本能力涌现 |
 | **L1-05** | [Neural Machine Translation](./notes/L1-05_Neural_Machine_Translation.md) | ⭐⭐⭐ | 🌐 早期翻译 | Seq2Seq 的雏形 |
 | **L1-06** | [Seq2Seq](./notes/L1-06_Seq2Seq.md) | ⭐⭐⭐⭐ | 🔁 序列对序列 | Encoder-Decoder 范式 |
