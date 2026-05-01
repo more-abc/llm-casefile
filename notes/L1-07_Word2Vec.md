@@ -248,7 +248,7 @@ print(model.most_similar(positive=['king', 'woman'], negative=['man'])[:3])
 
 | 字段 | 值 |
 |---|---|
-| 笔记版本 | v5「词向量起源版」 |
+| 笔记版本 | 「词向量起源版」 |
 | 叙事母题 | 🧬 语义向量 |
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |

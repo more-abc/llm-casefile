@@ -94,7 +94,7 @@ Mixtral 的真正贡献，不是设计新工艺，而是**把这三个隐患浇�
 ```
 
 ```python
-# Mixtral 核心 MoE 层（清晰 mask 写法 · v5 改进版）
+# Mixtral 核心 MoE 层（清晰 mask 写法 ）
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -360,7 +360,7 @@ tok = AutoTokenizer.from_pretrained("mistralai/Mixtral-8x7B-Instruct-v0.1")
 
 ### 🔬 几个易错点
 
-1. **"8x7B" 中的 7B 来源**：⚠️ **Mistral 官方未在论文中解释 8x7B 中"7B"的来源**。社区流行 **Sparse Upcycling 假说**——即从 Mistral 7B 复制 FFN 8 份再继续预训（Komatsuzaki et al., ICLR 2023 提出此方法），但**论文本身既未确认也未否认**。把它写成"品牌延续 Mistral 7B"是 v3/v4 的事实越界，v5 已修正。
+1. **"8x7B" 中的 7B 来源**：⚠️ **Mistral 官方未在论文中解释 8x7B 中"7B"的来源**。社区流行 **Sparse Upcycling 假说**——即从 Mistral 7B 复制 FFN 8 份再继续预训（Komatsuzaki et al., ICLR 2023 提出此方法），但**论文本身既未确认也未否认**。
 2. **softmax 时机**：仅在 top-2 logits 上 softmax，避免被淘汰专家的概率泄漏。
 3. **L_aux**：α=0.001（开源代码默认值），论文未明说但代码用了。
 4. **专家分工实证**：论文 Section 5 + DeepSeek-MoE 对比研究均显示分工偏 token-level（标点、数字），而非 task-level（"数学专家"）。

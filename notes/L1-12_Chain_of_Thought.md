@@ -11,20 +11,6 @@
 
 ---
 
-## 🆕  修订说明
-
-**P0 关键事实修正**：v4 把 "Let's think step by step" 归为 Wei et al. 2022（CoT）的贡献，**这是错误的**。
-- **Wei et al. 2022（arXiv 2201.11903，本案）**：贡献是 **few-shot CoT**——在 prompt 中给 8 个人写的"问题→中间步骤→答案"示例。
-- **Kojima et al. 2022（arXiv 2205.11916）**：贡献是 **zero-shot CoT**——在问题末尾加 "Let's think step by step." 不需要任何示例。
-两篇是不同论文、不同作者、不同机构（Google Brain vs 东京大学/Google Research），相隔 4 个月。本版在所有出现该 prompt 的位置都做了归属标注。
-另外：评分自查清单去掉"全打勾"，改为诚实的"未做到"列表。
-
-**P1 体验**：全文压缩约 40%；为 Mermaid graph 增补文字版 fallback；"如果作者偷懒了"新增**理论层面**反思。
-
-**P2 品质**：母题改为"链路显化"以与 GPT-3 案的"涌现纪录"区分；清理代码片段。
-
----
-
 ## 0️⃣ 案件档案
 
 | 案情要素 | 内容 |

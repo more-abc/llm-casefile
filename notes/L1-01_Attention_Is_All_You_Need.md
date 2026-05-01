@@ -311,4 +311,4 @@ git clone https://github.com/harvardnlp/annotated-transformer
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h 四档 |
 | 上次更新 | 2026-04-29 |
-| 下一站 | → [L1-02 BERT：双向阅读理解的逆袭](./L1-02_BERT.v4.md) |
+| 下一站 | → [L1-02 BERT：双向阅读理解的逆袭](./L1-02_BERT.md) |

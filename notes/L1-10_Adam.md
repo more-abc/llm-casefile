@@ -213,7 +213,7 @@ Adam 给我最大的启发是**"自适应是优化的本质"**：
 ## 🔟 延伸卷宗
 
 ### 前置依赖
-- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.v5.md)（Adam 在 Transformer 训练中的应用）
+- 📚 [L1-01 Transformer](./L1-01_Attention_Is_All_You_Need.md)（Adam 在 Transformer 训练中的应用）
 - 📚 [L2-01 Scaling Laws](./L2-01_Scaling_Laws.md)（大模型训练需要好的优化器）
 
 ### 后续推荐
@@ -283,9 +283,9 @@ class Adam(nn.Module):
 
 | 字段 | 值 |
 |---|---|
-| 笔记版本 | v5「因材施教版」 |
+| 笔记版本 | 「因材施教版」 |
 | 叙事母题 | 🧭 因材施教（自适应学习率） |
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-04-30 |
-| 下一站 | → [L1-11 GPT-3：1750 亿参数的超级大脑](./L1-11_GPT3.v5.md) |
+| 下一站 | → [L1-11 GPT-3：1750 亿参数的超级大脑](./L1-11_GPT3.md) |
