@@ -215,14 +215,6 @@ graph LR
     T -.被挑战.-> RWKV[RWKV 2023]
 ```
 
-**文字版继承关系**（飞书不渲染时的 fallback）：
-- Transformer (2017) → BERT (2018)
-- Transformer (2017) → GPT-1 (2018) → GPT-2 (2019) → GPT-3 (2020) → ChatGPT (2022)
-- Transformer (2017) → ViT (2020)
-- Transformer (2017) → AlphaFold2 (2021)
-- Transformer (2017) ⇠被挑战⇢ Mamba (2023)
-- Transformer (2017) ⇠被挑战⇢ RWKV (2023)
-
 **继承者**：BERT、GPT 全家、ViT、AlphaFold2、Whisper、Sora……
 **挑战者**：Mamba（L4-06）、RWKV（L4-09）、RetNet（L4-08）——他们都在试图弑父
 **埋的雷**：O(n²) 复杂度 → 引爆了 FlashAttention（L2-21）、Longformer（L2-25）等一大波后续研究
@@ -250,14 +242,14 @@ graph LR
 ## 7️⃣ 延伸卷宗
 
 ### 前置依赖（先读这些）
-- 📚 L1-05 Bahdanau Attention（Attention 的雏形）
-- 📚 L1-06 Seq2Seq（Encoder-Decoder 框架的起源）
-- 📚 L1-09 LayerNorm（必备组件）
+- 📚 [L1-05 Bahdanau Attention](notes/L1-05_Neural_Machine_Translation.md)（Attention 的雏形）
+- 📚 [L1-06 Seq2Seq](notes/L1-06_Seq2Seq.md)（Encoder-Decoder 框架的起源）
+- 📚 [L1-09 LayerNorm](notes/L1-09_LayerNorm.md)（必备组件）
 
 ### 后续推荐（这篇之后读）
-- 🎯 **必读**：L1-02 BERT（Encoder-only 路线）、L1-03 GPT-1（Decoder-only 路线）
-- 🔧 **改进**：L2-19 RoPE、L2-21 FlashAttention、L2-23 GLU Variants
-- ⚔️ **挑战者**：L4-06 Mamba、L4-09 RWKV
+- 🎯 **必读**：[L1-02 BERT](notes/L1-02_BERT.md)（Encoder-only 路线）、[L1-03 GPT-1](notes/L1-03_GPT1.md)（Decoder-only 路线）
+- 🔧 **改进**：[L2-19 RoPE](notes/L2-19_RoPE.md)、[L2-21 FlashAttention](notes/L2-21_FlashAttention.md)、[L2-23 GLU Variants](notes/L2-23_GLU_Variants.md)
+- ⚔️ **挑战者**：[L4-06 Mamba](notes/L4-06_Mamba.md)、[L4-09 RWKV](notes/L4-09_RWKV.md)
 
 ### 📚 进阶研读清单（按重要性排序）
 
@@ -311,4 +303,4 @@ git clone https://github.com/harvardnlp/annotated-transformer
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h 四档 |
 | 上次更新 | 2026-04-29 |
-| 下一站 | → [L1-02 BERT：双向阅读理解的逆袭](./L1-02_BERT.md) |
+| 下一站 | → [L1-02 BERT：双向阅读理解的逆袭](notes/L1-02_BERT.md) |
