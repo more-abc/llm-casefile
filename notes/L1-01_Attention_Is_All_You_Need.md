@@ -162,7 +162,7 @@ x ──────────────┐
 | **训练数据** | WMT 2014 EN-DE (4.5M 句对), EN-FR (36M 句对) | §5.1 |
 | **训练硬件** | 8× NVIDIA P100 GPU | §5.2 |
 | **Base / Big 训练时间** | 12 小时 / 3.5 天 | §5.2 |
-| **Citation 数** | 13 万+（截至 2024 年底） | Google Scholar |
+| **Citation 数** | 24 万+（截至 2025 年5月） | Google Scholar |
 
 ### 🔥 我的争议观点（Hot Take）
 
