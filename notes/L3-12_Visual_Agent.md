@@ -1,6 +1,6 @@
 # 🖼️ 案件 L3-12：Visual Agent — 让 LLM 学会"看图操作"
 
-> **《LLM 百案录》第 059 案 · 视觉 Agent**
+> **《LLM 百案录》第 054 案 · 视觉 Agent**
 > *普通 LLM Agent 只懂文字，看不到屏幕；
 > Visual Agent 说："我要让 LLM 看着 UI 截图、点击按钮、填写表单。"*
 

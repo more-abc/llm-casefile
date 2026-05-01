@@ -1,6 +1,6 @@
 # ⭐ 案件 L4-04：Process Reward Model — 给"过程"打分
 
-> **《LLM 百案录》第 085 案 · 过程打分**
+> **《LLM 百案录》第 076 案 · 过程打分**
 > *Outcome RM 只看答案对错，可"做对题"的方法可能错了——
 > Process Reward Model 说："我要给每一步推理打分。"*
 

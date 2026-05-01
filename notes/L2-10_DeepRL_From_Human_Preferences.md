@@ -1,6 +1,6 @@
 # 🎮 案件 L2-10：Deep RL from Human Preferences — 游戏 AI 的"人类教练"
 
-> **《LLM 百案录》第 031 案 · 游戏教练**
+> **《LLM 百案录》第 025 案 · 游戏教练**
 > *AlphaGo 说"让我从零学习"，Deep RL from Human Preferences 说"让我从人类反馈中学习"——
 > 这是游戏 AI 的"教练"模式。*
 

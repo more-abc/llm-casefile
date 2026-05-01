@@ -1,6 +1,6 @@
 # 🌌 案件 L2-01：Scaling Laws — OpenAI 的惊世赌注，DeepMind 的绝地反击
 
-> **《LLM 百案录》第 029 案 · 规模之辩**
+> **《LLM 百案录》第 017 案 · 规模之辩**
 > *2020 年，OpenAI 用 GPT-3 的 175B 参数孤注一掷；
 > 2022 年，DeepMind 用 Chinchilla 的 70B 参数精准反击——
 > 两篇论文之间，是 AI 训练范式的彻底重构。*

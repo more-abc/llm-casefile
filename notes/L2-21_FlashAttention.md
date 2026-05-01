@@ -1,6 +1,6 @@
 # ⚡ 案件 L2-21：Flash Attention — Attention 的"硬件加速"
 
-> **《LLM 百案录》第 034 案 · 硬件魔法**
+> **《LLM 百案录》第 036 案 · 硬件魔法**
 > *标准 Attention 是 O(N²)，Flash Attention 说"让我用硬件的智慧"——
 > 把显存 O(N²) 变成计算 O(N²)，让大模型可以训练更长的序列。*
 

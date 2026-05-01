@@ -1,6 +1,6 @@
 # 🧠 案件 L4-01：Let's Verify Step by Step — AI 也需要"高考监考"
 
-> **《LLM 百案录》第 068 案 · 过程为王**
+> **《LLM 百案录》第 073 案 · 过程为王**
 > *Outcome Reward Model（ORM）只看最终答案——就像只看去年的分数线，不看考试过程。
 > Process Reward Model（PRM）给推理的每一步打分——就像高考的每一道题都监考到底。*
 
