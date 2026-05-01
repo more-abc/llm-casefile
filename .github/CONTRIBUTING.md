@@ -25,7 +25,7 @@
 # 1. Fork 本仓库到你的账号
 
 # 2. 克隆到本地
-git clone https://github.com/<your-username>/LLM-Papers-CaseFile.git
+git clone https://github.com/more-abc/llm-casefile.git
 cd LLM-Papers-CaseFile
 
 # 3. 创建你的功能分支
