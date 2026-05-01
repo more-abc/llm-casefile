@@ -6,8 +6,8 @@
   * [贡献指南 CONTRIBUTING](CONTRIBUTING.md)
 
 * **📑 L1 基础地基**
-  * [L1-01 Attention Is All You Need](L1-01_Attention_Is_All_You_Need.md)
-  * [L1-02 BERT](L1-02_BERT.md)
+  * [L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)
+  * [L1-02 BERT](notes/L1-02_BERT.md)
   * [L1-03 GPT-1](notes/L1-03_GPT1.md)
   * [L1-04 GPT-2](notes/L1-04_GPT2.md)
   * [L1-05 Neural Machine Translation](notes/L1-05_Neural_Machine_Translation.md)
