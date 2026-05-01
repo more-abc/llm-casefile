@@ -7,7 +7,7 @@
 - 🔍 全文搜索 · 🌓 日夜模式 · 🧠 数学公式 · 📊 mermaid 影响图
 - 🆓 MIT License · 永远免费
 
-[GitHub](https://github.com/your-username/LLM-Papers-CaseFile)
+[GitHub](https://github.com/more-abc/llm-casefile)
 [开始破案 →](README.md)
 
 <!-- 背景颜色（可选）-->

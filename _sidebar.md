@@ -129,4 +129,4 @@
 ---
 
 * 📜 [MIT License](LICENSE)
-* ⭐ [Star on GitHub](https://github.com/your-username/LLM-Papers-CaseFile)
+* ⭐ [Star on GitHub](https://github.com/more-abc/llm-casefile)

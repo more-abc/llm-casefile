@@ -15,4 +15,4 @@
 * 🛠️ 仓库
   * [本地预览](README.md#-本地预览--部署)
   * [贡献指南](CONTRIBUTING.md)
-  * [GitHub](https://github.com/your-username/LLM-Papers-CaseFile)
+  * [GitHub](https://github.com/more-abc/llm-casefile)
