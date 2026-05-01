@@ -1,6 +1,6 @@
 # 📖 案件 L2-07：Learning to Summarize from Human Feedback — RLHF 在生成任务的开山之作
 
-> **《LLM 百案录》第 028 案 · 摘要革命**
+> **《LLM 百案录》第 029 案 · 摘要革命**
 > *2020 年 OpenAI 一群人发现：BLEU、ROUGE 这些自动指标和人类偏好相关性差。
 > 他们的解法：**别用规则评分，让人类评估，再让模型学习人类偏好。**
 > 这是 InstructGPT/ChatGPT 的"前传"——RLHF 第一次在自然语言生成上大获成功。*
