@@ -26,6 +26,7 @@
 * **🛠️ L2 训练与对齐**
   * **— Scaling 法则 —**
     * [L2-01 Scaling Laws](notes/L2-01_Scaling_Laws.md)
+    * [L2-02 Scaling Laws for Transfer](notes/L2-02_Scaling_Laws_Transfer.md)
     * [L2-03 Chinchilla](notes/L2-03_Chinchilla.md)
     * [L2-04 PaLM 2](notes/L2-04_PaLM2.md)
   * **— RLHF 全家桶 —**

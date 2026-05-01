@@ -59,6 +59,7 @@
 | ID | 论文 | 推荐 | 叙事母题 |
 |---|---|---|---|
 | **L2-01** | [Scaling Laws](./notes/L2-01_Scaling_Laws.md) | ⭐⭐⭐⭐⭐ | 📐 规模法则 |
+| **L2-02** | [Scaling Laws for Transfer](./notes/L2-02_Scaling_Laws_Transfer.md) | ⭐⭐⭐⭐ | 🔁 跨域知识折现 |
 | **L2-03** | [Chinchilla](./notes/L2-03_Chinchilla.md) | ⭐⭐⭐⭐⭐ | 🦔 数据为王 |
 | **L2-04** | [PaLM 2](./notes/L2-04_PaLM2.md) | ⭐⭐⭐⭐ | 🌍 反击 |
 
