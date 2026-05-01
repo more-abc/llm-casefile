@@ -122,7 +122,7 @@ PR 永远欢迎！可贡献的方向：
 - 🎨 完善 Docsify 主题、添加新插件
 - 📝 补充"3 小时复现"代码片段
 
-详情见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+详情见 [CONTRIBUTING.md](.github/CONTRIBUTING.md)。
 
 ### 友情致谢
 本笔记集站在巨人的肩膀上——所有原始论文作者贡献了真正的智慧，本仓库只是把它们整理成更易消化的"案件卷宗"。
