@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>LLM 百案录 · LLM Papers Case File</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="《LLM 百案录》—— 100 篇大语言模型核心论文的'案件体'笔记集。把每一篇论文当作一桩案件来破——动机、凶器、陈词。" />
+  <meta name="keywords" content="LLM,大语言模型,论文笔记,Transformer,RLHF,RAG,Agent,LoRA,Mamba,GPT,BERT" />
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0" />
+
+  <!-- Docsify Theme: Vue (light, clean) - swappable to dark theme below -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" id="theme-style" />
+
+  <style>
+    :root {
+      --theme-color: #42b983;
+      --theme-color-secondary: #2c8d63;
+    }
+    /* 让代码块更紧凑 */
+    .markdown-section pre { padding: 1em; }
+    /* 数学公式不要被切掉 */
+    .markdown-section { max-width: 1100px; }
+    /* 表格更易读 */
+    .markdown-section table { display: table; width: 100%; }
+    .markdown-section table th { background-color: #f6f8fa; }
+    /* mermaid 图居中 */
+    .mermaid { text-align: center; }
+    /* 顶部 logo */
+    .app-name-link img { height: 38px; }
+    /* 侧栏 emoji 间距 */
+    .sidebar-nav li > p { margin: 0.5em 0 0.2em 0; font-weight: bold; }
+    /* dark-mode 切换按钮 */
+    #theme-switch {
+      position: fixed; top: 12px; right: 12px; z-index: 9999;
+      background: var(--theme-color); color: #fff; border: none;
+      width: 36px; height: 36px; border-radius: 50%; cursor: pointer;
+      font-size: 18px; line-height: 36px; padding: 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+    /* 暗黑模式 */
+    body.dark-mode {
+      background: #1a1a1a; color: #e0e0e0;
+    }
+    body.dark-mode .markdown-section { color: #d0d0d0; }
+    body.dark-mode .markdown-section h1,
+    body.dark-mode .markdown-section h2,
+    body.dark-mode .markdown-section h3,
+    body.dark-mode .markdown-section h4 { color: #f0f0f0; }
+    body.dark-mode .sidebar { background: #222; border-right: 1px solid #333; }
+    body.dark-mode .sidebar a { color: #ccc; }
+    body.dark-mode .sidebar a:hover { color: var(--theme-color); }
+    body.dark-mode .markdown-section pre { background: #2b2b2b; }
+    body.dark-mode .markdown-section code { background: #2b2b2b; color: #ffb86c; }
+    body.dark-mode .markdown-section table th { background: #2b2b2b; color: #fff; }
+    body.dark-mode .markdown-section blockquote { background: #2b2b2b; border-left-color: var(--theme-color); }
+  </style>
+</head>
+<body>
+  <button id="theme-switch" title="切换日/夜模式">🌓</button>
+  <div id="app">加载中…</div>
+
+  <script>
+    window.$docsify = {
+      name: '🕵️ LLM 百案录',
+      repo: 'https://github.com/your-username/LLM-Papers-CaseFile',
+      logo: '',
+      loadSidebar: true,
+      loadNavbar: true,
+      coverpage: true,
+      onlyCover: false,
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 2,
+      homepage: 'README.md',
+      executeScript: true,
+      relativePath: true,
+      notFoundPage: true,
+
+      // 搜索
+      search: {
+        maxAge: 86400000, // 1 天缓存
+        paths: 'auto',
+        placeholder: '🔍 搜索论文 / 关键词…',
+        noData: '😞 未找到结果',
+        depth: 4,
+        hideOtherSidebarContent: false
+      },
+
+      // 复制代码按钮
+      copyCode: {
+        buttonText: '复制',
+        errorText: '失败',
+        successText: '已复制 ✓'
+      },
+
+      // 字数统计
+      count: {
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese',
+        isExpected: true
+      },
+
+      // 分页导航
+      pagination: {
+        previousText: '上一案',
+        nextText: '下一案',
+        crossChapter: true,
+        crossChapterText: true
+      },
+
+      // 页脚
+      plugins: [
+        function (hook) {
+          var footer = [
+            '<hr/>',
+            '<footer style="text-align:center; color:#888; font-size:0.9em; padding:1em 0;">',
+            '  <span>📚 《LLM 百案录》· 案件体</span>',
+            '  <span> · </span>',
+            '  <a href="https://github.com/your-username/LLM-Papers-CaseFile" target="_blank">GitHub</a>',
+            '  <span> · </span>',
+            '  <span>MIT License © 2024-2026</span>',
+            '</footer>'
+          ].join('');
+          hook.afterEach(function (html) { return html + footer; });
+        }
+      ]
+    };
+  </script>
+
+  <!-- Docsify Core -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- 搜索 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- 复制代码 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <!-- 字数统计 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <!-- 分页 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  <!-- 代码高亮（多语言） -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-typescript.min.js"></script>
+
+  <!-- 数学公式 (KaTeX) -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.css" />
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+
+  <!-- Mermaid 流程图 -->
+  <script src="//cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    // 让 docsify 渲染 ```mermaid 代码块为 <div class="mermaid">
+    window.$docsify.markdown = {
+      renderer: {
+        code: function (code, lang) {
+          if (lang === 'mermaid') {
+            return '<div class="mermaid">' + code + '</div>';
+          }
+          return this.origin.code.apply(this, arguments);
+        }
+      }
+    };
+    // 每次页面切换后调用 mermaid.run 重新渲染
+    window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+      hook.doneEach(function () {
+        if (window.mermaid) {
+          mermaid.initialize({ startOnLoad: false, theme: 'default', securityLevel: 'loose' });
+          try { mermaid.run({ querySelector: '.mermaid' }); } catch (e) { console.warn(e); }
+        }
+      });
+    });
+  </script>
+
+  <!-- 图片缩放 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+
+  <!-- 外链图标 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+
+  <!-- 暗黑模式 toggle -->
+  <script>
+    (function () {
+      var btn = document.getElementById('theme-switch');
+      var KEY = 'llm-paper-theme';
+      function apply(mode) {
+        if (mode === 'dark') document.body.classList.add('dark-mode');
+        else document.body.classList.remove('dark-mode');
+      }
+      apply(localStorage.getItem(KEY) || 'light');
+      btn.addEventListener('click', function () {
+        var cur = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+        var next = cur === 'dark' ? 'light' : 'dark';
+        apply(next);
+        localStorage.setItem(KEY, next);
+      });
+    })();
+  </script>
+</body>
+</html>
