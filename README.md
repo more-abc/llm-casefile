@@ -15,7 +15,7 @@
   <a href="#-30-秒快速开始">🚀 快速开始</a> ·
   <a href="./INDEX.md">📑 完整目录</a> ·
   <a href="#-阅读路径">🛣️ 阅读路径</a> ·
-  <a href="./CONTRIBUTING.md">🤝 参与贡献</a>
+  <a href=".github/CONTRIBUTING.md">🤝 参与贡献</a>
 </p>
 
 ---
