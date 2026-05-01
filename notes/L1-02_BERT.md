@@ -235,8 +235,6 @@ graph TD
     BERT -.路线之争.-> GPT3[GPT-3 2020<br/>Decoder 反杀]
 ```
 
-**文字版 fallback**：BERT (2018) 直接派生 5 大后裔——RoBERTa（去 NSP + 更多数据，2019）、ALBERT（参数共享 + SOP，2019）、ELECTRA（替换检测 RTD，2020）、DeBERTa（解耦注意力，2020）、SBERT（句向量，2019）；并与 GPT-3 (2020) 形成"Decoder 反杀"的路线之争。
-
 **至今仍活的领域**：搜索引擎召回 / 句向量 / 分类任务 —— BERT 仍是中小公司部署首选。
 
 ---

@@ -232,16 +232,6 @@ graph TD
     DPO -.辩论.-> PPOvsDPO[L2-16 DPO vs PPO]
 ```
 
-**📜 文字版继承关系（飞书 fallback）**：
-
-- PPO (2017, L2-09) → InstructGPT (2022, L2-05) → **DPO (2023)**
-- DPO → IPO (2023, 修复过拟合)
-- DPO → KTO (2024, 不需成对数据)
-- DPO → ORPO (2024, L2-15, 合并 SFT)
-- DPO → SimPO (2024, 去掉 ref model)
-- DPO → Zephyr / Tulu / Notus（开源对齐模型族）
-- DPO ⇄ L2-16 *DPO vs PPO: A Unified Perspective*（双向辩论）
-
 **深远影响**：开源对齐民主化（8B 单卡 4 小时）；reward hacking 部分缓解；"能不能 supervised 化"
 成为新口号，许多 RL 问题被重新审视。
 

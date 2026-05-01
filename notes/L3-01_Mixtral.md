@@ -266,13 +266,6 @@ graph TD
     DeepSeekV2 --> DeepSeekV3[DeepSeek-V3 671B MoE]
 ```
 
-**📜 Mermaid 文字版 fallback（飞书不渲染时）**：
-- GShard (2020) → Switch Transformer (2022) → **Mixtral 8x7B (2023.12)**
-- Mixtral → Mixtral 8x22B (2024)
-- Mixtral → DeepSeek-MoE（细粒度专家）→ DeepSeek-V2（236B）→ DeepSeek-V3（671B）
-- Mixtral → Qwen-MoE / Grok-1（314B）/ DBRX（2024）
-- Mixtral ⇢ 激发 GPT-4 是否为 MoE 的传闻
-
 **深远影响**：
 - **2024 = MoE 爆发年**：Grok、DBRX、Qwen-MoE、DeepSeek-V2/V3 全部 follow
 - **细粒度路线**：DeepSeek-MoE 把工坊改成 256 间小作坊，效果更好
