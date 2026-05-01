@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020-09（Stiennon et al., OpenAI，arXiv 2009.01325） |
+| **案发时间** | 2020-09（Stiennon et al., OpenAI，[arXiv 2009.01325](https://arxiv.org/pdf/2009.01325)） |
 | **嫌疑人** | Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss et al. |
 | **受害者** | ROUGE / BLEU 等自动指标的"高 ROUGE 但人类讨厌"现象 |
 | **作案凶器** | Reward Model（学习人类偏好）+ PPO 微调 |

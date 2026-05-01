@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-03（Zelikman et al., Stanford / Google） |
+| **案发时间** | 2022-03（Zelikman et al., Stanford / Google） · [📄 arXiv 2203.14465](https://arxiv.org/pdf/2203.14465) |
 | **受害者** | "推理能力必须靠人类标注 CoT 数据"的传统认知 |
 | **作案凶器** | Self-generated rationales + answer filtering + bootstrap |
 | **作案动机** | "高质量推理标注太少，LLM 必须学会自我蒸馏" |

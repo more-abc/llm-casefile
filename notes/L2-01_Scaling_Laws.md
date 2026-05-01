@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020-06（Kaplan/ OpenAI）、2022-11（Chinchilla/ DeepMind） |
+| **案发时间** | 2020-06（Kaplan/ OpenAI）、2022-11（Chinchilla/ DeepMind） · [📄 arXiv 2001.08361](https://arxiv.org/pdf/2001.08361) |
 | **第一篇嫌疑人** | Jared Kaplan et al.（OpenAI） |
 | **第二篇嫌疑人** | Jordan Hoffmann et al.（DeepMind） |
 | **受害者** | 盲目追求"大模型"的从业者 |

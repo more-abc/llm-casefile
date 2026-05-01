@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023（Rafailov et al., DPO 论文） |
+| **案发时间** | 2023（Rafailov et al., DPO 论文） · [📄 arXiv 2404.10719](https://arxiv.org/pdf/2404.10719) |
 | **受害者** | PPO-RLHF 的复杂性（Reward Model + PPO） |
 | **作案凶器** | 直接优化偏好概率，绕过 Reward Model |
 | **结案陈词** | DPO 用简化的损失函数替代 PPO，不需要 Reward Model 就能做对齐 |

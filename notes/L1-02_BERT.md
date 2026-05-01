@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2018-10-11（arXiv 1810.04805） |
+| **案发时间** | 2018-10-11（[arXiv 1810.04805](https://arxiv.org/pdf/1810.04805)） |
 | **嫌疑人** | Devlin, Chang, Lee, Toutanova（Google AI Language） |
 | **受害者** | ELMo / GPT-1 / 一切单向语言模型 |
 | **作案凶器** | Masked Language Model（MLM） + Next Sentence Prediction（NSP） |

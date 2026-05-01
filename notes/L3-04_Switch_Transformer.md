@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-02（Fedus et al., Google Brain, arXiv 2101.03961） |
+| **案发时间** | 2022-02（Fedus et al., Google Brain, [arXiv 2101.03961](https://arxiv.org/pdf/2101.03961)） |
 | **受害者** | 普通 MoE 的"计算浪费"问题 |
 | **作案凶器** | 每个 token 只路由到 1 个专家（极度稀疏） |
 | **结案陈词** | Switch Transformer 用极度稀疏实现了"参数量暴增但计算量不增加" |

@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（Google Health & DeepMind） |
+| **案发时间** | 2023-05（Google Health & DeepMind） · [📄 arXiv 2305.09617](https://arxiv.org/pdf/2305.09617) |
 | **受害者** | MedPaLM 67% 仍距专家水平差距大 |
 | **作案凶器** | PaLM 2 基座 + 医学专项优化 + 多模态扩展 + 强化安全 |
 | **作案动机** | "把医学 LLM 推到 USMLE 专家水平" |

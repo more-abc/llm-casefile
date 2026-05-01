@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2024-02（Liu et al., NVIDIA & MIT） |
+| **案发时间** | 2024-02（Liu et al., NVIDIA & MIT） · [📄 arXiv 2402.09353](https://arxiv.org/pdf/2402.09353) |
 | **受害者** | LoRA 与全量微调的"学习模式差异"——LoRA 偏向同时改变 magnitude 和 direction，FT 倾向直接调方向 |
 | **作案凶器** | Weight decomposition：W = magnitude × direction，分别用全量 + LoRA 处理 |
 | **作案动机** | "让 LoRA 的学习模式更接近全量微调" |

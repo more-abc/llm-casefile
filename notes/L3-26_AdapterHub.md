@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020（Pfeiffer et al., AdapterHub.ml） |
+| **案发时间** | 2020（Pfeiffer et al., AdapterHub.ml） · [📄 arXiv 2007.07779](https://arxiv.org/pdf/2007.07779) |
 | **受害者** | "每个团队一种 Adapter 实现"的混乱 |
 | **作案凶器** | 统一的 Adapter 接口 + AdapterHub.ml 模型仓库 + 多种 composition 方法 |
 | **结案陈词** | AdapterHub 把 Adapter 标准化成可下载、可组合、可堆叠的模块化组件 |

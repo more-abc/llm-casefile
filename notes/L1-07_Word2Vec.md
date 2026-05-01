@@ -16,7 +16,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2013-01（arXiv 1301.3781）+ 2013-10（arXiv 1310.4546） |
+| **案发时间** | 2013-01（[arXiv 1301.3781](https://arxiv.org/pdf/1301.3781)）+ 2013-10（arXiv 1310.4546） |
 | **嫌疑人** | Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean（Google） |
 | **受害者** | One-Hot 表示的"语义无关性" |
 | **作案凶器** | CBOW + Skip-gram + Negative Sampling + Hierarchical Softmax |

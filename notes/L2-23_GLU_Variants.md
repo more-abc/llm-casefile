@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020-06（Dauphin et al., Google，arXiv 2006.14037） |
+| **案发时间** | 2020-06（Dauphin et al., Google，[arXiv 2006.14037](https://arxiv.org/pdf/2006.14037)） |
 | **受害者** | ReLU FFN 的"粗鲁门卫"——要么全通，要么全断 |
 | **作案凶器** | 门控线性单元（Gated Linear Unit）+ SiLU/Swish 激活 |
 | **结案陈词** | GLU 让 FFN 学会了"选择性地放行信息"，LLaMA 全系使用 SwiGLU |

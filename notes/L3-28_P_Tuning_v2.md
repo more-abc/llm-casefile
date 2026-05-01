@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022（Liu et al., 清华） |
+| **案发时间** | 2022（Liu et al., 清华） · [📄 arXiv 2110.07602](https://arxiv.org/pdf/2110.07602) |
 | **受害者** | P-Tuning v1 / Prompt Tuning 在中小模型与困难任务上的不稳定 |
 | **作案凶器** | 每层都加 prefix（实质上是 Prefix Tuning 重新包装）+ 去掉重参数化 + 去掉 verbalizer |
 | **作案动机** | "Prompt Tuning 在 10B+ 模型上有效，10B 以下要每层都加才行" |

@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-12-08（torrent magnet 空投）→ 2024-01-08（论文） |
+| **案发时间** | 2023-12-08（torrent magnet 空投）→ 2024-01-08（论文） · [📄 arXiv 2401.04088](https://arxiv.org/pdf/2401.04088) |
 | **嫌疑人** | Mistral AI 团队（Albert Q. Jiang, Alexandre Sablayrolles 等） |
 | **受害者** | "更强模型 = 必须更多激活参数"这一旧建筑规范 |
 | **作案凶器** | **Sparse MoE**（8 experts, top-2 routing）+ Sliding Window Attention |

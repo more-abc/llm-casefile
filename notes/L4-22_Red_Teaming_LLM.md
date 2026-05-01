@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-2024（Anthropic Red Team paper、OpenAI prep, Meta GOAT） |
+| **案发时间** | 2022-2024（Anthropic Red Team paper(https://arxiv.org/pdf/2209.07858)、OpenAI prep, Meta GOAT） |
 | **受害者** | "事后修补"型 LLM 安全模式 |
 | **作案凶器** | 系统化的对抗 prompt 生成 + 多角度攻击 + 漏洞分类 |
 | **作案动机** | "新模型上线前不能等真攻击者来——要先内部攻击一遍" |

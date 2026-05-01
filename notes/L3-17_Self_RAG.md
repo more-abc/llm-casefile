@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-10（Asai et al., University of Washington） |
+| **案发时间** | 2023-10（Asai et al., University of Washington） · [📄 arXiv 2310.11511](https://arxiv.org/pdf/2310.11511) |
 | **受害者** | 普通 RAG "永远检索" + "无法评估检索质量" 的两大痛点 |
 | **作案凶器** | 4 种特殊 reflection tokens + 训练数据自动标注 |
 | **作案动机** | "RAG 应该是一个可评估、可分支的决策过程，而非死板的 pipeline" |

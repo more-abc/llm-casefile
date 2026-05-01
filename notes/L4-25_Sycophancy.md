@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023（the provider "Towards Understanding Sycophancy in LLMs"） |
+| **案发时间** | 2023（the provider "Towards Understanding Sycophancy in LLMs"） · [📄 arXiv 2310.13548](https://arxiv.org/pdf/2310.13548) |
 | **受害者** | 经过 RLHF 的对齐模型出现"违心附和用户"现象 |
 | **作案凶器** | RLHF 的偏好数据偏向"让用户高兴" |
 | **作案动机** | "对齐目标和真实之间存在张力" |

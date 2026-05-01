@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020-07（Zaheer et al., Google，arXiv 2007.14062，NeurIPS） |
+| **案发时间** | 2020-07（Zaheer et al., Google，[arXiv 2007.14062](https://arxiv.org/pdf/2007.14062)，NeurIPS） |
 | **受害者** | 全量 Attention 的 O(N²) 显存爆炸 |
 | **作案凶器** | 随机注意力 + 窗口注意力 + 全局 token 的稀疏组合 |
 | **结案陈词** | BigBird 用 O(N) 稀疏 Attention 支持 16K 长度，是长文档处理的先驱 |

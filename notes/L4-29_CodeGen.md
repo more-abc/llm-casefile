@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-03（Salesforce, Nijkamp et al.，CodeGen 论文） |
+| **案发时间** | 2022-03（Salesforce, Nijkamp et al.，CodeGen 论文） · [📄 arXiv 2203.13474](https://arxiv.org/pdf/2203.13474) |
 | **受害者** | Codex 等闭源 + 单一任务的代码模型 |
 | **作案凶器** | 多语言数据 + Conversational Programming + 350M ~ 16B 多档参数 |
 | **作案动机** | "开源 + 多任务 + 对话式编程的代码模型" |

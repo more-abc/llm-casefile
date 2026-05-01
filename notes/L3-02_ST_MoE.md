@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-12（Hazimeh et al., Google，arXiv 2212.05088） |
+| **案发时间** | 2022-12（Hazimeh et al., Google，[arXiv 2212.05088](https://arxiv.org/pdf/2212.05088)） |
 | **受害者** | 普通 MoE 的"专家负载不均衡"问题 |
 | **作案凶器** | 辅助损失函数（Auxiliary Load Balancing Loss）+ 随机路由 |
 | **结案陈词** | ST-MoE 用简单但有效的机制，让 MoE 训练变得稳定可用 |

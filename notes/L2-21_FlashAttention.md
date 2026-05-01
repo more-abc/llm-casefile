@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022（Dao et al., Tri Dao，Flash Attention 论文） |
+| **案发时间** | 2022（Dao et al., Tri Dao，Flash Attention 论文） · [📄 arXiv 2205.14135](https://arxiv.org/pdf/2205.14135) |
 | **受害者** | 标准 Attention 的显存 O(N²) 问题 |
 | **作案凶器** | 算力融合 + 核外计算 + IO-awareness |
 | **结案陈词** | Flash Attention 把 Attention 的显存从 O(N²) 降到 O(N)，让 64K 序列成为可能 |

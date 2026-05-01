@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2019（Christiano et al., DeepMind + OpenAI） |
+| **案发时间** | 2019（Christiano et al., DeepMind + OpenAI） · [📄 arXiv 1706.03741](https://arxiv.org/pdf/1706.03741) |
 | **受害者** | 纯强化学习的"试错"成本太高 |
 | **作案凶器** | 人类偏好对比 + Reward Model |
 | **结案陈词** | 用人类反馈引导 RL，让 AI 学习更复杂的任务成为可能 |

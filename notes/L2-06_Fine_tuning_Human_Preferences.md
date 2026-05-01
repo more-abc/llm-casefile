@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2019（Stiennon et al., OpenAI，RLHF 论文） |
+| **案发时间** | 2019（Stiennon et al., OpenAI，RLHF 论文） · [📄 arXiv 1909.08593](https://arxiv.org/pdf/1909.08593) |
 | **受害者** | LLM 输出"有毒"或"无帮助"的问题 |
 | **作案凶器** | 人类偏好数据 + Reward Model + PPO 微调 |
 | **结案陈词** | RLHF 让 LLM 学习"人类喜欢什么"，从而生成更有帮助、更无害的回复 |

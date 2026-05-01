@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-11（arXiv 2203.15556） |
+| **案发时间** | 2022-11（[arXiv 2203.15556](https://arxiv.org/pdf/2203.15556)） |
 | **嫌疑人** | Jordan Hoffmann, Sebastian Borgeaud et al.（DeepMind） |
 | **受害者** | GPT-3（OpenAI）的资源浪费 |
 | **作案凶器** | 正确的 N:D:C 配比实验（固定计算量，改变参数/数据） |

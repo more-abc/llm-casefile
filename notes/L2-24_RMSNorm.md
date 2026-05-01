@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2021-02（Zhang et al., Facebook，arXiv 1910.07467） |
+| **案发时间** | 2021-02（Zhang et al., Facebook，[arXiv 1910.07467](https://arxiv.org/pdf/1910.07467)） |
 | **受害者** | LayerNorm 的"过度勤快"——计算均值是多余的 |
 | **作案凶器** | 只保留 RMS（均方根）归一化，去掉均值和偏移 |
 | **结案陈词** | RMSNorm 将归一化运算从 6 次减少到 4 次，LLaMA/Mistral 等全系采用 |

@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2021-02-02（Hernandez et al., OpenAI，arXiv 2102.01293） |
+| **案发时间** | 2021-02-02（Hernandez et al., OpenAI，[arXiv 2102.01293](https://arxiv.org/pdf/2102.01293)） |
 | **嫌疑人** | Danny Hernandez, Jared Kaplan, Tom Henighan, Sam McCandlish |
 | **受害者** | "预训练到底有多值"的工业界灵魂拷问，没有量化答案 |
 | **作案凶器** | "Effective Data Transferred" 公式 + 大量 EN→Python 跨域实验 |

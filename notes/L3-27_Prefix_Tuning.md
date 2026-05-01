@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2021-01（Li & Liang, Stanford） |
+| **案发时间** | 2021-01（Li & Liang, Stanford） · [📄 arXiv 2101.00190](https://arxiv.org/pdf/2101.00190) |
 | **受害者** | 全参数微调的高成本 + Prompt 工程的"碰运气" |
 | **作案凶器** | 在每层 attention 的 K/V 之前 prepend 可学习的 prefix vectors |
 | **作案动机** | "Prompt 是有效的，但离散 token 优化困难——直接学连续向量" |

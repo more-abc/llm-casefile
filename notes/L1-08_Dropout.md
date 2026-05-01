@@ -16,7 +16,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2012（Hinton et al., arXiv 1207.0580）+ 2014（Srivastava et al., JMLR 正式版） |
+| **案发时间** | 2012（Hinton et al., [arXiv 1207.0580](https://arxiv.org/pdf/1207.0580)）+ 2014（Srivastava et al., JMLR 正式版） |
 | **嫌疑人** | Hinton, Srivastava, Krizhevsky, Sutskever, Salakhutdinov（多伦多大学） |
 | **受害者** | 深度网络的过拟合 + 集成学习的高昂训练成本 |
 | **作案凶器** | 训练时以概率 p 随机置零神经元输出 |

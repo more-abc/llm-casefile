@@ -16,7 +16,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2014-09-01（arXiv 1409.0473）/ ICLR 2015 正式发表 |
+| **案发时间** | 2014-09-01（[arXiv 1409.0473](https://arxiv.org/pdf/1409.0473)）/ ICLR 2015 正式发表 |
 | **嫌疑人** | Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio（蒙特利尔大学） |
 | **受害者** | Sutskever 2014 Seq2Seq 的"固定上下文向量"瓶颈 |
 | **作案凶器** | Soft Attention + Bidirectional Encoder + 对齐模型 |

@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-02（Microsoft，Kosmos-1 论文） |
+| **案发时间** | 2023-02（Microsoft，Kosmos-1 论文） · [📄 arXiv 2302.14045](https://arxiv.org/pdf/2302.14045) |
 | **受害者** | "先 LLM 后 VLM" 范式的拼接性质 |
 | **作案凶器** | 从零开始用统一接口（image-text 交错序列）训练 decoder-only 模型 |
 | **作案动机** | "想要真正的 in-context multimodal learning" |

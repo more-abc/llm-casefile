@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-08（Han et al., UIUC + Tencent） |
+| **案发时间** | 2023-08（Han et al., UIUC + Tencent） · [📄 arXiv 2308.16137](https://arxiv.org/pdf/2308.16137) |
 | **受害者** | LLM 在超出训练长度时的"困惑度爆炸"现象 |
 | **作案凶器** | Λ-shaped attention mask + 距离截断 + 全局 token 锚 |
 | **作案动机** | "现有 LLM 重训练贵，能否零样本扩长度？" |

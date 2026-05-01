@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2024-03（Zelikman et al., Stanford，Quiet-STaR 论文） |
+| **案发时间** | 2024-03（Zelikman et al., Stanford，Quiet-STaR 论文） · [📄 arXiv 2403.09629](https://arxiv.org/pdf/2403.09629) |
 | **受害者** | 显式 CoT 的"高昂成本"——必须把推理过程作为 token 输出 |
 | **作案凶器** | Token-level rationales + REINFORCE-style 训练 |
 | **作案动机** | "如果思考能并行、能不输出，推理就是免费的" |

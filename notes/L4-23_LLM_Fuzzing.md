@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-2024（多个工作：FuzzLLM、PromptFuzz、GPTFuzzer 等） |
+| **案发时间** | 2023-2024（多个工作：FuzzLLM(https://arxiv.org/pdf/2309.05274)、PromptFuzz(https://arxiv.org/pdf/2312.17677)、GPTFuzzer(https://arxiv.org/pdf/2309.10253) 等） |
 | **受害者** | 人工 red team 在覆盖度上的天花板 |
 | **作案凶器** | 种子 prompt + 变异策略（语义 / 编码 / 上下文） + 自动判定器 |
 | **作案动机** | "用软件工程的 fuzzing 思想攻击 LLM" |

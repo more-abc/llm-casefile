@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（Dettmers et al., University of Washington） |
+| **案发时间** | 2023-05（Dettmers et al., University of Washington） · [📄 arXiv 2305.14314](https://arxiv.org/pdf/2305.14314) |
 | **受害者** | 7B / 13B / 65B 模型微调对显存的"刚需" |
 | **作案凶器** | NF4 量化 + Double Quantization + Paged Optimizer + LoRA |
 | **作案动机** | "LoRA 减少了梯度，但权重还是 fp16——能不能也压一压？" |

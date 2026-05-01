@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-04（arXiv 2304.03442，Park et al., Stanford） |
+| **案发时间** | 2023-04（[arXiv 2304.03442](https://arxiv.org/pdf/2304.03442)，Park et al., Stanford） |
 | **嫌疑人** | Park, Jernite et al.（Stanford HAI） |
 | **受害者** | "AI 只能是反应式的工具"的旧观念 |
 | **作案凶器** | 记忆流（Memory Stream）+ 反思（Reflection）+ 规划（Planning） |

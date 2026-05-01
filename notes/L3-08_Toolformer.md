@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-02-09（Schick et al., Meta AI，arXiv 2302.04761） |
+| **案发时间** | 2023-02-09（Schick et al., Meta AI，[arXiv 2302.04761](https://arxiv.org/pdf/2302.04761)） |
 | **嫌疑人** | Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom |
 | **受害者** | "纯参数化"LLM 的算术错误、知识过期、翻译漂移 |
 | **作案凶器** | **自监督 API 调用学习**：用模型自己产生 (调用,输出) 数据，过滤、回填、再训练 |

@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-03（arXiv 2203.02155，对应 ChatGPT 的技术报告） |
+| **案发时间** | 2022-03（[arXiv 2203.02155](https://arxiv.org/pdf/2203.02155)，对应 ChatGPT 的技术报告） |
 | **嫌疑人** | Ouyang, Long, Hesse et al.（OpenAI） |
 | **受害者** | GPT-3（"危险的天才神童"） |
 | **作案凶器** | RLHF 三步法：SFT → RM → PPO |

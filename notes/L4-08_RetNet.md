@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（Microsoft，arXiv 2305.06919） |
+| **案发时间** | 2023-05（Microsoft，[arXiv 2305.06919](https://arxiv.org/pdf/2305.06919)） |
 | **受害者** | "Transformer 和 RNN 必须二选一"的假设 |
 | **作案凶器** | 多尺度保留机制（Multi-Scale Retention）+ 可并行可循环 |
 | **结案陈词** | RetNet 实现了 Transformer 的并行性 + RNN 的 O(N) 效率，消除了 trade-off |

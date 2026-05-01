@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-12-01（Albert Gu & Tri Dao, CMU & Princeton） |
+| **案发时间** | 2023-12-01（Albert Gu & Tri Dao, CMU & Princeton） · [📄 arXiv 2312.00752](https://arxiv.org/pdf/2312.00752) |
 | **受害者** | Transformer 的 O(N²) 计算 / O(N) KV 缓存 |
 | **作案凶器** | Selective State Space Model + 硬件感知并行扫描 |
 | **作案动机** | "信息选择性"是 Attention 的本质，SSM 也能做到" |

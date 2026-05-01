@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-10（Adept AI 团队） |
+| **案发时间** | 2023-10（Adept AI 团队） · [📄 Adept Blog](https://www.adept.ai/blog/fuyu-8b) |
 | **受害者** | "VLM 必须有独立 ViT" 的成见 |
 | **作案凶器** | 把 image patch 直接当 token 喂入 decoder-only transformer |
 | **作案动机** | "ViT + Projector 是冗余结构——decoder 自己学就行" |

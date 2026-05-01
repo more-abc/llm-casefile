@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2024-01（Yan et al., Renmin University） |
+| **案发时间** | 2024-01（Yan et al., Renmin University） · [📄 arXiv 2401.15884](https://arxiv.org/pdf/2401.15884) |
 | **受害者** | 检索器召回的"低质量文档"对 RAG 的污染 |
 | **作案凶器** | 轻量级 retrieval evaluator + 三档分流（Correct / Incorrect / Ambiguous） |
 | **作案动机** | "检索器本身有偏差，必须有第二道防线" |

@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（Lightman et al., arXiv 2305.20050，DeepMind） |
+| **案发时间** | 2023-05（Lightman et al., [arXiv 2305.20050](https://arxiv.org/pdf/2305.20050)，DeepMind） |
 | **受害者** | Outcome Reward Model 的"蒙答案"问题 |
 | **作案凶器** | Process Reward Model + 每步评分 |
 | **结案陈词** | PRM 让 LLM 从"赌答案"变成"做证明题"——在 MATH/GSM8K 上显著超越 ORM |

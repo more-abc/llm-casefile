@@ -16,7 +16,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2014-09-10（arXiv 1409.3215）/ NeurIPS 2014 |
+| **案发时间** | 2014-09-10（[arXiv 1409.3215](https://arxiv.org/pdf/1409.3215)）/ NeurIPS 2014 |
 | **嫌疑人** | Ilya Sutskever, Oriol Vinyals, Quoc V. Le（Google Brain） |
 | **受害者** | 基于短语的统计机器翻译（PBSMT）的复杂 pipeline |
 | **作案凶器** | Encoder LSTM + Decoder LSTM + 反转源序列 trick |

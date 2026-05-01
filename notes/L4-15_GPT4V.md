@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-09（OpenAI，GPT-4V 发布） |
+| **案发时间** | 2023-09（OpenAI，GPT-4V 发布） · [📄 GPT-4V System Card](https://cdn.openai.com/papers/GPTV_System_Card.pdf) |
 | **受害者** | AI 的"视觉盲区"——只能处理文字，无法理解图像 |
 | **作案凶器** | 视觉编码器 + LLM 联合训练 + 多模态融合 |
 | **结案陈词** | GPT-4V 让 AI 可以"看见"并理解图像，实现真正的多模态感知 |

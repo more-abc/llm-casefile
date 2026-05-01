@@ -19,7 +19,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-08-21（Pal et al., Abacus AI，arXiv 2308.10882） |
+| **案发时间** | 2023-08-21（Pal et al., Abacus AI，[arXiv 2308.10882](https://arxiv.org/pdf/2308.10882)） |
 | **受害者** | LLaMA 训练上下文 2048 之外的"灾难性退化" |
 | **作案凶器** | 三大策略组合：linear scaling / NTK-aware / xPos / 截断 base |
 | **作案动机** | "现有 RoPE 模型的上下文能否零样本/低成本拉长？" |

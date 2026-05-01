@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（BigCode = HuggingFace + ServiceNow） |
+| **案发时间** | 2023-05（BigCode = HuggingFace + ServiceNow） · [📄 arXiv 2305.06161](https://arxiv.org/pdf/2305.06161) |
 | **受害者** | 闭源代码模型（Codex / AlphaCode）的不可访问性 |
 | **作案凶器** | The Stack 1T+ tokens 训练 + 8K 上下文 + 完全开源 |
 | **作案动机** | "代码 LLM 的研究需要开源透明" |

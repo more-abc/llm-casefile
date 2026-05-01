@@ -13,7 +13,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-02（DeepMind, Li et al., Science 论文） |
+| **案发时间** | 2022-02（DeepMind, Li et al., Science 论文） · [📄 arXiv 2203.07814](https://arxiv.org/pdf/2203.07814) |
 | **受害者** | 编程竞赛对 LLM 的"难度天花板" |
 | **作案凶器** | Massive Sampling + Clustering + Test Filtering |
 | **作案动机** | "竞赛题对一题概率极低，那就把'多次尝试'做到极致" |

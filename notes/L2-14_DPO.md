@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05-29（NeurIPS 2023 Outstanding Paper） |
+| **案发时间** | 2023-05-29（NeurIPS 2023 Outstanding Paper） · [📄 arXiv 2305.18290](https://arxiv.org/pdf/2305.18290) |
 | **嫌疑人** | Rafael Rafailov, Archit Sharma, Eric Mitchell 等（Stanford） |
 | **受害者** | RLHF 流水线中的 **奖励模型 + PPO 强化学习** |
 | **作案凶器** | 一道闭式解推导：**LM 自身就是隐式奖励模型** |

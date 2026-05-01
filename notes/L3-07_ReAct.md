@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-10-06（Yao et al., Princeton + Google Brain） |
+| **案发时间** | 2022-10-06（Yao et al., Princeton + Google Brain） · [📄 arXiv 2210.03629](https://arxiv.org/pdf/2210.03629) |
 | **嫌疑人** | Shunyu Yao, Jeffrey Zhao, Dian Yu 等 |
 | **受害者** | "LLM 是封闭脑回路、不能与外部交互" 的旧观念 |
 | **作案凶器** | 一个简单的 Prompt 模板：`Thought → Action → Observation` 循环 |

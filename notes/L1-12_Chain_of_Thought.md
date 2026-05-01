@@ -15,7 +15,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2022-01-28（Wei et al., Google Brain） |
+| **案发时间** | 2022-01-28（Wei et al., Google Brain） · [📄 arXiv 2201.11903](https://arxiv.org/pdf/2201.11903) |
 | **嫌疑人** | Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou |
 | **作案凶器** | 在 prompt 里给 **8 个人写的带中间步骤示例**（few-shot CoT） |
 | **结案陈词** | 多步推理能力一直在大模型里，缺的是把链路显化的 prompt 姿势。代价：写 8 个示例。 |

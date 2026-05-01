@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2024-08（Albert Gu et al., Carnegie Mellon + Canalys） |
+| **案发时间** | 2024-08（Albert Gu et al., Carnegie Mellon + Canalys） · [📄 arXiv 2405.21060](https://arxiv.org/pdf/2405.21060) |
 | **受害者** | Mamba 的并行性和某些任务的效果局限 |
 | **作案凶器** | 状态空间扩展 + 并行计算优化 + 可选混合架构 |
 | **结案陈词** | Mamba-2 在保持 O(N) 效率的同时，提升了模型表达能力 |

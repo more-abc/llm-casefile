@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2023-05（Liu et al., Microsoft +，威斯康星大学，arXiv 2304.08485） |
+| **案发时间** | 2023-05（Liu et al., Microsoft +，威斯康星大学，[arXiv 2304.08485](https://arxiv.org/pdf/2304.08485)） |
 | **受害者** | GPT-4V 的"闭源垄断"——只有 API，无法定制，无法研究 |
 | **作案凶器** | CLIP Vision Encoder + Vicuna LLM + 线性投影层 |
 | **结案陈词** | LLaVA 用开源模型复现了 GPT-4V 的核心能力，推动了多模态 AI 的民主化 |

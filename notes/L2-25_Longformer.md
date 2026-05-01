@@ -14,7 +14,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2020-04（Beltagy et al., AllenAI，arXiv 2004.05150） |
+| **案发时间** | 2020-04（Beltagy et al., AllenAI，[arXiv 2004.05150](https://arxiv.org/pdf/2004.05150)） |
 | **受害者** | 标准 Attention 的 O(N²) 复杂度，无法处理长文档 |
 | **作案凶器** | 滑动窗口注意力 + 全局注意力 +  dilated 窗口 |
 | **结案陈词** | Longformer 实现了 4K→16K 序列的线性化，成为 Long Context 的先驱 |

@@ -11,7 +11,7 @@
 
 | 案情要素 | 内容 |
 |---|---|
-| **案发时间** | 2017-06-12（arXiv 1706.03762 上线日） |
+| **案发时间** | 2017-06-12（[arXiv 1706.03762](https://arxiv.org/pdf/1706.03762) 上线日） |
 | **嫌疑人** | Vaswani, Shazeer, Parmar et al.（Google Brain & Research，共 8 人） |
 | **受害者** | RNN / LSTM / GRU 王朝（统治 NLP 长达 20 年） |
 | **作案凶器** | Self-Attention + Multi-Head + Positional Encoding |
