@@ -13,6 +13,6 @@
   * [L3 架构生态](README.md#l3-架构与生态30-篇)
   * [L4 前沿应用](README.md#l4-前沿与应用30-篇)
 * 🛠️ 仓库
-  * [行为准则](./CODE_OF_CONDUCT.md)
-  * [贡献指南](./CONTRIBUTING.md)
+  * [行为准则](.github/CODE_OF_CONDUCT.md)
+  * [贡献指南](.github/CONTRIBUTING.md)
   * [GitHub](https://github.com/more-abc/llm-casefile)
