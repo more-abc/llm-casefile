@@ -34,6 +34,7 @@
 | **L1-01** | [Attention Is All You Need](./notes/L1-01_Attention_Is_All_You_Need.md) | ⭐⭐⭐⭐⭐ | 🕵️ 创世悬案 | RNN 王朝的颠覆者，LLM 的入场券 |
 | **L1-02** | [BERT](./notes/L1-02_BERT.md) | ⭐⭐⭐⭐⭐ | 📖 双向阅读 | NLP 的"读者"哲学 |
 | **L1-03** | [GPT-1/2](./notes/L1-03_GPT1.md) | ⭐⭐⭐⭐⭐ | 📈 作家诞生 | 预测下一个词就能创造世界 |
+| **L1-04** | [GPT-2](./notes/L1-04_GPT2.md) | ⭐⭐⭐⭐⭐ | 📰 零样本觉醒 | 规模一上去，零样本能力涌现 |
 | **L1-05** | [Neural Machine Translation](./notes/L1-05_Neural_Machine_Translation.md) | ⭐⭐⭐ | 🌐 早期翻译 | Seq2Seq 的雏形 |
 | **L1-06** | [Seq2Seq](./notes/L1-06_Seq2Seq.md) | ⭐⭐⭐⭐ | 🔁 序列对序列 | Encoder-Decoder 范式 |
 | **L1-07** | [Word2Vec](./notes/L1-07_Word2Vec.md) | ⭐⭐⭐⭐ | 🧬 语义向量 | 让"词"有了数学坐标 |
@@ -115,6 +116,7 @@
 | ID | 论文 | 推荐 | 叙事母题 |
 |---|---|---|---|
 | **L3-07** | [ReAct](./notes/L3-07_ReAct.md) | ⭐⭐⭐⭐⭐ | 🔁 思而后行 |
+| **L3-08** | [Toolformer (自教学版)](./notes/L3-08_Toolformer.md) | ⭐⭐⭐⭐⭐ | 🛠️ 自教成才 |
 | **L3-09** | [Generative Agents](./notes/L3-09_Generative_Agents.md) | ⭐⭐⭐⭐⭐ | 🏘️ 虚拟小镇 |
 | **L3-10** | [AutoGPT](./notes/L3-10_AutoGPT.md) | ⭐⭐⭐⭐ | 🤖 自主智能体 |
 | **L3-11** | [HuggingGPT](./notes/L3-11_HuggingGPT.md) | ⭐⭐⭐⭐ | 🎮 调度中枢 |

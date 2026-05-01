@@ -8,7 +8,8 @@
 * **📑 L1 基础地基**
   * [L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)
   * [L1-02 BERT](notes/L1-02_BERT.md)
-  * [L1-03 GPT-1 / GPT-2](notes/L1-03_GPT1.md)
+  * [L1-03 GPT-1](notes/L1-03_GPT1.md)
+  * [L1-04 GPT-2](notes/L1-04_GPT2.md)
   * [L1-05 Neural Machine Translation](notes/L1-05_Neural_Machine_Translation.md)
   * [L1-06 Seq2Seq](notes/L1-06_Seq2Seq.md)
   * [L1-07 Word2Vec](notes/L1-07_Word2Vec.md)
@@ -62,6 +63,7 @@
     * [L3-06 Base Layers MoE](notes/L3-06_BaseLayers_MoE.md)
   * **— Agent 生态 —**
     * [L3-07 ReAct](notes/L3-07_ReAct.md)
+    * [L3-08 Toolformer](notes/L3-08_Toolformer.md)
     * [L3-09 Generative Agents](notes/L3-09_Generative_Agents.md)
     * [L3-10 AutoGPT](notes/L3-10_AutoGPT.md)
     * [L3-11 HuggingGPT](notes/L3-11_HuggingGPT.md)
