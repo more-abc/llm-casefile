@@ -94,63 +94,6 @@
 | 📅 **1 个月精读** | 所有 ⭐⭐⭐⭐⭐ + 复现核心代码 | 工程师上岗 |
 | 📅 **3 个月研究** | 全部读完 + 跟进每篇延伸卷宗 | 做 LLM 研究 |
 
----
-
-## 🛠️ 本地预览 / 部署
-
-### 方式 1：直接打开（无需任何环境）
-所有笔记都是纯 Markdown，**任何 Markdown 阅读器** 都能直接读：
-- VSCode（推荐：装 `Markdown Preview Enhanced` 插件）
-- Typora、Obsidian、Marktext、Logseq …
-
-### 方式 2：本地起 Docsify 站点
-```bash
-# 任选其一
-npx docsify-cli serve .
-# 或
-python -m http.server 3000
-# 或
-npm i -g docsify-cli && docsify serve .
-```
-然后打开 <http://localhost:3000> 即可。
-
-### 方式 3：部署到 GitHub Pages（一键自动）
-1. Fork 本仓库到自己账号
-2. 进入 **Settings → Pages**
-3. **Source**：选择 `Deploy from a branch`
-4. **Branch**：`main` / `(root)`，保存
-5. 几十秒后访问 `https://<your-username>.github.io/<repo-name>/`
-
-> 仓库已包含 `index.html`、`.nojekyll`、`_sidebar.md`、`_navbar.md`、`_coverpage.md`、
-> 以及 `.github/workflows/pages.yml`——可直接 Pages，零配置。
-
----
-
-## 🧱 仓库结构
-
-```
-.
-├── index.html              # Docsify 入口（GitHub Pages 静态站点）
-├── README.md               # GitHub 首页 / Docsify 主页（你正在看）
-├── INDEX.md                # 完整论文目录（详细分类）
-├── _sidebar.md             # Docsify 左侧导航
-├── _navbar.md              # Docsify 顶部导航
-├── _coverpage.md           # Docsify 封面页
-├── .nojekyll               # 关闭 GitHub Pages 的 Jekyll
-├── LICENSE                 # MIT
-├── CONTRIBUTING.md         # 贡献指南
-├── .gitignore
-├── .github/workflows/
-│   └── pages.yml           # 自动 deploy 到 GitHub Pages
-│
-└── notes/                  # 100 篇论文案件体笔记
-    ├── L1-01_Attention_Is_All_You_Need.md
-    ├── L1-02_BERT.md
-    ├── …
-    └── L4-30_StarCoder.md
-```
-
----
 
 ## 🎨 笔记体例速查
 
