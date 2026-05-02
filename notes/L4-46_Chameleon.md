@@ -321,8 +321,8 @@ Chameleon 给我最大的启发：**接口不是免费的**。
 - 📚 VQ-VAE (Oord et al. 2017)
 
 ### 后续推荐
-- 🎯 [L4-47 LLaVA-OneVision](./PDFs/L4-47_LLaVA_OneVision.pdf)（late-fusion 的最新优化）
-- 🎯 [L4-50 Qwen2-VL](./PDFs/L4-50_Qwen2_VL.pdf)（late-fusion + M-RoPE）
+- 🎯 [L4-47 LLaVA-OneVision](./L4-47_LLaVA_OneVision.md)（late-fusion 的最新优化）
+- 🎯 [L4-50 Qwen2-VL](./L4-50_Qwen2_VL.md)（late-fusion + M-RoPE）
 - 🎯 Transfusion (arXiv 2408.11039) — Meta 的 early-fusion 改进版
 - 🎯 GPT-4o 技术报告（虽然不公开，但思路与 Chameleon 一致）
 
@@ -362,4 +362,4 @@ print(processor.decode(out[0]))
 | 推荐指数 | ⭐⭐⭐⭐⭐ |
 | 学习时长 | 30s / 3min / 30min / 3h |
 | 上次更新 | 2026-05-01 |
-| 下一站 | → [L4-47 LLaVA-OneVision](./PDFs/L4-47_LLaVA_OneVision.pdf) |
+| 下一站 | → [L4-47 LLaVA-OneVision](./L4-47_LLaVA_OneVision.md) |
