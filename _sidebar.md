@@ -22,6 +22,9 @@
   * [L1-14 LM are Reasoners](notes/L1-14_Language_Models_are_Reasoners.md)
   * [L1-15 Self-Consistency](notes/L1-15_Self_Consistency.md)
   * [L1-17 LLaMA](notes/L1-17_LLaMA.md)
+  * [L1-21 Qwen2.5](notes/L1-21_Qwen2_5.md)
+  * [L1-22 FineWeb](notes/L1-22_FineWeb.md)
+  * 📥 [L1-23 Phi-3](PDFs/L1-23_Phi_3.pdf) `PDF·待写`
 
 * **🛠️ L2 训练与对齐**
   * **— Scaling 法则 —**
@@ -43,6 +46,10 @@
     * [L2-16 DPO vs PPO](notes/L2-16_DPO_vs_PPO.md)
     * [L2-17 RLAIF](notes/L2-17_RLAIF.md)
     * [L2-18 Self-Rewarding LM](notes/L2-18_Self_Rewarding_LM.md)
+    * [L2-27 SimPO](notes/L2-27_SimPO.md)
+    * [L2-29 KTO](notes/L2-29_KTO.md)
+    * 📥 [L2-31 Tülu 3](PDFs/L2-31_Tulu_3.pdf) `PDF·待写`
+    * 📥 [L2-32 SPIN](PDFs/L2-32_SPIN.pdf) `PDF·待写`
   * **— 架构组件优化 —**
     * [L2-19 RoPE](notes/L2-19_RoPE.md)
     * [L2-20 ALiBi](notes/L2-20_ALiBi.md)
@@ -54,6 +61,13 @@
     * [L2-26 GQA](notes/L2-26_GQA.md)
     * [L2-28 BFloat16](notes/L2-28_BFloat16.md)
     * [L2-30 BigBird](notes/L2-30_BigBird.md)
+    * 📥 [L2-33 DeepSeek-V2 (MLA)](PDFs/L2-33_DeepSeek_V2_MLA.pdf) `PDF·待写`
+    * 📥 [L2-34 Differential Transformer](PDFs/L2-34_Differential_Transformer.pdf) `PDF·待写`
+  * **— 推理加速 / 训练效率 —**
+    * 📥 [L2-35 Medusa](PDFs/L2-35_Medusa.pdf) `PDF·待写`
+    * [L2-36 FlashAttention-3](notes/L2-36_FlashAttention_3.md)
+    * 📥 [L2-37 EAGLE-2](PDFs/L2-37_EAGLE_2.pdf) `PDF·待写`
+    * 📥 [L2-38 GaLore](PDFs/L2-38_GaLore.pdf) `PDF·待写`
 
 * **🌐 L3 架构与生态**
   * **— Mixture of Experts —**
@@ -62,6 +76,7 @@
     * [L3-03 GShard](notes/L3-03_GShard.md)
     * [L3-04 Switch Transformer](notes/L3-04_Switch_Transformer.md)
     * [L3-06 Base Layers MoE](notes/L3-06_BaseLayers_MoE.md)
+    * [L3-31 DeepSeek-V3](notes/L3-31_DeepSeek_V3.md)
   * **— Agent 生态 —**
     * [L3-07 ReAct](notes/L3-07_ReAct.md)
     * [L3-08 Toolformer](notes/L3-08_Toolformer.md)
@@ -71,6 +86,9 @@
     * [L3-12 Visual Agent](notes/L3-12_Visual_Agent.md)
     * [L3-13 Toolformer](notes/L3-13_Toolformer.md)
     * [L3-13b Tool Learning Code Llama](notes/L3-13_Tool_Learning_CodeLlama.md)
+    * 📥 [L3-35 SWE-Agent](PDFs/L3-35_SWE_Agent.pdf) `PDF·待写`
+    * 📥 [L3-36 OpenHands (OpenDevin)](PDFs/L3-36_OpenHands.pdf) `PDF·待写`
+    * 📥 [L3-37 Agentless](PDFs/L3-37_Agentless.pdf) `PDF·待写`
   * **— RAG 全家桶 —**
     * [L3-14 WebGPT](notes/L3-14_WebGPT.md)
     * [L3-15 RAG](notes/L3-15_RAG.md)
@@ -79,6 +97,9 @@
     * [L3-18 Corrective RAG](notes/L3-18_Corrective_RAG.md)
     * [L3-19 Query Augmentation](notes/L3-19_RAG_Query_Augmentation.md)
     * [L3-20 Knowledge Graph RAG](notes/L3-20_Knowledge_Graph_RAG.md)
+    * [L3-32 GraphRAG (Microsoft)](notes/L3-32_GraphRAG.md)
+    * 📥 [L3-33 RAFT](PDFs/L3-33_RAFT.pdf) `PDF·待写`
+    * 📥 [L3-34 LightRAG](PDFs/L3-34_LightRAG.pdf) `PDF·待写`
   * **— PEFT 参数高效微调 —**
     * [L3-21 LoRA](notes/L3-21_LoRA.md)
     * [L3-22 QLoRA](notes/L3-22_QLoRA.md)
@@ -98,17 +119,30 @@
     * [L4-03 MCTS for LLM](notes/L4-03_MCTS_LLM.md)
     * [L4-04 Process Reward Model](notes/L4-04_Process_Reward_Model.md)
     * [L4-05 STaR](notes/L4-05_STaR.md)
+    * [L4-31 DeepSeek-R1](notes/L4-31_DeepSeek_R1.md)
+    * [L4-32 s1 Test-Time Scaling](notes/L4-32_s1_Test_Time_Scaling.md)
+    * [L4-33 Kimi k1.5](notes/L4-33_Kimi_k1_5.md)
+    * 📥 [L4-34 Scaling Test-Time Compute](PDFs/L4-34_Scaling_Test_Time_Compute.pdf) `PDF·待写`
+    * 📥 [L4-35 rStar-Math](PDFs/L4-35_rStar_Math.pdf) `PDF·待写`
+    * 📥 [L4-36 LIMO](PDFs/L4-36_LIMO.pdf) `PDF·待写`
   * **— 新架构（非 Transformer）—**
     * [L4-06 Mamba](notes/L4-06_Mamba.md)
     * [L4-07 Mamba 2](notes/L4-07_Mamba2.md)
     * [L4-08 RetNet](notes/L4-08_RetNet.md)
     * [L4-09 RWKV](notes/L4-09_RWKV.md)
     * [L4-10 Griffin](notes/L4-10_Griffin.md)
+    * [L4-39 Jamba](notes/L4-39_Jamba.md)
+    * 📥 [L4-40 xLSTM](PDFs/L4-40_xLSTM.pdf) `PDF·待写`
+    * 📥 [L4-41 Titans](PDFs/L4-41_Titans.pdf) `PDF·待写`
+    * 📥 [L4-42 Hymba](PDFs/L4-42_Hymba.pdf) `PDF·待写`
   * **— 长上下文 —**
     * [L4-11 LM Infinite](notes/L4-11_LM_Infinite.md)
     * [L4-12 PoSE](notes/L4-12_PoSE.md)
     * [L4-13 Giraffe](notes/L4-13_Giraffe.md)
     * [L4-14 YaRN](notes/L4-14_YaRN.md)
+    * [L4-43 LongRoPE](notes/L4-43_LongRoPE.md)
+    * 📥 [L4-44 Infini-Attention](PDFs/L4-44_Infini_Attention.pdf) `PDF·待写`
+    * 📥 [L4-45 InfLLM](PDFs/L4-45_InfLLM.pdf) `PDF·待写`
   * **— 多模态 —**
     * [L4-15 GPT-4V](notes/L4-15_GPT4V.md)
     * [L4-16 LLaVA](notes/L4-16_LLaVA.md)
@@ -116,11 +150,18 @@
     * [L4-18 CogVLM](notes/L4-18_CogVLM.md)
     * [L4-19 Fuyu-8B](notes/L4-19_Fuyu8B.md)
     * [L4-20 Kosmos-1](notes/L4-20_Kosmos1.md)
+    * [L4-46 Chameleon](notes/L4-46_Chameleon.md)
+    * 📥 [L4-47 LLaVA-OneVision](PDFs/L4-47_LLaVA_OneVision.pdf) `PDF·待写`
+    * 📥 [L4-48 Molmo + PixMo](PDFs/L4-48_Molmo_PixMo.pdf) `PDF·待写`
+    * 📥 [L4-49 InternVL 1.5](PDFs/L4-49_InternVL_1_5.pdf) `PDF·待写`
+    * [L4-50 Qwen2-VL](notes/L4-50_Qwen2_VL.md)
   * **— 安全与可靠性 —**
     * [L4-21 RLAP Safety](notes/L4-21_RLAP_Safety.md)
     * [L4-22 Red Teaming LLM](notes/L4-22_Red_Teaming_LLM.md)
     * [L4-23 LLM Fuzzing](notes/L4-23_LLM_Fuzzing.md)
     * [L4-25 Sycophancy](notes/L4-25_Sycophancy.md)
+    * [L4-37 Sleeper Agents](notes/L4-37_Sleeper_Agents.md)
+    * 📥 [L4-38 Many-Shot Jailbreaking](PDFs/L4-38_Many_Shot_Jailbreaking.pdf) `PDF·待写`
   * **— 垂直领域 —**
     * [L4-24 LLMTime](notes/L4-24_LLMTime.md)
     * [L4-26 MedPaLM](notes/L4-26_MedPaLM.md)

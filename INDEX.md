@@ -47,6 +47,9 @@
 | **L1-14** | [Language Models are Reasoners](./notes/L1-14_Language_Models_are_Reasoners.md) | ⭐⭐⭐⭐ | 🧮 推理者 | 涌现的推理能力 |
 | **L1-15** | [Self-Consistency](./notes/L1-15_Self_Consistency.md) | ⭐⭐⭐⭐ | 🗳️ 多数派 | 多次采样投票 |
 | **L1-17** | [LLaMA](./notes/L1-17_LLaMA.md) | ⭐⭐⭐⭐⭐ | 🦙 开源燎原 | 开源 LLM 的新基准 |
+| **L1-21** | [Qwen2.5 Tech Report](./notes/L1-21_Qwen2_5.md) | ⭐⭐⭐⭐⭐ | 🇨🇳 中文之光 | 阿里 2024 年最强开源全家桶 |
+| **L1-22** | [FineWeb (15T tokens)](./notes/L1-22_FineWeb.md) | ⭐⭐⭐⭐ | 📚 数据洪流 | HuggingFace 开源最大高质量 web 语料 |
+| **L1-23** | 📥 [Phi-3 Tech Report](./PDFs/L1-23_Phi_3.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🔬 小而精 | 3.8B 小模型靠合成数据超 Mixtral |
 
 ---
 
@@ -80,6 +83,10 @@
 | **L2-16** | [DPO vs PPO](./notes/L2-16_DPO_vs_PPO.md) | ⭐⭐⭐⭐ | ⚖️ 路线之争 |
 | **L2-17** | [RLAIF](./notes/L2-17_RLAIF.md) | ⭐⭐⭐ | 🤖 AI 民主 |
 | **L2-18** | [Self-Rewarding LM](./notes/L2-18_Self_Rewarding_LM.md) | ⭐⭐⭐⭐ | 🔄 自我奖励 |
+| **L2-27** | [SimPO](./notes/L2-27_SimPO.md) | ⭐⭐⭐⭐⭐ | 📐 无参考偏好优化 |
+| **L2-29** | [KTO](./notes/L2-29_KTO.md) | ⭐⭐⭐⭐ | 🎲 前景理论对齐 |
+| **L2-31** | 📥 [Tülu 3](./PDFs/L2-31_Tulu_3.pdf) `PDF·待写` | ⭐⭐⭐⭐⭐ | 📚 开源后训练全配方 |
+| **L2-32** | 📥 [SPIN](./PDFs/L2-32_SPIN.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🔄 自博弈对齐 |
 
 ### 🧱 架构组件优化
 
@@ -95,6 +102,12 @@
 | **L2-26** | [GQA](./notes/L2-26_GQA.md) | ⭐⭐⭐⭐⭐ | 🗝️ 分组 KV |
 | **L2-28** | [BFloat16](./notes/L2-28_BFloat16.md) | ⭐⭐⭐⭐ | 🔢 混合精度 |
 | **L2-30** | [BigBird](./notes/L2-30_BigBird.md) | ⭐⭐⭐⭐ | 🐦 稀疏 + 全局 |
+| **L2-33** | 📥 [DeepSeek-V2 (MLA)](./PDFs/L2-33_DeepSeek_V2_MLA.pdf) `PDF·待写` | ⭐⭐⭐⭐⭐ | 🗝️ 多头潜在注意力 |
+| **L2-34** | 📥 [Differential Transformer](./PDFs/L2-34_Differential_Transformer.pdf) `PDF·待写` | ⭐⭐⭐⭐ | ➗ 差分注意力 |
+| **L2-35** | 📥 [Medusa](./PDFs/L2-35_Medusa.pdf) `PDF·待写` | ⭐⭐⭐⭐ | ⚡ 多头推测解码 |
+| **L2-36** | [FlashAttention-3](./notes/L2-36_FlashAttention_3.md) | ⭐⭐⭐⭐⭐ | ⚡ H100 异步 + FP8 |
+| **L2-37** | 📥 [EAGLE-2](./PDFs/L2-37_EAGLE_2.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🦅 动态 Draft 树 |
+| **L2-38** | 📥 [GaLore](./PDFs/L2-38_GaLore.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 💾 低秩梯度投影 |
 
 ---
 
@@ -111,6 +124,7 @@
 | **L3-03** | [GShard](./notes/L3-03_GShard.md) | ⭐⭐⭐⭐ | 🌐 大规模分片 |
 | **L3-04** | [Switch Transformer](./notes/L3-04_Switch_Transformer.md) | ⭐⭐⭐⭐⭐ | 🔀 简化门控 |
 | **L3-06** | [Base Layers MoE](./notes/L3-06_BaseLayers_MoE.md) | ⭐⭐⭐⭐ | 🪜 平衡负载 |
+| **L3-31** | [DeepSeek-V3](./notes/L3-31_DeepSeek_V3.md) | ⭐⭐⭐⭐⭐ | 🧩 671B MoE + FP8 |
 
 ### 🤖 Agent 生态
 
@@ -124,6 +138,9 @@
 | **L3-12** | [Visual Agent](./notes/L3-12_Visual_Agent.md) | ⭐⭐⭐⭐ | 🖼️ 视觉问答 |
 | **L3-13** | [Toolformer](./notes/L3-13_Toolformer.md) | ⭐⭐⭐⭐⭐ | 🛠️ 工具学会 |
 | **L3-13b** | [Tool Learning Code Llama](./notes/L3-13_Tool_Learning_CodeLlama.md) | ⭐⭐⭐ | 🛠️ 函数即工具 |
+| **L3-35** | 📥 [SWE-Agent](./PDFs/L3-35_SWE_Agent.pdf) `PDF·待写` | ⭐⭐⭐⭐⭐ | 🛠️ 代码 Agent 接口 |
+| **L3-36** | 📥 [OpenHands (OpenDevin)](./PDFs/L3-36_OpenHands.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🧑‍💻 开源软件工程师 |
+| **L3-37** | 📥 [Agentless](./PDFs/L3-37_Agentless.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🚫 无框架打败 Agent |
 
 ### 🔍 RAG 全家桶
 
@@ -136,6 +153,9 @@
 | **L3-18** | [Corrective RAG](./notes/L3-18_Corrective_RAG.md) | ⭐⭐⭐ | 🔧 纠错机制 |
 | **L3-19** | [Query Augmentation](./notes/L3-19_RAG_Query_Augmentation.md) | ⭐⭐⭐ | 🔄 桥梁 |
 | **L3-20** | [Knowledge Graph RAG](./notes/L3-20_Knowledge_Graph_RAG.md) | ⭐⭐⭐ | 🕸️ 结构化检索 |
+| **L3-32** | [GraphRAG (Microsoft)](./notes/L3-32_GraphRAG.md) | ⭐⭐⭐⭐⭐ | 🕸️ 图增强 RAG |
+| **L3-33** | 📥 [RAFT](./PDFs/L3-33_RAFT.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🎯 域特定 RAG 微调 |
+| **L3-34** | 📥 [LightRAG](./PDFs/L3-34_LightRAG.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 💡 双层检索 |
 
 ### 🪶 PEFT（参数高效微调）
 
@@ -167,6 +187,12 @@
 | **L4-03** | [MCTS for LLM](./notes/L4-03_MCTS_LLM.md) | ⭐⭐⭐ | 🌲 树搜索 |
 | **L4-04** | [Process Reward Model](./notes/L4-04_Process_Reward_Model.md) | ⭐⭐⭐⭐ | ⭐ 过程打分 |
 | **L4-05** | [STaR](./notes/L4-05_STaR.md) | ⭐⭐⭐⭐ | 🚀 自驱动 |
+| **L4-31** | [DeepSeek-R1](./notes/L4-31_DeepSeek_R1.md) | ⭐⭐⭐⭐⭐ | 🧠 纯 RL 涌现思维链 |
+| **L4-32** | [s1 Simple Test-Time Scaling](./notes/L4-32_s1_Test_Time_Scaling.md) | ⭐⭐⭐⭐ | ⏳ 1K 样本 + Wait |
+| **L4-33** | [Kimi k1.5](./notes/L4-33_Kimi_k1_5.md) | ⭐⭐⭐⭐⭐ | 🌙 月之暗面 RL 配方 |
+| **L4-34** | 📥 [Scaling Test-Time Compute](./PDFs/L4-34_Scaling_Test_Time_Compute.pdf) `PDF·待写` | ⭐⭐⭐⭐ | ⏳ TTS vs 参数权衡 |
+| **L4-35** | 📥 [rStar-Math](./PDFs/L4-35_rStar_Math.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🌟 7B + MCTS 自进化 |
+| **L4-36** | 📥 [LIMO](./PDFs/L4-36_LIMO.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 💎 Less is More |
 
 ### 🌊 新架构（非 Transformer）
 
@@ -177,6 +203,10 @@
 | **L4-08** | [RetNet](./notes/L4-08_RetNet.md) | ⭐⭐⭐⭐ | 🔁 保留网络 |
 | **L4-09** | [RWKV](./notes/L4-09_RWKV.md) | ⭐⭐⭐⭐ | 🪞 线性 RNN |
 | **L4-10** | [Griffin](./notes/L4-10_Griffin.md) | ⭐⭐⭐⭐ | 🦅 混合架构 |
+| **L4-39** | [Jamba](./notes/L4-39_Jamba.md) | ⭐⭐⭐⭐⭐ | 🔀 Transformer + Mamba |
+| **L4-40** | 📥 [xLSTM](./PDFs/L4-40_xLSTM.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🔁 LSTM 复兴 |
+| **L4-41** | 📥 [Titans](./PDFs/L4-41_Titans.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🏛️ 测试时记忆训练 |
+| **L4-42** | 📥 [Hymba](./PDFs/L4-42_Hymba.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🦄 Attn + SSM 并行头 |
 
 ### 📜 长上下文
 
@@ -186,6 +216,9 @@
 | **L4-12** | [PoSE](./notes/L4-12_PoSE.md) | ⭐⭐⭐⭐ | 🪄 位置外推 |
 | **L4-13** | [Giraffe](./notes/L4-13_Giraffe.md) | ⭐⭐⭐ | 🦒 长颈伸展 |
 | **L4-14** | [YaRN](./notes/L4-14_YaRN.md) | ⭐⭐⭐⭐ | 🧶 旋转伸缩 |
+| **L4-43** | [LongRoPE](./notes/L4-43_LongRoPE.md) | ⭐⭐⭐⭐⭐ | 🧵 2M 上下文 |
+| **L4-44** | 📥 [Infini-Attention](./PDFs/L4-44_Infini_Attention.pdf) `PDF·待写` | ⭐⭐⭐⭐ | ♾️ 压缩记忆 |
+| **L4-45** | 📥 [InfLLM](./PDFs/L4-45_InfLLM.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 📖 零训练 1M |
 
 ### 👁️ 多模态
 
@@ -197,6 +230,11 @@
 | **L4-18** | [CogVLM](./notes/L4-18_CogVLM.md) | ⭐⭐⭐⭐ | 🔢 深度融合 |
 | **L4-19** | [Fuyu-8B](./notes/L4-19_Fuyu8B.md) | ⭐⭐⭐⭐ | 📱 随身 AI |
 | **L4-20** | [Kosmos-1](./notes/L4-20_Kosmos1.md) | ⭐⭐⭐⭐ | 🌍 原生感知 |
+| **L4-46** | [Chameleon](./notes/L4-46_Chameleon.md) | ⭐⭐⭐⭐⭐ | 🦎 Mixed-modal early-fusion |
+| **L4-47** | 📥 [LLaVA-OneVision](./PDFs/L4-47_LLaVA_OneVision.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 👁️ 单图/多图/视频统一 |
+| **L4-48** | 📥 [Molmo + PixMo](./PDFs/L4-48_Molmo_PixMo.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🎨 开源 VLM 超闭源 |
+| **L4-49** | 📥 [InternVL 1.5](./PDFs/L4-49_InternVL_1_5.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🌐 动态分辨率 + 双语 OCR |
+| **L4-50** | [Qwen2-VL](./notes/L4-50_Qwen2_VL.md) | ⭐⭐⭐⭐⭐ | 📹 原生 M-RoPE |
 
 ### 🛡️ 安全与可靠性
 
@@ -206,6 +244,8 @@
 | **L4-22** | [Red Teaming LLM](./notes/L4-22_Red_Teaming_LLM.md) | ⭐⭐⭐⭐⭐ | 🐛 以攻促防 |
 | **L4-23** | [LLM Fuzzing](./notes/L4-23_LLM_Fuzzing.md) | ⭐⭐⭐⭐ | 🧪 模糊测试 |
 | **L4-25** | [Sycophancy](./notes/L4-25_Sycophancy.md) | ⭐⭐⭐⭐ | 🤥 谄媚问题 |
+| **L4-37** | [Sleeper Agents](./notes/L4-37_Sleeper_Agents.md) | ⭐⭐⭐⭐⭐ | 😴 隐藏后门 |
+| **L4-38** | 📥 [Many-Shot Jailbreaking](./PDFs/L4-38_Many_Shot_Jailbreaking.pdf) `PDF·待写` | ⭐⭐⭐⭐ | 🔓 长上下文越狱 |
 
 ### 🏥 垂直领域
 
@@ -244,11 +284,14 @@ L3-21 LoRA → L3-22 QLoRA → L3-23 PEFT → L3-25 DoRA → L2-14 DPO
 
 ## 📊 本笔记集统计
 
-- **论文数量** 100 篇（覆盖 2014-2024 主流 LLM 研究）
-- **总字数**：约 60 万字
+- **论文数量**：100 篇已完成 笔记 + 40 篇 📥 PDF 待写（合计 140 篇，覆盖 2014-2026.04 主流 LLM 研究）
+- **总字数**：约 60 万字（待写部分不计）
 - **格式版本**：「案件体」（侦探叙事 + 多档学习路径）
 - **维护者**：mixed
-- **上次更新**：2026-04-30
+- **上次更新**：2026-05-01
+
+> 📥 标志说明：2024-01 至 2026-04 的 40 篇新论文 PDF 已下载入库，槽位 ID 与文件名已分配，等待补写案件体笔记。
+> 详见 [PAPERS_2024_2026_ALLOCATION.md](./PAPERS_2024_2026_ALLOCATION.md)。
 
 ---
 
