@@ -3,7 +3,7 @@
 * **🏠 主页**
   * [首页 README](README.md)
   * [完整目录 INDEX](INDEX.md)
-  * [贡献指南 CONTRIBUTING](CONTRIBUTING.md)
+  * [贡献指南 CONTRIBUTING](.github/CONTRIBUTING.md)
 
 * **📑 L1 基础地基**
   * [L1-01 Attention Is All You Need](notes/L1-01_Attention_Is_All_You_Need.md)
