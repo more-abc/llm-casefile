@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/format-v5%20%E6%A1%88%E4%BB%B6%E4%BD%93-blueviolet?style=flat-square" alt="format" />
   <img src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-red?style=flat-square" alt="lang" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license" />
-  <img src="https://img.shields.io/badge/last%20update-2026--04--30-lightgrey?style=flat-square" alt="update" />
+  <img src="https://img.shields.io/badge/last%20update-2026--05--16-lightgrey?style=flat-square" alt="update" />
 </p>
 
 <p align="center">
