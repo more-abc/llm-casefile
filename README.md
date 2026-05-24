@@ -15,7 +15,7 @@
   <a href="#-30-秒快速开始">🚀 快速开始</a> ·
   <a href="./INDEX.md">📑 完整目录</a> ·
   <a href="#-阅读路径">🛣️ 阅读路径</a> ·
-  <a href=".github/CONTRIBUTING.md">🤝 参与贡献</a>
+  <a href="https://github.com/more-abc/llm-casefile/blob/main/.github/CONTRIBUTING.md">🤝 参与贡献</a>
 </p>
 
 ---
@@ -121,7 +121,7 @@ PR 永远欢迎！可贡献的方向：
 - 🎨 完善 Docsify 主题、添加新插件
 - 📝 补充"3 小时复现"代码片段
 
-详情见 [CONTRIBUTING.md](.github/CONTRIBUTING.md)。
+详情见 [CONTRIBUTING.md](https://github.com/more-abc/llm-casefile/blob/main/.github/CONTRIBUTING.md)。
 
 ### 友情致谢
 本笔记集站在巨人的肩膀上——所有原始论文作者贡献了真正的智慧，本仓库只是把它们整理成更易消化的"案件卷宗"。
@@ -130,7 +130,7 @@ PR 永远欢迎！可贡献的方向：
 
 ## 📜 License
 
-[MIT](./LICENSE) · 笔记内容采用知识共享理念：自由复制、修改、传播，唯一要求是保留来源。
+[MIT](https://github.com/more-abc/llm-casefile/blob/main/LICENSE) · 笔记内容采用知识共享理念：自由复制、修改、传播，唯一要求是保留来源。
 
 > 💡 **附注**：所有原始论文版权归原作者所有；本仓库仅为学习笔记与二次创作。
 

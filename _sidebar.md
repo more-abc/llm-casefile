@@ -172,5 +172,5 @@
 
 ---
 
-* 📜 [MIT License](LICENSE)
+* 📜 [MIT License](https://github.com/more-abc/llm-casefile/blob/main/LICENSE)
 * ⭐ [Star on GitHub](https://github.com/more-abc/llm-casefile)
