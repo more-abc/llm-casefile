@@ -45,7 +45,7 @@
 
 | 你是…… | 推荐 5 篇入门 |
 |---|---|
-| <a id="path-newbie"></a> 🌱 **完全新手** | [Attention](./notes/L1-01_Attention_Is_All_You_Need.md) → [BERT](./notes/L1-02_BERT.md) → [GPT-1](./notes/L1-03_GPT1.md) → [GPT-3](./notes/L1-11_GPT3.md) → [CoT](./notes/L1-12_Chain_of_Thought.md) |
+| <a id="path-newbie"></a> 🌱 **完全新手** | [Attention](./notes/L1-01_Attention_Is_All_You_Need.md) → [GPT-1](./notes/L1-03_GPT1.md) → [BERT](./notes/L1-02_BERT.md) → [GPT-2](./notes/L1-04_GPT2.md) → [GPT-3](./notes/L1-11_GPT3.md) → [CoT](./notes/L1-12_Chain_of_Thought.md) |
 | <a id="path-interview"></a> 💼 **算法面试** | [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [LoRA](./notes/L3-21_LoRA.md) |
 | <a id="path-agent"></a> 🤖 **做 Agent** | [CoT](./notes/L1-12_Chain_of_Thought.md) → [ReAct](./notes/L3-07_ReAct.md) → [Toolformer](./notes/L3-13_Toolformer.md) → [Generative Agents](./notes/L3-09_Generative_Agents.md) → [Visual Agent](./notes/L3-12_Visual_Agent.md) |
 | <a id="path-rag"></a> 🔍 **做 RAG** | [RAG](./notes/L3-15_RAG.md) → [Self-RAG](./notes/L3-17_Self_RAG.md) → [Corrective RAG](./notes/L3-18_Corrective_RAG.md) → [Query Aug](./notes/L3-19_RAG_Query_Augmentation.md) → [KG-RAG](./notes/L3-20_Knowledge_Graph_RAG.md) |
@@ -71,7 +71,7 @@
 ### 高亮章节速链
 
 #### <a id="chapter-l1"></a>L1 基础地基（15 篇）
-[Attention](./notes/L1-01_Attention_Is_All_You_Need.md) · [BERT](./notes/L1-02_BERT.md) · [GPT-1/2](./notes/L1-03_GPT1.md) · [Seq2Seq](./notes/L1-06_Seq2Seq.md) · [Word2Vec](./notes/L1-07_Word2Vec.md) · [Dropout](./notes/L1-08_Dropout.md) · [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [GPT-3](./notes/L1-11_GPT3.md) · [CoT](./notes/L1-12_Chain_of_Thought.md) · [ToT](./notes/L1-13_Tree_of_Thoughts.md) · [Self-Consistency](./notes/L1-15_Self_Consistency.md) · [LLaMA](./notes/L1-17_LLaMA.md)
+[Attention](./notes/L1-01_Attention_Is_All_You_Need.md) · [BERT](./notes/L1-02_BERT.md) · [GPT-1](./notes/L1-03_GPT1.md)· [GPT-2](./notes/L1-04_GPT2.md) · [Seq2Seq](./notes/L1-06_Seq2Seq.md) · [Word2Vec](./notes/L1-07_Word2Vec.md) · [Dropout](./notes/L1-08_Dropout.md) · [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [GPT-3](./notes/L1-11_GPT3.md) · [CoT](./notes/L1-12_Chain_of_Thought.md) · [ToT](./notes/L1-13_Tree_of_Thoughts.md) · [Self-Consistency](./notes/L1-15_Self_Consistency.md) · [LLaMA](./notes/L1-17_LLaMA.md)
 
 #### <a id="chapter-l2"></a>L2 训练与对齐（28 篇）
 [Scaling Laws](./notes/L2-01_Scaling_Laws.md) · [Chinchilla](./notes/L2-03_Chinchilla.md) · [InstructGPT](./notes/L2-05_InstructGPT_RLHF.md) · [PPO](./notes/L2-09_PPO.md) · [Constitutional AI](./notes/L2-12_Constitutional_AI.md) · [DPO](./notes/L2-14_DPO.md) · [ORPO](./notes/L2-15_ORPO.md) · [Self-Rewarding](./notes/L2-18_Self_Rewarding_LM.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [MQA](./notes/L2-22_MQA.md) · [GLU Variants](./notes/L2-23_GLU_Variants.md) · [RMSNorm](./notes/L2-24_RMSNorm.md) · [GQA](./notes/L2-26_GQA.md) · [BFloat16](./notes/L2-28_BFloat16.md) · …
