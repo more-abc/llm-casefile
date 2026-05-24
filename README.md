@@ -4,11 +4,11 @@
 > 有动机、有凶器、有关键证据、有结案陈词。**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/papers-100%2B-42b983?style=flat-square" alt="papers" />
-  <img src="https://img.shields.io/badge/format-v5%20%E6%A1%88%E4%BB%B6%E4%BD%93-blueviolet?style=flat-square" alt="format" />
+  <img src="https://img.shields.io/badge/papers-140%2B-42b983?style=flat-square" alt="papers" />
+  <img src="https://img.shields.io/badge/format-%20%E6%A1%88%E4%BB%B6%E4%BD%93-blueviolet?style=flat-square" alt="format" />
   <img src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-red?style=flat-square" alt="lang" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license" />
-  <img src="https://img.shields.io/badge/last%20update-2026--05--16-lightgrey?style=flat-square" alt="update" />
+  <img src="https://img.shields.io/badge/last%20update-2026--05--24-lightgrey?style=flat-square" alt="update" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## ✨ 这是什么？
 
-**《LLM 百案录》** 是一套系统化的大语言模型核心论文中文笔记集，覆盖 **2014—2024** 年的 **100+ 篇** 关键工作。
+**《LLM 百案录》** 是一套系统化的大语言模型核心论文中文笔记集，覆盖 **2014—2026** 年的 **140+ 篇** 关键工作。
 
 每一篇笔记都遵循统一的 **「案件体」** 格式——把论文当案件来"破"：
 
@@ -43,18 +43,22 @@
 
 ## 🚇 30 秒快速开始
 
-| 你是…… | 推荐 5 篇入门 |
+| 你是…… | 推荐入门路径 |
 |---|---|
 | <a id="path-newbie"></a> 🌱 **完全新手** | [Attention](./notes/L1-01_Attention_Is_All_You_Need.md) → [GPT-1](./notes/L1-03_GPT1.md) → [BERT](./notes/L1-02_BERT.md) → [GPT-2](./notes/L1-04_GPT2.md) → [GPT-3](./notes/L1-11_GPT3.md) → [CoT](./notes/L1-12_Chain_of_Thought.md) |
-| <a id="path-interview"></a> 💼 **算法面试** | [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [LoRA](./notes/L3-21_LoRA.md) |
-| <a id="path-agent"></a> 🤖 **做 Agent** | [CoT](./notes/L1-12_Chain_of_Thought.md) → [ReAct](./notes/L3-07_ReAct.md) → [Toolformer](./notes/L3-13_Toolformer.md) → [Generative Agents](./notes/L3-09_Generative_Agents.md) → [Visual Agent](./notes/L3-12_Visual_Agent.md) |
-| <a id="path-rag"></a> 🔍 **做 RAG** | [RAG](./notes/L3-15_RAG.md) → [Self-RAG](./notes/L3-17_Self_RAG.md) → [Corrective RAG](./notes/L3-18_Corrective_RAG.md) → [Query Aug](./notes/L3-19_RAG_Query_Augmentation.md) → [KG-RAG](./notes/L3-20_Knowledge_Graph_RAG.md) |
-| <a id="path-finetune"></a> 💸 **想低成本微调** | [LoRA](./notes/L3-21_LoRA.md) → [QLoRA](./notes/L3-22_QLoRA.md) → [DoRA](./notes/L3-25_DoRA.md) → [DPO](./notes/L2-14_DPO.md) → [ORPO](./notes/L2-15_ORPO.md) |
-| <a id="path-build"></a> 🏗️ **想搭大模型** | [Transformer](./notes/L1-01_Attention_Is_All_You_Need.md) → [RoPE](./notes/L2-19_RoPE.md) → [FlashAttn](./notes/L2-21_FlashAttention.md) → [GQA](./notes/L2-26_GQA.md) → [LLaMA](./notes/L1-17_LLaMA.md) |
+| <a id="path-interview"></a> 💼 **算法面试** | [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [GQA](./notes/L2-26_GQA.md) · [LoRA](./notes/L3-21_LoRA.md) · [DPO](./notes/L2-14_DPO.md) |
+| <a id="path-agent"></a> 🤖 **做 Agent** | [CoT](./notes/L1-12_Chain_of_Thought.md) → [ReAct](./notes/L3-07_ReAct.md) → [Toolformer](./notes/L3-13_Toolformer.md) → [Generative Agents](./notes/L3-09_Generative_Agents.md) → [SWE-Agent](./notes/L3-35_SWE_Agent.md) → [OpenHands](./notes/L3-36_OpenHands.md) |
+| <a id="path-rag"></a> 🔍 **做 RAG** | [RAG](./notes/L3-15_RAG.md) → [Self-RAG](./notes/L3-17_Self_RAG.md) → [GraphRAG](./notes/L3-32_GraphRAG.md) → [RAFT](./notes/L3-33_RAFT.md) → [LightRAG](./notes/L3-34_LightRAG.md) |
+| <a id="path-finetune"></a> 💸 **想低成本微调** | [LoRA](./notes/L3-21_LoRA.md) → [QLoRA](./notes/L3-22_QLoRA.md) → [DoRA](./notes/L3-25_DoRA.md) → [GaLore](./notes/L2-38_GaLore.md) → [DPO](./notes/L2-14_DPO.md) → [SimPO](./notes/L2-27_SimPO.md) |
+| <a id="path-build"></a> 🏗️ **想搭大模型** | [Transformer](./notes/L1-01_Attention_Is_All_You_Need.md) → [RoPE](./notes/L2-19_RoPE.md) → [FlashAttn](./notes/L2-21_FlashAttention.md) → [GQA](./notes/L2-26_GQA.md) → [MLA](./notes/L2-33_DeepSeek_V2_MLA.md) → [LLaMA](./notes/L1-17_LLaMA.md) → [DeepSeek-V3](./notes/L3-31_DeepSeek_V3.md) |
+| <a id="path-reasoning"></a> 🧠 **想做推理模型** | [CoT](./notes/L1-12_Chain_of_Thought.md) → [Step-by-Step Verify](./notes/L4-01_Lets_Verify_Step_by_Step.md) → [DeepSeek-R1](./notes/L4-31_DeepSeek_R1.md) → [Kimi k1.5](./notes/L4-33_Kimi_k1_5.md) → [s1](./notes/L4-32_s1_Test_Time_Scaling.md) → [LIMO](./notes/L4-36_LIMO.md) |
+| <a id="path-multimodal"></a> 👁️ **想做多模态** | [GPT-4V](./notes/L4-15_GPT4V.md) → [LLaVA](./notes/L4-16_LLaVA.md) → [Chameleon](./notes/L4-46_Chameleon.md) → [LLaVA-OneVision](./notes/L4-47_LLaVA_OneVision.md) → [Qwen2-VL](./notes/L4-50_Qwen2_VL.md) |
+| <a id="path-longctx"></a> 📜 **想做长上下文** | [RoPE](./notes/L2-19_RoPE.md) → [YaRN](./notes/L4-14_YaRN.md) → [LongRoPE](./notes/L4-43_LongRoPE.md) → [Infini-Attention](./notes/L4-44_Infini_Attention.md) → [InfLLM](./notes/L4-45_InfLLM.md) |
+| <a id="path-newarch"></a> 🌊 **想看新架构** | [Mamba](./notes/L4-06_Mamba.md) → [Mamba 2](./notes/L4-07_Mamba2.md) → [RWKV](./notes/L4-09_RWKV.md) → [Jamba](./notes/L4-39_Jamba.md) → [xLSTM](./notes/L4-40_xLSTM.md) → [Titans](./notes/L4-41_Titans.md) |
 
 ---
 
-## 📚 论文地图（4 大层级 · 100+ 篇）
+## 📚 论文地图（4 大层级 · 140+ 篇）
 
 ```
 ┌─ L1 基础地基 ─────────── Transformer / BERT / GPT / Word2Vec / CoT …
@@ -70,17 +74,17 @@
 
 ### 高亮章节速链
 
-#### <a id="chapter-l1"></a>L1 基础地基（15 篇）
-[Attention](./notes/L1-01_Attention_Is_All_You_Need.md) · [BERT](./notes/L1-02_BERT.md) · [GPT-1](./notes/L1-03_GPT1.md)· [GPT-2](./notes/L1-04_GPT2.md) · [Seq2Seq](./notes/L1-06_Seq2Seq.md) · [Word2Vec](./notes/L1-07_Word2Vec.md) · [Dropout](./notes/L1-08_Dropout.md) · [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [GPT-3](./notes/L1-11_GPT3.md) · [CoT](./notes/L1-12_Chain_of_Thought.md) · [ToT](./notes/L1-13_Tree_of_Thoughts.md) · [Self-Consistency](./notes/L1-15_Self_Consistency.md) · [LLaMA](./notes/L1-17_LLaMA.md)
+#### <a id="chapter-l1"></a>L1 基础地基（19 篇）
+[Attention](./notes/L1-01_Attention_Is_All_You_Need.md) · [BERT](./notes/L1-02_BERT.md) · [GPT-1](./notes/L1-03_GPT1.md) · [GPT-2](./notes/L1-04_GPT2.md) · [Seq2Seq](./notes/L1-06_Seq2Seq.md) · [Word2Vec](./notes/L1-07_Word2Vec.md) · [Dropout](./notes/L1-08_Dropout.md) · [LayerNorm](./notes/L1-09_LayerNorm.md) · [Adam](./notes/L1-10_Adam.md) · [GPT-3](./notes/L1-11_GPT3.md) · [CoT](./notes/L1-12_Chain_of_Thought.md) · [ToT](./notes/L1-13_Tree_of_Thoughts.md) · [Self-Consistency](./notes/L1-15_Self_Consistency.md) · [LLaMA](./notes/L1-17_LLaMA.md) · [Qwen2.5](./notes/L1-21_Qwen2_5.md) · [FineWeb](./notes/L1-22_FineWeb.md) · [Phi-3](./notes/L1-23_Phi_3.md)
 
-#### <a id="chapter-l2"></a>L2 训练与对齐（28 篇）
-[Scaling Laws](./notes/L2-01_Scaling_Laws.md) · [Chinchilla](./notes/L2-03_Chinchilla.md) · [InstructGPT](./notes/L2-05_InstructGPT_RLHF.md) · [PPO](./notes/L2-09_PPO.md) · [Constitutional AI](./notes/L2-12_Constitutional_AI.md) · [DPO](./notes/L2-14_DPO.md) · [ORPO](./notes/L2-15_ORPO.md) · [Self-Rewarding](./notes/L2-18_Self_Rewarding_LM.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [MQA](./notes/L2-22_MQA.md) · [GLU Variants](./notes/L2-23_GLU_Variants.md) · [RMSNorm](./notes/L2-24_RMSNorm.md) · [GQA](./notes/L2-26_GQA.md) · [BFloat16](./notes/L2-28_BFloat16.md) · …
+#### <a id="chapter-l2"></a>L2 训练与对齐（37 篇）
+[Scaling Laws](./notes/L2-01_Scaling_Laws.md) · [Chinchilla](./notes/L2-03_Chinchilla.md) · [InstructGPT](./notes/L2-05_InstructGPT_RLHF.md) · [PPO](./notes/L2-09_PPO.md) · [Constitutional AI](./notes/L2-12_Constitutional_AI.md) · [DPO](./notes/L2-14_DPO.md) · [ORPO](./notes/L2-15_ORPO.md) · [Self-Rewarding](./notes/L2-18_Self_Rewarding_LM.md) · [RoPE](./notes/L2-19_RoPE.md) · [FlashAttention](./notes/L2-21_FlashAttention.md) · [MQA](./notes/L2-22_MQA.md) · [GLU Variants](./notes/L2-23_GLU_Variants.md) · [RMSNorm](./notes/L2-24_RMSNorm.md) · [GQA](./notes/L2-26_GQA.md) · [SimPO](./notes/L2-27_SimPO.md) · [BFloat16](./notes/L2-28_BFloat16.md) · [KTO](./notes/L2-29_KTO.md) · [Tülu 3](./notes/L2-31_Tulu_3.md) · [SPIN](./notes/L2-32_SPIN.md) · [DeepSeek-V2 MLA](./notes/L2-33_DeepSeek_V2_MLA.md) · [Differential Transformer](./notes/L2-34_Differential_Transformer.md) · [Medusa](./notes/L2-35_Medusa.md) · [FlashAttention-3](./notes/L2-36_FlashAttention_3.md) · [EAGLE-2](./notes/L2-37_EAGLE_2.md) · [GaLore](./notes/L2-38_GaLore.md) · …
 
-#### <a id="chapter-l3"></a>L3 架构与生态（30 篇）
-[Mixtral](./notes/L3-01_Mixtral.md) · [Switch Transformer](./notes/L3-04_Switch_Transformer.md) · [ReAct](./notes/L3-07_ReAct.md) · [Generative Agents](./notes/L3-09_Generative_Agents.md) · [AutoGPT](./notes/L3-10_AutoGPT.md) · [Visual Agent](./notes/L3-12_Visual_Agent.md) · [Toolformer](./notes/L3-13_Toolformer.md) · [WebGPT](./notes/L3-14_WebGPT.md) · [RAG](./notes/L3-15_RAG.md) · [Self-RAG](./notes/L3-17_Self_RAG.md) · [LoRA](./notes/L3-21_LoRA.md) · [QLoRA](./notes/L3-22_QLoRA.md) · [DoRA](./notes/L3-25_DoRA.md) · [Prefix Tuning](./notes/L3-27_Prefix_Tuning.md) · …
+#### <a id="chapter-l3"></a>L3 架构与生态（37 篇）
+[Mixtral](./notes/L3-01_Mixtral.md) · [Switch Transformer](./notes/L3-04_Switch_Transformer.md) · [ReAct](./notes/L3-07_ReAct.md) · [Generative Agents](./notes/L3-09_Generative_Agents.md) · [AutoGPT](./notes/L3-10_AutoGPT.md) · [Visual Agent](./notes/L3-12_Visual_Agent.md) · [Toolformer](./notes/L3-13_Toolformer.md) · [WebGPT](./notes/L3-14_WebGPT.md) · [RAG](./notes/L3-15_RAG.md) · [Self-RAG](./notes/L3-17_Self_RAG.md) · [LoRA](./notes/L3-21_LoRA.md) · [QLoRA](./notes/L3-22_QLoRA.md) · [DoRA](./notes/L3-25_DoRA.md) · [Prefix Tuning](./notes/L3-27_Prefix_Tuning.md) · [DeepSeek-V3](./notes/L3-31_DeepSeek_V3.md) · [GraphRAG](./notes/L3-32_GraphRAG.md) · [RAFT](./notes/L3-33_RAFT.md) · [LightRAG](./notes/L3-34_LightRAG.md) · [SWE-Agent](./notes/L3-35_SWE_Agent.md) · [OpenHands](./notes/L3-36_OpenHands.md) · [Agentless](./notes/L3-37_Agentless.md) · …
 
-#### <a id="chapter-l4"></a>L4 前沿与应用（30 篇）
-[Step-by-Step Verify](./notes/L4-01_Lets_Verify_Step_by_Step.md) · [STaR](./notes/L4-05_STaR.md) · [Mamba](./notes/L4-06_Mamba.md) · [Mamba 2](./notes/L4-07_Mamba2.md) · [RetNet](./notes/L4-08_RetNet.md) · [RWKV](./notes/L4-09_RWKV.md) · [YaRN](./notes/L4-14_YaRN.md) · [GPT-4V](./notes/L4-15_GPT4V.md) · [LLaVA](./notes/L4-16_LLaVA.md) · [CogVLM](./notes/L4-18_CogVLM.md) · [Red Teaming](./notes/L4-22_Red_Teaming_LLM.md) · [Sycophancy](./notes/L4-25_Sycophancy.md) · [MedPaLM 2](./notes/L4-27_MedPaLM2.md) · [AlphaCode](./notes/L4-28_AlphaCode.md) · [StarCoder](./notes/L4-30_StarCoder.md) · …
+#### <a id="chapter-l4"></a>L4 前沿与应用（50 篇）
+[Step-by-Step Verify](./notes/L4-01_Lets_Verify_Step_by_Step.md) · [STaR](./notes/L4-05_STaR.md) · [Mamba](./notes/L4-06_Mamba.md) · [Mamba 2](./notes/L4-07_Mamba2.md) · [RetNet](./notes/L4-08_RetNet.md) · [RWKV](./notes/L4-09_RWKV.md) · [YaRN](./notes/L4-14_YaRN.md) · [GPT-4V](./notes/L4-15_GPT4V.md) · [LLaVA](./notes/L4-16_LLaVA.md) · [CogVLM](./notes/L4-18_CogVLM.md) · [Red Teaming](./notes/L4-22_Red_Teaming_LLM.md) · [Sycophancy](./notes/L4-25_Sycophancy.md) · [MedPaLM 2](./notes/L4-27_MedPaLM2.md) · [AlphaCode](./notes/L4-28_AlphaCode.md) · [StarCoder](./notes/L4-30_StarCoder.md) · [DeepSeek-R1](./notes/L4-31_DeepSeek_R1.md) · [s1](./notes/L4-32_s1_Test_Time_Scaling.md) · [Kimi k1.5](./notes/L4-33_Kimi_k1_5.md) · [rStar-Math](./notes/L4-35_rStar_Math.md) · [LIMO](./notes/L4-36_LIMO.md) · [Sleeper Agents](./notes/L4-37_Sleeper_Agents.md) · [Many-Shot Jailbreak](./notes/L4-38_Many_Shot_Jailbreaking.md) · [Jamba](./notes/L4-39_Jamba.md) · [xLSTM](./notes/L4-40_xLSTM.md) · [Titans](./notes/L4-41_Titans.md) · [LongRoPE](./notes/L4-43_LongRoPE.md) · [Infini-Attention](./notes/L4-44_Infini_Attention.md) · [InfLLM](./notes/L4-45_InfLLM.md) · [Chameleon](./notes/L4-46_Chameleon.md) · [LLaVA-OneVision](./notes/L4-47_LLaVA_OneVision.md) · [Molmo](./notes/L4-48_Molmo_PixMo.md) · [InternVL 1.5](./notes/L4-49_InternVL_1_5.md) · [Qwen2-VL](./notes/L4-50_Qwen2_VL.md) · …
 
 ---
 
